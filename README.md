@@ -6,17 +6,17 @@
 
 <b>Universidad Peruana de Ciencias Aplicadas</b><br><br>
 Ingeniería de Software<br><br>
-8vo Ciclo<br><br>
+8vo Ciclo<br>
 
 <b>Arquitecturas de Software Emergentes</b><br><br>
-Sección: 11806<br><br>
+Sección: 11806<br>
 
 Profesor: Christian Luis De Los Rios Fernandez<br>
 
 <b>"INFORME DEL TRABAJO FINAL – TB1"</b>
 
-Startup: <b>Oxaira</b><br>
-Producto: <b>AirQ</b>
+Startup: <b>Oxaira</b><br><br>
+Producto: <b>AirQ</b><br>
 
 <b>Integrantes:</b>
 

@@ -1,17 +1,17 @@
 <br><br>
 
-<p align="center">
+<div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="120"/>
 
 <br><br>
 
-<strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+<b>Universidad Peruana de Ciencias Aplicadas</b><br>
 Ingeniería de Software<br>
 8vo Ciclo<br>
 <br>
 
-<strong>Arquitecturas de Software Emergentes</strong><br>
+<b>Arquitecturas de Software Emergentes</b><br>
 Sección: 11806<br>
 <br>
 
@@ -19,48 +19,48 @@ Profesor: Christian Luis De Los Rios Fernandez<br>
 
 <br><br>
 
-<strong>"INFORME DEL TRABAJO FINAL – TB1"</strong>
+<b>"INFORME DEL TRABAJO FINAL – TB1"</b>
 
 <br><br>
 
-Startup: <strong>Oxaira</strong><br>
-Producto: <strong>AirQ</strong>
+Startup: <b>Oxaira</b><br>
+Producto: <b>AirQ</b>
 
 <br><br>
 
-<strong>Integrantes:</strong>
+<b>Integrantes:</b>
 
 <br><br>
 
-<table align="center">
+<table style="margin-left:auto; margin-right:auto; border-collapse:collapse;">
 <tr>
-<th>Apellidos y Nombres</th>
-<th>Código</th>
+<th style="border:1px solid black; padding:8px;">Apellidos y Nombres</th>
+<th style="border:1px solid black; padding:8px;">Código</th>
 </tr>
 
 <tr>
-<td>Eduardo Eusebio Sihuar Ccotarma Ttito</td>
-<td>UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">Eduardo Eusebio Sihuar Ccotarma Ttito</td>
+<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
 </tr>
 
 <tr>
-<td>Daniel Jhared Chávarri Zarzosa</td>
-<td>UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">Daniel Jhared Chávarri Zarzosa</td>
+<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
 </tr>
 
 <tr>
-<td>Marco Antonio Gongora Sanchez</td>
-<td>UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">Marco Antonio Gongora Sanchez</td>
+<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
 </tr>
 
 <tr>
-<td>Andres Fernando Rodriguez Zuluoeta</td>
-<td>UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">Andres Fernando Rodriguez Zuluoeta</td>
+<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
 </tr>
 
 <tr>
-<td>Erick Armando Cueva Elera</td>
-<td>UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">Erick Armando Cueva Elera</td>
+<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
 </tr>
 
 </table>
@@ -69,4 +69,4 @@ Producto: <strong>AirQ</strong>
 
 Abril, 2026
 
-</p>
+</div>

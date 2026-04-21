@@ -1,4 +1,4 @@
-<br><br>
+<img width="511" height="693" alt="image" src="https://github.com/user-attachments/assets/5edd01e3-b08b-4340-92a1-640e8cee2fdd" /><br><br>
 
 <div align="center" style="font-size: 23px";>
 
@@ -212,9 +212,7 @@ Se encargó de la introducción al diseño arquitectónico, participando en la d
 
 ### [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
-### [Contenido](#contenido)
 ### [Student Outcome](#student-outcome)
-
 ---
 
 ## [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -326,3 +324,89 @@ Se encargó de la introducción al diseño arquitectónico, participando en la d
 ## [Conclusiones](#conclusiones)
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
+
+# Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET:
+
+<b>ABET – EAC - Student Outcome 3</b><br>
+Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+<br>
+
+<b>Criterio:</b> Capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+
+<br><br>
+
+En el siguiente cuadro se describen las acciones realizadas por cada integrante del equipo y las conclusiones obtenidas, las cuales evidencian el logro del Student Outcome durante el desarrollo del proyecto <b>AirQ</b>, solución basada en <b>IoT + Machine Learning</b> para el monitoreo inteligente de la calidad del aire.
+
+<br>
+
+<table style="margin-left:auto; margin-right:auto; border-collapse:collapse; width:95%;">
+
+<tr>
+<th style="border:1px solid black; padding:10px;">Criterio Específico</th>
+<th style="border:1px solid black; padding:10px;">Acciones Realizadas</th>
+<th style="border:1px solid black; padding:10px;">Conclusiones</th>
+</tr>
+
+<tr>
+
+<td style="border:1px solid black; padding:10px;">
+Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+</td>
+
+<td style="border:1px solid black; padding:10px;">
+
+<b>TB1</b>
+
+<ul>
+
+<li><b>Eduardo Eusebio Sihuar Ccotarma Ttito:</b><br>
+Expuso la estructura general del proyecto y la organización del repositorio en GitHub, comunicando de forma clara el enfoque de la solución basada en IoT y su impacto en el monitoreo ambiental.</li>
+
+<br>
+
+<li><b>Daniel Jhared Chávarri Zarzosa:</b><br>
+Explicó la problemática de la calidad del aire y cómo el uso de sensores IoT y modelos de Machine Learning permiten obtener predicciones y análisis en tiempo real.</li>
+
+<br>
+
+<li><b>Marco Antonio Gongora Sanchez:</b><br>
+Presentó el análisis de competidores y los resultados de entrevistas, comunicando insights relevantes sobre las necesidades de los usuarios y oportunidades de mejora.</li>
+
+<br>
+
+<li><b>Andres Fernando Rodriguez Zuluoeta:</b><br>
+Sustentó los requerimientos funcionales mediante User Stories e Impact Mapping, explicando la relación entre las necesidades del usuario y la solución propuesta.</li>
+
+<br>
+
+<li><b>Erick Armando Cueva Elera:</b><br>
+Explicó los fundamentos del diseño arquitectónico, incluyendo los drivers arquitectónicos, el uso de ADD y DDD, y la estructura inicial del sistema AirQ.</li>
+
+</ul>
+
+</td>
+
+<td style="border:1px solid black; padding:10px;">
+
+<ul>
+
+<li>El equipo logró comunicar de manera clara y estructurada los distintos componentes del proyecto, adaptando el lenguaje según el tipo de audiencia (técnica y no técnica).</li>
+
+<li>Se evidenció dominio de conceptos técnicos como IoT, Machine Learning y arquitectura de software, logrando transmitir su funcionamiento e impacto de forma comprensible.</li>
+
+<li>Las presentaciones permitieron alinear los objetivos del proyecto con los requerimientos del usuario, facilitando la comprensión del valor de la solución propuesta.</li>
+
+<li>Se fortalecieron las habilidades de comunicación oral, argumentación técnica y síntesis de información relevante.</li>
+
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>

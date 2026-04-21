@@ -1,13 +1,16 @@
+<br><br>
+
 <p align="center" style="font-size: 23px"; >
 <br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="30%" alt="UPC Logo"><br>
 <br>
 
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS  
-## Ingeniería de Software  
+<strong>Universidad Peruana De Ciencias Aplicadas</strong><br>
+<br>
+<strong>Ingeniería de Software</strong><br>
 
 ### Arquitecturas de Software Emergentes  
-**Sección:** XXXX  
+**Sección:** 11806  
 
 <br>
 
@@ -15,19 +18,19 @@
 
 <br>
 
-## 🚀 Startup: **[Nombre de tu Startup]**  
-### 💡 Producto: **[Nombre de tu Producto]**  
+## Startup: **[Nombre de tu Startup]**  
+### Producto: **[Nombre de tu Producto]**  
 
 <br>
 
-### 👨‍🏫 Profesor  
+### Profesor  
 **[Nombre del profesor]**
 
 <br>
 
 ---
 
-### 👥 Integrantes  
+### Integrantes  
 
 | Apellidos y Nombres | Código |
 |---------------------|--------|
@@ -40,4 +43,4 @@
 
 <br>
 
-### 📅 **Abril 2026**
+### **Abril 2026**

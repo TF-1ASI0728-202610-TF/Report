@@ -4,12 +4,12 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="30%" alt="UPC Logo"><br>
 
-<b>Universidad Peruana de Ciencias Aplicadas</b><br>
-Ingeniería de Software<br>
-8vo Ciclo<br>
+<b>Universidad Peruana de Ciencias Aplicadas</b><br><br>
+Ingeniería de Software<br><br>
+8vo Ciclo<br><br>
 
-<b>Arquitecturas de Software Emergentes</b><br>
-Sección: 11806<br>
+<b>Arquitecturas de Software Emergentes</b><br><br>
+Sección: 11806<br><br>
 
 Profesor: Christian Luis De Los Rios Fernandez<br>
 

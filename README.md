@@ -476,8 +476,6 @@ Dentro de este marco, se desarrolla **AirQ**, un sistema que permite el monitore
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-> ⚠️ IMPORTANTE: cambia los links de imágenes por fotos reales (Drive, GitHub, etc.)
-
 <table style="width:100%; border-collapse:collapse; text-align:center;">
 <tr>
 <th>Foto</th>

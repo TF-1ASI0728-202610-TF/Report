@@ -33,17 +33,17 @@ Producto: <b>AirQ</b><br>
 
 <tr>
 <td style="border:1px solid black; padding:8px;">Daniel Jhared Chávarri Zarzosa</td>
-<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">U202211108</td>
 </tr>
 
 <tr>
 <td style="border:1px solid black; padding:8px;">Marco Antonio Gongora Sanchez</td>
-<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">U20211A085</td>
 </tr>
 
 <tr>
 <td style="border:1px solid black; padding:8px;">Andres Fernando Rodriguez Zuluoeta</td>
-<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">U20212421</td>
 </tr>
 
 <tr>

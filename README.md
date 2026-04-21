@@ -147,7 +147,10 @@ A continuación se detalla el nivel de participación del equipo en la elaboraci
 <br>
 
 <div style="text-align:center;">
-<a href="[https://github.com/your-org/airq-report](https://github.com/TF-1ASI0728-202610-TF/Report)">[https://github.com/your-org/airq-report](https://github.com/TF-1ASI0728-202610-TF/Report)</a>
+Repositorio del Project Report:<br>
+<a href="https://github.com/TF-1ASI0728-202610-TF/Report">
+https://github.com/TF-1ASI0728-202610-TF/Report
+</a>
 </div>
 
 <br>

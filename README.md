@@ -2,7 +2,7 @@
 
 <div align="center" style="font-size: 23px";>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="30%" alt="UPC Logo"><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="30%" alt="UPC Logo">
 
 <b>Universidad Peruana de Ciencias Aplicadas</b><br><br>
 Ingeniería de Software<br><br>

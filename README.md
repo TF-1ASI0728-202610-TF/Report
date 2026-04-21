@@ -1,47 +1,72 @@
 <br><br>
 
-<p align="center" style="font-size: 23px"; >
-<br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="30%" alt="UPC Logo"><br>
-<br>
+<p align="center">
 
-<strong>Universidad Peruana De Ciencias Aplicadas</strong><br>
-<br>
-<strong>Ingeniería de Software</strong><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="120"/>
 
-### Arquitecturas de Software Emergentes  
-**Sección:** 11806  
+<br><br>
 
+<strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+Ingeniería de Software<br>
+8vo Ciclo<br>
 <br>
 
-### "INFORME DEL TRABAJO FINAL – TB1"  
-
+<strong>Arquitecturas de Software Emergentes</strong><br>
+Sección: 11806<br>
 <br>
 
-## Startup: **[Oxaira]**  
-### Producto: **[AirQ]**  
+Profesor: Christian Luis De Los Rios Fernandez<br>
 
-<br>
+<br><br>
 
-### Profesor  
-**[Christian Luis De Los Rios Fernandez]**
+<strong>"INFORME DEL TRABAJO FINAL – TB1"</strong>
 
-<br>
+<br><br>
 
----
+Startup: <strong>Oxaira</strong><br>
+Producto: <strong>AirQ</strong>
 
-### Integrantes  
+<br><br>
 
-| Apellidos y Nombres | Código |
-|---------------------|--------|
-| [Eduardo Eusebio Sihuar Ccotarma Ttito]          | [Código] |
-| [Daniel Jhared Chávarri Zarzosa]          | [Código] |
-| [Marco Antonio Gongora Sanchez]          | [Código] |
-| [Andres Fernando Rodriguez Zuluoeta]          | [Código] |
-| [Erick Armando Cueva Elera]          | [Código] |
+<strong>Integrantes:</strong>
 
----
+<br><br>
 
-<br>
+<table align="center">
+<tr>
+<th>Apellidos y Nombres</th>
+<th>Código</th>
+</tr>
 
-### **Abril 2026**
+<tr>
+<td>Eduardo Eusebio Sihuar Ccotarma Ttito</td>
+<td>UXXXXXXXX</td>
+</tr>
+
+<tr>
+<td>Daniel Jhared Chávarri Zarzosa</td>
+<td>UXXXXXXXX</td>
+</tr>
+
+<tr>
+<td>Marco Antonio Gongora Sanchez</td>
+<td>UXXXXXXXX</td>
+</tr>
+
+<tr>
+<td>Andres Fernando Rodriguez Zuluoeta</td>
+<td>UXXXXXXXX</td>
+</tr>
+
+<tr>
+<td>Erick Armando Cueva Elera</td>
+<td>UXXXXXXXX</td>
+</tr>
+
+</table>
+
+<br><br>
+
+Abril, 2026
+
+</p>

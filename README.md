@@ -1,36 +1,24 @@
 <br><br>
 
-<div align="center">
+<div align="center" style="font-size: 23px";>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="120"/>
-
-<br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="30%" alt="UPC Logo"><br>
 
 <b>Universidad Peruana de Ciencias Aplicadas</b><br>
 Ingeniería de Software<br>
 8vo Ciclo<br>
-<br>
 
 <b>Arquitecturas de Software Emergentes</b><br>
 Sección: 11806<br>
-<br>
 
 Profesor: Christian Luis De Los Rios Fernandez<br>
 
-<br><br>
-
 <b>"INFORME DEL TRABAJO FINAL – TB1"</b>
-
-<br><br>
 
 Startup: <b>Oxaira</b><br>
 Producto: <b>AirQ</b>
 
-<br><br>
-
 <b>Integrantes:</b>
-
-<br><br>
 
 <table style="margin-left:auto; margin-right:auto; border-collapse:collapse;">
 <tr>

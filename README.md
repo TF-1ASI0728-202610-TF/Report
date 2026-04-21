@@ -331,15 +331,9 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 <b>ABET – EAC - Student Outcome 3</b><br>
 Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-<br>
-
 <b>Criterio:</b> Capacidad de comunicarse efectivamente de forma oral y escrita en el contexto del desarrollo de soluciones de ingeniería.
 
-<br><br>
-
 En el siguiente cuadro se describen las acciones realizadas por cada integrante del equipo y las conclusiones obtenidas, las cuales evidencian el logro del Student Outcome durante el desarrollo del proyecto <b>AirQ</b>, solución basada en <b>IoT + Machine Learning</b> para el monitoreo inteligente de la calidad del aire.
-
-<br>
 
 <table style="margin-left:auto; margin-right:auto; border-collapse:collapse; width:95%;">
 

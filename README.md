@@ -18,13 +18,13 @@
 
 <br>
 
-## Startup: **[Nombre de tu Startup]**  
-### Producto: **[Nombre de tu Producto]**  
+## Startup: **[Oxaira]**  
+### Producto: **[AirQ]**  
 
 <br>
 
 ### Profesor  
-**[Nombre del profesor]**
+**[Christian Luis De Los Rios Fernandez]**
 
 <br>
 
@@ -34,10 +34,11 @@
 
 | Apellidos y Nombres | Código |
 |---------------------|--------|
-| [Nombre 1]          | [Código] |
-| [Nombre 2]          | [Código] |
-| [Nombre 3]          | [Código] |
-| [Nombre 4]          | [Código] |
+| [Eduardo Eusebio Sihuar Ccotarma Ttito]          | [Código] |
+| [Daniel Jhared Chávarri Zarzosa]          | [Código] |
+| [Marco Antonio Gongora Sanchez]          | [Código] |
+| [Andres Fernando Rodriguez Zuluoeta]          | [Código] |
+| [Erick Armando Cueva Elera]          | [Código] |
 
 ---
 

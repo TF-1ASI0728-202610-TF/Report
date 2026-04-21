@@ -333,7 +333,7 @@ Capacidad de comunicarse efectivamente con un rango de audiencias.
 
 <br>
 
-<b>Criterio:</b> Capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+<b>Criterio:</b> Capacidad de comunicarse efectivamente de forma oral y escrita en el contexto del desarrollo de soluciones de ingeniería.
 
 <br><br>
 
@@ -349,6 +349,7 @@ En el siguiente cuadro se describen las acciones realizadas por cada integrante 
 <th style="border:1px solid black; padding:10px;">Conclusiones</th>
 </tr>
 
+<!-- CRITERIO 1 -->
 <tr>
 
 <td style="border:1px solid black; padding:10px;">
@@ -362,27 +363,19 @@ Comunica oralmente sus ideas y/o resultados con objetividad a público de difere
 <ul>
 
 <li><b>Eduardo Eusebio Sihuar Ccotarma Ttito:</b><br>
-Expuso la estructura general del proyecto y la organización del repositorio en GitHub, comunicando de forma clara el enfoque de la solución basada en IoT y su impacto en el monitoreo ambiental.</li>
-
-<br>
+Expuso la estructura general del proyecto y el enfoque basado en IoT, comunicando de manera clara la organización del sistema.</li>
 
 <li><b>Daniel Jhared Chávarri Zarzosa:</b><br>
-Explicó la problemática de la calidad del aire y cómo el uso de sensores IoT y modelos de Machine Learning permiten obtener predicciones y análisis en tiempo real.</li>
-
-<br>
+Explicó la problemática de la calidad del aire y el uso de Machine Learning para predicción de datos.</li>
 
 <li><b>Marco Antonio Gongora Sanchez:</b><br>
-Presentó el análisis de competidores y los resultados de entrevistas, comunicando insights relevantes sobre las necesidades de los usuarios y oportunidades de mejora.</li>
-
-<br>
+Presentó los resultados de entrevistas y análisis de competidores, comunicando insights clave del usuario.</li>
 
 <li><b>Andres Fernando Rodriguez Zuluoeta:</b><br>
-Sustentó los requerimientos funcionales mediante User Stories e Impact Mapping, explicando la relación entre las necesidades del usuario y la solución propuesta.</li>
-
-<br>
+Sustentó los requerimientos mediante User Stories e Impact Mapping.</li>
 
 <li><b>Erick Armando Cueva Elera:</b><br>
-Explicó los fundamentos del diseño arquitectónico, incluyendo los drivers arquitectónicos, el uso de ADD y DDD, y la estructura inicial del sistema AirQ.</li>
+Explicó los fundamentos del diseño arquitectónico (ADD y DDD).</li>
 
 </ul>
 
@@ -392,14 +385,71 @@ Explicó los fundamentos del diseño arquitectónico, incluyendo los drivers arq
 
 <ul>
 
-<li>El equipo logró comunicar de manera clara y estructurada los distintos componentes del proyecto, adaptando el lenguaje según el tipo de audiencia (técnica y no técnica).</li>
+<li>El equipo logró comunicar ideas de forma clara, estructurada y adaptada a distintos tipos de audiencia.</li>
 
-<li>Se evidenció dominio de conceptos técnicos como IoT, Machine Learning y arquitectura de software, logrando transmitir su funcionamiento e impacto de forma comprensible.</li>
+<li>Se evidenció dominio técnico en IoT, Machine Learning y arquitectura de software.</li>
 
-<li>Las presentaciones permitieron alinear los objetivos del proyecto con los requerimientos del usuario, facilitando la comprensión del valor de la solución propuesta.</li>
+<li>Se fortalecieron habilidades de exposición, síntesis y argumentación técnica.</li>
 
-<li>Se fortalecieron las habilidades de comunicación oral, argumentación técnica y síntesis de información relevante.</li>
+</ul>
 
+</td>
+
+</tr>
+
+<!-- CRITERIO 2 -->
+<tr>
+
+<td style="border:1px solid black; padding:10px;">
+Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.
+</td>
+
+<td style="border:1px solid black; padding:10px;">
+
+<b>TB1</b>
+
+<ul>
+
+<li><b>Eduardo Eusebio Sihuar Ccotarma Ttito:</b><br>
+Redactó la estructura del informe y la organización del README.md.</li>
+
+<li><b>Daniel Jhared Chávarri Zarzosa:</b><br>
+Desarrolló la redacción del Solution Profile y Lean UX.</li>
+
+<li><b>Marco Antonio Gongora Sanchez:</b><br>
+Documentó entrevistas, análisis competitivo y User Personas.</li>
+
+<li><b>Andres Fernando Rodriguez Zuluoeta:</b><br>
+Redactó User Stories, Impact Mapping y Product Backlog.</li>
+
+<li><b>Erick Armando Cueva Elera:</b><br>
+Documentó el diseño arquitectónico y los drivers arquitectónicos.</li>
+
+</ul>
+
+</td>
+
+<td style="border:1px solid black; padding:10px;">
+
+<ul>
+
+<li>El informe presenta una estructura clara, coherente y bien organizada.</li>
+
+<li>Se utilizó un lenguaje técnico adecuado, comprensible para distintos públicos.</li>
+
+<li>Se logró documentar correctamente los procesos, requerimientos y diseño del sistema.</li>
+
+<li>Se fortalecieron habilidades de redacción técnica y documentación profesional.</li>
+
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 </ul>
 
 </td>

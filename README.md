@@ -59,6 +59,89 @@ Abril, 2026
 
 </div>
 
+# Registro de Versiones del Informe
+
+A continuación se detallan los avances y las modificaciones relevantes realizadas durante el desarrollo del proyecto **AirQ**, propuesta de solución basada en **IoT + Machine Learning** para la optimización y monitoreo inteligente de la calidad del aire. Esta sección evidencia la participación activa del equipo en el desarrollo del informe correspondiente al hito TB1.
+
+<br>
+
+<table style="margin-left:auto; margin-right:auto; border-collapse:collapse; width:90%;">
+
+<tr>
+<th style="border:1px solid black; padding:10px;">Versión</th>
+<th style="border:1px solid black; padding:10px;">Fecha</th>
+<th style="border:1px solid black; padding:10px;">Autor</th>
+<th style="border:1px solid black; padding:10px;">Descripción de modificación</th>
+</tr>
+
+<tr>
+<td style="border:1px solid black; padding:10px;"><b>TB1</b></td>
+
+<td style="border:1px solid black; padding:10px;">Abril, 2026</td>
+
+<td style="border:1px solid black; padding:10px;">
+<ul>
+<li>Eduardo Eusebio Sihuar Ccotarma Ttito</li>
+<li>Daniel Jhared Chávarri Zarzosa</li>
+<li>Marco Antonio Gongora Sanchez</li>
+<li>Andres Fernando Rodriguez Zuluoeta</li>
+<li>Erick Armando Cueva Elera</li>
+</ul>
+</td>
+
+<td style="border:1px solid black; padding:10px;">
+Se han desarrollado e incorporado los siguientes componentes del informe del proyecto:
+
+<ul>
+<li><b>Capítulo I: Introducción</b>
+  <ul>
+    <li>Startup Profile</li>
+    <li>Solution Profile</li>
+    <li>Segmentos objetivo</li>
+  </ul>
+</li>
+
+<li><b>Capítulo II: Requirements Elicitation & Analysis</b>
+  <ul>
+    <li>Identificación de competidores</li>
+    <li>Diseño y análisis de entrevistas</li>
+    <li>Needfinding (User Personas, Empathy Map, As-Is)</li>
+  </ul>
+</li>
+
+<li><b>Capítulo III: Requirements Specification</b>
+  <ul>
+    <li>To-Be Scenario Mapping</li>
+    <li>User Stories</li>
+    <li>Impact Mapping</li>
+    <li>Product Backlog inicial</li>
+  </ul>
+</li>
+
+<li><b>Capítulo IV: Strategic-Level Software Design</b>
+  <ul>
+    <li>Definición de drivers arquitectónicos</li>
+    <li>Attribute-Driven Design (ADD)</li>
+    <li>Introducción a Domain-Driven Design (DDD)</li>
+    <li>Diagramas iniciales de arquitectura</li>
+  </ul>
+</li>
+
+<li>Definición de la propuesta tecnológica basada en <b>IoT + Machine Learning</b> para el monitoreo y predicción de calidad del aire.</li>
+
+<li>Construcción de la estructura base del repositorio en GitHub bajo buenas prácticas (GitFlow y commits).</li>
+
+</ul>
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+# Project Report Collaboration Insights
+
 # Contenido
 
 ## Tabla de Contenidos

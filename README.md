@@ -142,6 +142,67 @@ Se han desarrollado e incorporado los siguientes componentes del informe del pro
 
 # Project Report Collaboration Insights
 
+A continuación se detalla el nivel de participación del equipo en la elaboración del informe del proyecto **AirQ**, desarrollado en un repositorio colaborativo bajo control de versiones (GitHub), evidenciando el aporte de cada integrante durante el hito TB1.
+
+<br>
+
+<div style="text-align:center;">
+<a href="https://github.com/your-org/airq-report">https://github.com/your-org/airq-report</a>
+</div>
+
+<br>
+
+<table style="margin-left:auto; margin-right:auto; border-collapse:collapse; width:90%;">
+
+<tr>
+<th style="border:1px solid black; padding:10px;">Versión</th>
+<th style="border:1px solid black; padding:10px;">Fecha</th>
+<th style="border:1px solid black; padding:10px;">Participación del equipo</th>
+</tr>
+
+<tr>
+
+<td style="border:1px solid black; padding:10px;"><b>TB1</b></td>
+
+<td style="border:1px solid black; padding:10px;">Abril, 2026</td>
+
+<td style="border:1px solid black; padding:10px;">
+
+<ul>
+
+<li><b>Eduardo Eusebio Sihuar Ccotarma Ttito:</b><br>
+Se encargó de la estructuración inicial del documento del proyecto en GitHub, definiendo la organización del README.md, la tabla de contenidos y la estandarización del formato del informe. Apoyó en la redacción del <b>Capítulo I (Startup Profile)</b> y en la definición del enfoque del sistema basado en IoT.</li>
+
+<br>
+
+<li><b>Daniel Jhared Chávarri Zarzosa:</b><br>
+Participó en el desarrollo del <b>Solution Profile</b>, definiendo la problemática relacionada con la calidad del aire y el uso de sensores IoT. Contribuyó en la elaboración del <b>Lean UX Process</b> (Problem Statements, Assumptions e Hypothesis) y en la identificación de requerimientos iniciales del sistema.</li>
+
+<br>
+
+<li><b>Marco Antonio Gongora Sanchez:</b><br>
+Desarrolló el análisis de <b>competidores</b> y apoyó en la sección de <b>Requirements Elicitation & Analysis</b>, incluyendo entrevistas y análisis de necesidades. Contribuyó en la construcción de <b>User Personas</b> y <b>Empathy Maps</b>.</li>
+
+<br>
+
+<li><b>Andres Fernando Rodriguez Zuluoeta:</b><br>
+Participó en la elaboración de <b>User Stories</b>, <b>Impact Mapping</b> y <b>Product Backlog</b>. Apoyó en la definición de escenarios <b>As-Is y To-Be</b>, alineando los requerimientos con la solución basada en Machine Learning.</li>
+
+<br>
+
+<li><b>Erick Armando Cueva Elera:</b><br>
+Se encargó de la introducción al diseño arquitectónico, participando en la definición de <b>drivers arquitectónicos</b>, <b>Attribute-Driven Design (ADD)</b> y conceptos iniciales de <b>Domain-Driven Design (DDD)</b>. Apoyó en la elaboración de diagramas iniciales de arquitectura del sistema AirQ.</li>
+
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
 # Contenido
 
 ## Tabla de Contenidos

@@ -453,3 +453,128 @@ Documentó el diseño arquitectónico y los drivers arquitectónicos.</li>
 </table>
 
 <br>
+
+# Capítulo I: Introducción
+
+## 1.1 Startup Profile
+
+### 1.1.1 Descripción de la Startup
+
+**Oxaira** es una startup orientada al desarrollo de soluciones tecnológicas basadas en **Internet of Things (IoT)** y **Machine Learning**, con el objetivo de mejorar la calidad de vida mediante el monitoreo inteligente de variables ambientales.
+
+La propuesta de valor de Oxaira se centra en el uso de dispositivos IoT accesibles y plataformas digitales que permiten recolectar, procesar y analizar datos en tiempo real, facilitando la toma de decisiones informadas en contextos de salud, bienestar y productividad.
+
+En este contexto, se desarrolla el producto **AirQ**, enfocado en el monitoreo de la calidad del aire en espacios cerrados, abordando problemáticas críticas en entornos urbanos como Lima.
+
+---
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+| Nombre | Código | Perfil Profesional |
+|--------|--------|------------------|
+| Eduardo Eusebio Sihuar Ccotarma Ttito | UXXXXXXXX | Estudiante de Ingeniería de Software con enfoque en desarrollo de soluciones tecnológicas y estructuración de sistemas. Experiencia en organización de proyectos y documentación técnica. |
+| Daniel Jhared Chávarri Zarzosa | U202211108 | Estudiante de Ingeniería de Software con conocimientos en desarrollo backend, análisis de requerimientos y aplicación de tecnologías emergentes como IoT y Machine Learning. |
+| Marco Antonio Gongora Sanchez | U20211A085 | Estudiante con enfoque en análisis de negocio, levantamiento de información y diseño centrado en el usuario. Experiencia en entrevistas y modelado de necesidades. |
+| Andres Fernando Rodriguez Zuluoeta | U20212421 | Estudiante orientado al desarrollo de soluciones mediante metodologías ágiles, con experiencia en definición de requerimientos y modelado de funcionalidades. |
+| Erick Armando Cueva Elera | UXXXXXXXX | Estudiante con enfoque en arquitectura de software, diseño de sistemas escalables y aplicación de patrones como DDD y ADD. |
+
+---
+
+## 1.2 Solution Profile
+
+**AirQ** es una solución tecnológica basada en **IoT + Machine Learning** que permite monitorear la calidad del aire en espacios cerrados mediante sensores inteligentes y una plataforma digital de visualización y análisis en tiempo real.
+
+El sistema recolecta datos de contaminantes como PM2.5 y otros indicadores ambientales, los procesa mediante modelos analíticos y presenta resultados a través de dashboards, alertas y reportes que permiten a los usuarios tomar decisiones preventivas.
+
+---
+
+### 1.2.1 Antecedentes y problemática
+
+A partir del análisis del contexto urbano en Lima, se identifican los siguientes problemas:
+
+- Falta de sistemas accesibles y en tiempo real para monitorear la calidad del aire en espacios cerrados.
+- Ausencia de datos confiables para la toma de decisiones en salud y confort ambiental.
+- Baja conciencia ciudadana sobre el impacto de la contaminación en la salud.
+
+Estos problemas afectan directamente a:
+
+- Hogares
+- Instituciones educativas
+- Empresas
+- Centros de salud
+- Entidades gubernamentales
+
+---
+
+### 1.2.2 Lean UX Process
+
+#### 1.2.2.1 Problem Statements
+
+- No existen soluciones accesibles para monitorear calidad del aire en interiores.
+- Los usuarios no cuentan con información en tiempo real.
+- Existe poca conciencia sobre los riesgos de contaminación.
+
+---
+
+#### 1.2.2.2 Assumptions
+
+- Los usuarios usarán la solución si es simple, accesible y confiable.
+- Las instituciones invertirán en soluciones que mejoren salud y productividad.
+- Los usuarios valoran alertas en tiempo real.
+
+---
+
+#### 1.2.2.3 Hypothesis Statements
+
+- Si ofrecemos monitoreo en tiempo real, los usuarios reducirán su exposición a contaminantes.
+- Si mostramos datos de forma clara, los usuarios tomarán mejores decisiones.
+- Si el sistema es escalable, será adoptado progresivamente.
+
+---
+
+#### 1.2.2.4 Lean UX Canvas (Resumen)
+
+**Business Problem**
+- Falta de monitoreo en tiempo real
+- Falta de datos confiables
+- Baja conciencia ambiental
+
+**Solution Ideas**
+- Dispositivo IoT de bajo costo
+- Plataforma web/app con dashboards
+- Sistema escalable
+
+**Users & Customers**
+- Habitantes de Lima
+- Instituciones educativas
+- Empresas
+- Centros de salud
+- Municipalidades
+
+**Business Outcomes**
+- Mayor conciencia ambiental
+- Reducción de enfermedades respiratorias
+- Mejora en productividad
+
+**User Benefits**
+- Información en tiempo real
+- Toma de decisiones rápida
+- Mejora en calidad de vida
+
+---
+
+## 1.3 Segmentos objetivo
+
+### 1. Instituciones educativas
+- Necesitan monitoreo en aulas cerradas
+- Buscan mejorar salud y rendimiento académico
+
+### 2. Empresas y oficinas
+- Buscan mejorar productividad y bienestar
+- Requieren datos para decisiones internas
+
+### 3. Hogares urbanos
+- Interesados en salud familiar
+- Necesitan soluciones accesibles
+
+---

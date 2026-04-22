@@ -592,14 +592,17 @@ Se asume que:
 ---
 
 ## 1.3 Segmentos objetivo
+Para el desarrollo de AirQ se han identificado dos segmentos objetivos principales que orientarán la validación del problema y de la propuesta de valor:
 
 ### 1. Instituciones educativas
-Buscan garantizar ambientes saludables para estudiantes y docentes. Necesitan monitoreo constante y alertas en tiempo real.
 
-### 2. Empresas y oficinas
-Requieren mejorar el bienestar y la productividad de los colaboradores mediante control ambiental.
+- **Perfil:** Colegios, universidades e institutos donde estudiantes y docentes pasan varias horas en aulas cerradas con escasa ventilación. La comunidad educativa está expuesta a altos niveles de dióxido de carbono y condiciones ambientales que afectan la concentración y la salud.<br>
+- **Necesidades:** Contar con herramientas que permitan monitorear la calidad del aire en tiempo real dentro de las aulas, especialmente niveles de CO₂, humedad y temperatura, con alertas que faciliten decisiones rápidas para ventilar o activar sistemas de purificación. <br>
+- **Motivación:** Mejorar el rendimiento académico, proteger la salud de los estudiantes y docentes, y crear conciencia sobre la importancia del aire limpio en espacios donde se pasa gran parte del día.
 
-### 3. Hogares urbanos
-Personas interesadas en proteger su salud y la de sus familias mediante soluciones tecnológicas accesibles.
+### 2. Instituciones corporativas
+- **Perfil:** Empresas que operan en oficinas cerradas donde los colaboradores permanecen largas jornadas expuestos a aire viciado por falta de ventilación o exceso de uso de aire acondicionado. Se trata de organizaciones que buscan cuidar la salud y productividad de sus empleados. <br>
+- **Necesidades:** Disponer de un sistema confiable que muestre indicadores de calidad del aire, emita alertas preventivas y genere reportes para respaldar la toma de decisiones de infraestructura y salud ocupacional. <br>
+- **Motivación:** Incrementar el bienestar y la productividad laboral, reducir el ausentismo por problemas de salud asociados al aire interior y demostrar compromiso con el cuidado del ambiente laboral.
 
 ---

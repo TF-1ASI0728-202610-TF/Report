@@ -586,26 +586,8 @@ Se asume que:
 
 ---
 
-#### 1.2.2.4 Lean UX Canvas (Explicado)
-
-**Business Problem**  
-Existe una falta de soluciones accesibles y confiables para monitorear la calidad del aire en interiores, lo que afecta la salud de las personas.
-
-**Solution Ideas**  
-Se propone un sistema basado en dispositivos IoT y una plataforma digital que permita visualizar datos en tiempo real.
-
-**Users & Customers**  
-Usuarios urbanos, instituciones educativas, empresas y entidades públicas.
-
-**Business Outcomes**  
-- Reducción de enfermedades respiratorias  
-- Mayor conciencia ambiental  
-- Mejora en productividad  
-
-**User Benefits**  
-- Información inmediata  
-- Decisiones rápidas  
-- Mejor calidad de vida  
+#### 1.2.2.4 Lean UX Canvas 
+<img src="assets/Chapter1/LeanUxCanvas.jpg" width="800px">
 
 ---
 

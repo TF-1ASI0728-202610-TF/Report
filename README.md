@@ -27,7 +27,7 @@ Producto: <b>AirQ</b><br>
 
 <tr>
 <td style="border:1px solid black; padding:8px;">Eduardo Eusebio Sihuar Ccotarma Ttito</td>
-<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">U20211c736</td>
 </tr>
 
 <tr>
@@ -47,7 +47,7 @@ Producto: <b>AirQ</b><br>
 
 <tr>
 <td style="border:1px solid black; padding:8px;">Erick Armando Cueva Elera</td>
-<td style="border:1px solid black; padding:8px;">UXXXXXXXX</td>
+<td style="border:1px solid black; padding:8px;">U201910151</td>
 </tr>
 
 </table>
@@ -485,37 +485,37 @@ Dentro de este marco, se desarrolla **AirQ**, un sistema que permite el monitore
 </tr>
 
 <tr>
-<td><img src="https://via.placeholder.com/100" width="80"></td>
+<td><img src="assets/Chapter1/Eduardo.png" width="80"></td>
 <td>Eduardo Eusebio Sihuar Ccotarma Ttito</td>
-<td>UXXXXXXXX</td>
+<td>U20211c736</td>
 <td>Estudiante de Ingeniería de Software con enfoque en estructuración de soluciones tecnológicas, gestión de proyectos y documentación técnica. Interesado en el desarrollo de sistemas basados en IoT.</td>
 </tr>
 
 <tr>
-<td><img src="https://via.placeholder.com/100" width="80"></td>
+<td><img src="assets/Chapter1/daniel.jpeg" width="80"></td>
 <td>Daniel Jhared Chávarri Zarzosa</td>
 <td>U202211108</td>
 <td>Estudiante de Ingeniería de Software con experiencia en desarrollo backend y análisis de requerimientos. Interesado en la aplicación de Machine Learning y tecnologías emergentes.</td>
 </tr>
 
 <tr>
-<td><img src="https://via.placeholder.com/100" width="80"></td>
+<td><img src="assets/Chapter1/marco.jpg" width="80"></td>
 <td>Marco Antonio Gongora Sanchez</td>
 <td>U20211A085</td>
 <td>Estudiante enfocado en análisis de negocio, investigación de usuarios y diseño centrado en el usuario. Experiencia en entrevistas y levantamiento de información.</td>
 </tr>
 
 <tr>
-<td><img src="https://via.placeholder.com/100" width="80"></td>
+<td><img src="assets/Chapter1/andres.jpg" width="80"></td>
 <td>Andres Fernando Rodriguez Zuluoeta</td>
-<td>U20212421</td>
+<td>U202124213</td>
 <td>Estudiante con orientación a metodologías ágiles y desarrollo de software. Experiencia en definición de requerimientos y modelado de soluciones.</td>
 </tr>
 
 <tr>
 <td><img src="https://via.placeholder.com/100" width="80"></td>
 <td>Erick Armando Cueva Elera</td>
-<td>UXXXXXXXX</td>
+<td>U201910151</td>
 <td>Estudiante enfocado en arquitectura de software, diseño de sistemas escalables y aplicación de patrones como Domain-Driven Design (DDD) y Attribute-Driven Design (ADD).</td>
 </tr>
 

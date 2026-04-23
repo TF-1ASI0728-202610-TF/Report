@@ -2178,35 +2178,17 @@ Después de identificar nuestros bounded contexts a través del EventStorming, p
 
 ### 4.3.1. System Landscape Diagram
 
-Arquitectura general:
-
-- IoT Devices  
-- Backend Services  
-- Web Application  
-- Mobile Application  
-- External Services (Cloud, ML APIs)
-
   <img src="assets/Chapter4/landscapeDiagram.jpg">
 
 ---
 
 ### 4.3.2. Context Level Diagram
 
-Actor → Sistema AirQ → Servicios externos
-
 <img src="assets/Chapter4/ContextDiagram.jpg">
 
 ---
 
 ### 4.3.3. Container Level Diagram
-
-Componentes:
-
-- Frontend Web (Angular / React)
-- Mobile App (Flutter)
-- Backend API (.NET / Node)
-- IoT Gateway
-- Database (SQL + NoSQL)
 
 <img src="assets/Chapter4/ContainerDiagram.jpg">
 

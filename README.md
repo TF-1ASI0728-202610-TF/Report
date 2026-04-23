@@ -1080,7 +1080,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span> Como nuevo usuario, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.</span>
+      <span> Como nuevo usuario de AirQ, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.</span>
     </td>
   </tr>
   <tr>
@@ -1108,7 +1108,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span> Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura </span>
+      <span> Como usuario registrado de AirQ, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura </span>
     </td>
   </tr>
   <tr>
@@ -1136,7 +1136,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span> Como usuario autenticado, quiero ver y editar mi información de perfil, para mantener mis datos actualizados </span>
+      <span> Como usuario autenticado de AirQ, quiero ver y editar mi información de perfil, para mantener mis datos actualizados </span>
     </td>
   </tr>
   <tr>
@@ -1193,7 +1193,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     </thead> 
     <tr> 
         <td colspan="4"><b>User Story:</b><br> 
-            <span>Como usuario, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.</span> 
+            <span>Como usuario de AirQ, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.</span> 
         </td> 
     </tr>
     <tr> 
@@ -1222,7 +1222,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     </thead> 
     <tr> 
         <td colspan="4"><b>User Story:</b><br> 
-            <span>Como usuario, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.</span> 
+            <span>Como usuario de AirQ, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.</span> 
         </td> 
     </tr>
     <tr> 
@@ -1251,7 +1251,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     </thead> 
     <tr> 
         <td colspan="4"><b>User Story:</b><br> 
-            <span>Como usuario, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo.</span> 
+            <span>Como usuario de AirQ, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo.</span> 
         </td> 
     </tr>
     <tr> 
@@ -1281,7 +1281,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead> 
   <tr> 
     <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario, quiero poder activar manualmente los actuadores (ventilador, extractor), para intervenir en el control del ambiente cuando lo considere necesario, incluso si el sistema automático basado en Machine Learning está activo.</span> 
+      <span>Como usuario de AirQ, quiero poder activar manualmente los actuadores (ventilador, extractor), para intervenir en el control del ambiente cuando lo considere necesario, incluso si el sistema automático basado en Machine Learning está activo.</span> 
     </td> 
   </tr>
   <tr> 
@@ -1314,7 +1314,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead> 
   <tr>
     <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.</span> 
+      <span>Como usuario de AirQ, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.</span> 
     </td>
   </tr>
   <tr> 
@@ -1343,7 +1343,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead> 
   <tr>
     <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.</span> 
+      <span>Como usuario de AirQ, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.</span> 
     </td>
   </tr>
   <tr> 
@@ -1372,7 +1372,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead> 
   <tr>
     <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.</span> 
+      <span>Como usuario de AirQ, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.</span> 
     </td>
   </tr>
   <tr> 
@@ -1470,7 +1470,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span>Como usuario deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.</span>
+      <span>Como usuario de AirQ, deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.</span>
     </td>
   </tr>
   <tr>
@@ -1498,7 +1498,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span>Como usuario quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.</span>
+      <span>Como usuario de AirQ, quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.</span>
     </td>
   </tr>
   <tr>
@@ -1526,7 +1526,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span>Como usuario quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito.</span>
+      <span>Como usuario de AirQ, quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito.</span>
     </td>
   </tr>
   <tr>
@@ -1554,7 +1554,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.</span>
+      <span>Como usuario de AirQ, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.</span>
     </td>
   </tr>
   <tr>
@@ -1582,7 +1582,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.</span>
+      <span>Como usuario de AirQ, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.</span>
     </td>
   </tr>
   <tr>
@@ -1649,7 +1649,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.</span>
+      <span>Como usuario de AirQ, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.</span>
     </td>
   </tr>
   <tr>
@@ -1683,7 +1683,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E1-HU001</td>
       <td>Registro de usuario</td>
-      <td>Como nuevo usuario, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.</td>
+      <td>Como nuevo usuario de AirQ, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.</td>
       <td><span>- Escenario 1: Registro exitoso<br>
       <b>Dado</b> que el usuario quiere unirse a la plataforma,<br>
       <b>Cuando</b> complete el formulario con datos válidos,<br>
@@ -1696,7 +1696,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E1-HU002</td>
       <td>Inicio de sesión</td>
-      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura.</td>
+      <td>Como usuario registrado de AirQ, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura.</td>
       <td><span> - Escenario 1: Inicio exitoso<br>
       <b>Dado</b> que el usuario tiene credenciales correctas,<br>
       <b>Cuando</b> las ingrese y presione “Iniciar sesión”,<br>
@@ -1709,7 +1709,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E1-HU003</td>
       <td>Gestión de perfil de usuario</td>
-      <td>Como usuario autenticado, quiero ver y editar mi información de perfil, para mantener mis datos actualizados.</td>
+      <td>Como usuario autenticado de AirQ, quiero ver y editar mi información de perfil, para mantener mis datos actualizados.</td>
       <td><span> - Escenario 1: Visualización de perfil<br>
       <b>Dado</b> que el usuario ha iniciado sesión,<br>
       <b>Cuando</b> acceda a “Mi perfil”,<br>
@@ -1751,7 +1751,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E2-HU005</td>
       <td>Visualización en tiempo real</td>
-      <td>Como usuario, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.</td>
+      <td>Como usuario de AirQ, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.</td>
       <td><b>Acceptance Criteria:</b><br> 
       <span>- Escenario 1:Visualización actualizada <br> 
       <b>Dado</b> que existen datos recientes,<br> 
@@ -1765,7 +1765,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E2-HU006</td>
       <td>Manejo de desconexión del sensor</td>
-      <td>Como usuario, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.</td>
+      <td>Como usuario de AirQ, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.</td>
       <td><span>- Escenario 1: Sensor desconectado<br> 
       <b>Dado</b> que el sensor pierde conexión,<br> 
       <b>Cuando</b> el sistema intenta actualizar datos,<br> 
@@ -1778,7 +1778,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E2-HU007</td>
       <td>Consulta de historial de mediciones</td>
-      <td>Como usuario, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo.</td>
+      <td>Como usuario de AirQ, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo.</td>
       <td><span>- Escenario 1: Historial disponible<br> 
       <b>Dado</b> que existen datos almacenados,<br> 
       <b>Cuando</b> accedo al historial, <br> 
@@ -1794,7 +1794,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E3-HU008</td>
       <td>Control manual de dispositivos</td>
-      <td>Como usuario, quiero poder activar manualmente los actuadores (ventilador, extractor), para intervenir en el control del ambiente cuando lo considere necesario, incluso si el sistema automático basado en Machine Learning está activo.</td>
+      <td>Como usuario de AirQ, quiero poder activar manualmente los actuadores (ventilador, extractor), para intervenir en el control del ambiente cuando lo considere necesario, incluso si el sistema automático basado en Machine Learning está activo.</td>
       <td><span>- Escenario 1: Activación manual<br> 
       <b>Dado</b> que el dispositivo está disponible,<br> 
       <b>Cuando</b> el usuario presiona activar manualmente,<br> 
@@ -1811,7 +1811,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E3-HU009</td>
       <td>Activación automática de dispositivos</td>
-      <td>Como usuario, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.</td>
+      <td>Como usuario de AirQ, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.</td>
       <td><span>- Escenario 1: Activación automática<br> 
       <b>Dado</b> que la calidad del aire supera un umbral definido,<br> 
       <b>Cuando</b> el sistema lo detecta,<br> 
@@ -1824,7 +1824,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E3-HU010</td>
       <td>Evaluación de múltiples variables</td>
-      <td>Como usuario, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.</td>
+      <td>Como usuario de AirQ, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.</td>
       <td><span>- Escenario 1: Evaluación combinada<br> 
       <b>Dado</b> que existen múltiples datos de sensores,<br> 
       <b>Cuando</b> el sistema analiza el ambiente,<br> 
@@ -1837,7 +1837,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E3-HU011</td>
       <td>Mejora continua del modelo</td>
-      <td>Como usuario, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.</td>
+      <td>Como usuario de AirQ, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.</td>
       <td><span>- Escenario 1: Uso de datos históricos<br> 
       <b>Dado</b> que el sistema acumula datos,<br> 
       <b>Cuando</b> el modelo se actualiza,<br> 
@@ -1894,7 +1894,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E5-HU014</td>
       <td>Chat con soporte</td>
-      <td>Como usuario deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.</td>
+      <td>Como usuario de AirQ, deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.</td>
       <td><span>- Escenario 1: Acceso al chat exitoso<br>
       <b>Dado</b> que el usuario se encuentra en la pantalla principal,<br>
       <b>Cuando</b> haga clic en el botón “Soporte”,<br>
@@ -1907,7 +1907,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E5-HU015</td>
       <td>FAQ</td>
-      <td>Como usuario quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.</td>
+      <td>Como usuario de AirQ, quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.</td>
       <td><span>- Escenario 1: Visualización de preguntas frecuentes<br>
       <b>Dado</b> que el usuario accede a la sección de FAQ desde el menú,<br>
       <b>Cuando</b> la página cargue correctamente,<br>
@@ -1920,7 +1920,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E5-HU016</td>
       <td>Información de soporte</td>
-      <td>Como usuario quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito</td>
+      <td>Como usuario de AirQ, quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito</td>
       <td><span>- Escenario 1: Visualización correcta<br>
       <b>Dado</b> que el usuario accede a la sección de soporte,<br>
       <b>Cuando</b> se cargue la información,<br>
@@ -1936,7 +1936,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E6-HU017</td>
       <td>Pasarela de pago</td>
-      <td>Como usuario, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.</td>
+      <td>Como usuario de AirQ, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.</td>
       <td><span>- Escenario 1: Acceso a pasarela<br>
       <b>Dado</b> que el usuario selecciona un plan o producto,<br>
       <b>Cuando</b> elija “Pagar”,<br>
@@ -1949,7 +1949,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E6-HU018</td>
       <td>Visualización del estado del servicio</td>
-      <td>Como usuario, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.</td>
+      <td>Como usuario de AirQ, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.</td>
       <td><span>- Escenario 1: Servicio activo<br>
       <b>Dado</b> que el usuario tiene un dispositivo instalado y una suscripción vigente,<br>
       <b>Cuando</b> accede a la sección “Estado del servicio”,<br>
@@ -1972,7 +1972,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <tr>
       <td>E6-HU020</td>
       <td>Historial de pagos</td>
-      <td>Como usuario, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.</td>
+      <td>Como usuario de AirQ, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.</td>
       <td><span>- Escenario 1: Acceso a historial<br>
       <b>Dado</b> que el usuario está autenticado,<br>
       <b>Cuando</b> ingrese a “Historial de pagos”,<br>
@@ -1998,27 +1998,32 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 
 ## 3.3. Product Backlog
 
-| Orden | User Story / Technical Story Id | Título                               | Descripción                                                                                                                                                                                                 | Story Points |
-| ----- | ------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1     | E1-HU001                        | Registro de usuario                  | Como nuevo usuario, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.                                                                 | 5            |
-| 2     | E1-HU002                        | Inicio de sesión                     | Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura.                                                                                        | 3            |
-| 3     | E2-HU004                        | Recepción de información de Sensores | Como usuario, quiero que la aplicación reciba en tiempo real la información de los sensores de calidad del aire, para visualizar el estado de mi ambiente.                                                  | 8            |
-| 4     | E2-HU008                        | Notificaciones de calidad del aire   | Como usuario de AirQ, quiero recibir notificaciones inmediatas cuando un contaminante cruce o regrese bajo su umbral, para actuar a tiempo y proteger mi salud.                                             | 5            |
-| 5     | E2-HU009                        | Edición de parámetros de respuesta   | Como usuario quiero poder editar los parámetros de respuesta del dispositivo IoT en función a lo que detecta, para controlar a qué nivel de contaminante la aplicación realiza la acción correspondiente.   | 5            |
-| 6     | E2-HU007                        | Reportes periódicos de resultados    | Como usuario, quiero recibir reportes periódicos de los resultados de la calidad del aire en mis ambientes, para analizar tendencias y tomar decisiones informadas.                                         | 8            |
-| 7     | E6-HU005                        | Control manual de respuesta          | Como usuario de AirQ, quiero activar manualmente medidas de respuesta (p. ej., encender purificador o activar ventilación) desde la app/web, para reducir mi exposición a contaminantes cuando lo necesite. | 5            |
-| 8     | E6-HU006                        | Control automático de respuesta      | Como usuario de AirQ, quiero que se ejecuten acciones automáticas cuando un contaminante supere su umbral, para mitigar riesgos sin intervención constante.                                                 | 8            |
-| 9     | E4-HU013                        | Pasarela de pago                     | Como usuario, Quiero realizar mis pagos a través de una pasarela segura, Para completar mis compras o suscripciones de manera confiable.                                                                    | 5            |
-| 10    | E4-HU017                        | Suscripciones activas                | Como usuario, Quiero visualizar mis suscripciones activas, Para saber qué servicios tengo actualmente en uso.                                                                                               | 3            |
-| 11    | E4-HU014                        | Lista de suscripciones               | Como usuario, Quiero visualizar una lista de mis suscripciones, Para conocer el estado de cada plan o servicio adquirido.                                                                                   | 3            |
-| 12    | E4-HU016                        | Historial de pagos                   | Como usuario, Quiero visualizar mi historial de pagos, Para llevar un control de mis transacciones realizadas en la plataforma.                                                                             | 5            |
-| 13    | E5-HU003                        | Gestión de perfil de usuario         | Como usuario autenticado, Quiero ver y editar mi información de perfil, Para mantener mis datos actualizados.                                                                                               | 3            |
-| 14    | E5-HU018                        | Información de Contacto              | Como usuario, Quiero visualizar y actualizar mi información de contacto, Para mantener mis datos al día y recibir notificaciones correctas.                                                                 | 3            |
-| 15    | E5-HU015                        | Gestión de roles                     | Como administrador, Quiero asignar y gestionar roles de usuario, Para controlar el acceso y permisos dentro de la aplicación.                                                                               | 5            |
-| 16    | E6-HU019                        | Restricciones de la aplicación       | Como administrador, Quiero configurar restricciones en la aplicación, Para controlar el acceso y uso de ciertas funciones según políticas definidas.                                                        | 5            |
-| 17    | E3-HU010                        | Chat con soporte                     | Como usuario deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.     | 3            |
-| 18    | E3-HU011                        | FAQ                                  | Como usuario quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.                                                                    | 2            |
-| 19    | E3-HU012                        | Información de soporte               | Como usuario quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito.                                          | 2            |
+
+
+| Orden| User Story / Technical Story Id  | Título             | Descripción                                                                | Story Points|
+|------|-----------------|-------------------------------------|----------------------------------------------------------------------------|-------------|
+| 1    | E1-HU001        | Registro de usuario                 |Como nuevo usuario de AirQ, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.| 3           |
+| 2    | E1-HU002        | Inicio de sesión                    |Como usuario registrado de AirQ, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura| 3           |
+| 3    | E6-HU017        | Pasarela de pago                    |Como usuario de AirQ, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.| 8           |
+| 4    | E6-HU018        | Estado del servicio                 |Como usuario de AirQ, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.| 3           |
+| 5    | E2-HU004        | Recepción de datos del sensor       |Como usuario de AirQ, quiero que el sistema reciba y registre datos de los sensores, para asegurar que la información esté disponible y sea confiable en la plataforma.| 5           |
+| 6    | E2-HU005        | Visualización en tiempo real        |Como usuario de AirQ, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.| 8           |
+| 7    | E2-HU006        | Manejo de desconexión               |Como usuario de AirQ, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.| 5           |
+| 8    | E3-HU009        | Activación automática               |Como usuario de AirQ, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.| 8           |
+| 9    | E3-HU008        | Control manual                      |Como usuario de AirQ, quiero poder activar manualmente los actuadores (ventilador, extractor), para intervenir en el control del ambiente cuando lo considere necesario, incluso si el sistema automático basado en Machine Learning está activo.| 5           |
+| 10   | E3-HU010        | Evaluación de múltiples variables   |Como usuario de AirQ, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.| 8           |
+| 11   | E3-HU011        | Mejora del modelo                   |Como usuario de AirQ, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.| 8           |
+| 12   | E2-HU007        | Historial de mediciones             |Como usuario de AirQ, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo.| 5           |
+| 13   | E4-HU012        | Reportes periódicos                 |Como usuario de AirQ, quiero recibir reportes con una frecuencia (diaria/semanal/mensual) que incluyan métricas y tendencias, para tomar decisiones informadas sobre salud y confort.| 8           |
+| 14   | E4-HU013        | Notificaciones inteligentes         |Como usuario de AirQ, quiero recibir notificaciones inteligentes sobre la calidad del aire y las acciones ejecutadas automáticamente por el sistema basado en Machine Learning, para mantenerme informado del estado de mi ambiente sin necesidad de intervenir constantemente.| 5           |
+| 15   | E1-HU003        | Gestión de perfil                   |Como usuario autenticado de AirQ, quiero ver y editar mi información de perfil, para mantener mis datos actualizados| 5           |
+| 16   | E6-HU020        | Historial de pagos                  |Como usuario de AirQ, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.| 3           |
+| 17   | E1-HU019        | Gestión de roles                    |Como administrador, quiero asignar y gestionar roles de usuario, para controlar el acceso a funcionalidades como monitoreo, configuración del sistema y gestión de dispositivos IoT.| 5           |
+| 18   | E5-HU014        | Chat con soporte                    |Como usuario de AirQ, deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.| 5           |
+| 19   | E5-HU015        | FAQ                                 |Como usuario de AirQ, quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.| 2           |
+| 20   | E5-HU016        | Información de soporte              |Como usuariode AirQ, quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito.| 1           |
+
+
 
 ---
 

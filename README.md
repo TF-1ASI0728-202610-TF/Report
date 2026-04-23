@@ -636,19 +636,19 @@ El análisis de estos competidores permite comprender el estado actual del merca
       <th colspan="2">Competidores</th>
       <th>
         AirQ<br>
-        <img src="img/LogoOxaira.jpeg" width="200" alt="airq" />
+        <img src="assets/Chapter2/LogoOxaira.jpeg" width="200" alt="airq" />
       </th>
       <th>
         Awair<br>
-        <img src="img/awair.png" width="200" alt="awair" />
+        <img src="assets/Chapter2/awair.png" width="200" alt="awair" />
       </th>
       <th>
         Oizom<br>
-        <img src="img/oizom.png" width="200" alt="oizom"  />
+        <img src="assets/Chapter2/oizom.png" width="200" alt="oizom"  />
       </th>
       <th>
         Kaiterra<br>
-        <img src="img/kaiterra.png" width="200" alt="kaiterra"  />
+        <img src="assets/Chapter2/kaiterra.png" width="200" alt="kaiterra"  />
       </th>
     </tr>
   </thead>
@@ -931,7 +931,7 @@ Se construyeron dos arquetipos representativos:
 
 #### Patricia López – Segmento Corporativo
 
-<img src="img/UserPersona1.png">
+<img src="assets/Chapter2/UserPersona1.png">
 
 **Análisis:**
 
@@ -945,7 +945,7 @@ Patricia representa a tomadores de decisión en empresas. Su enfoque está en pr
 
 #### Luis Fernández – Segmento Educativo
 
-<img src="img/UserPersona2.png">
+<img src="assets/Chapter2/UserPersona2.png">
 
 **Análisis:**
 
@@ -979,7 +979,7 @@ Las tareas críticas son monitoreo y toma de decisiones basada en datos.
 
 #### Empathy Map – Patricia
 
-<img src="img/Empathy-map1.png">
+<img src="assets/Chapter2/Empathy-map1.png">
 
 **Interpretación:**
 
@@ -997,7 +997,7 @@ Automatización
 
 #### Empathy Map – Luis
 
-<img src="img/Empathy-map2.png">
+<img src="assets/Chapter2/Empathy-map2.png">
 
 **Interpretación:**
 
@@ -1019,7 +1019,7 @@ Sistema confiable
 
 #### Journey – Patricia
 
-<img src="img/Customer-journey map-1.png">
+<img src="assets/Chapter2/Customer-journey map-1.png">
 
 **Problemas detectados:**
 
@@ -1031,7 +1031,7 @@ Sistema confiable
 
 #### Journey – Luis
 
-<img src="img/Customer-journey map-2.png">
+<img src="assets/Chapter2/Customer-journey map-2.png">
 
 **Problemas detectados:**
 
@@ -1053,7 +1053,7 @@ El análisis de artefactos UX permite identificar:
 
 ## 2.4. Big Picture EventStorming
 
-<img src="img/EventStorming.JPG">
+<img src="assets/Chapter2/EventStorming.JPG">
 
 El EventStorming permitió identificar los eventos clave del sistema, tales como:
 

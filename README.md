@@ -2207,3 +2207,74 @@ Infraestructura:
 <img src="assets/Chapter4/DeploymentDiagram.jpg">
 
 ---
+
+# Conclusiones
+
+A partir del desarrollo del proyecto AirQ, se puede concluir que la integración de tecnologías emergentes como Internet of Things (IoT) y Machine Learning permite abordar de manera efectiva problemáticas reales relacionadas con la calidad del aire en espacios cerrados, especialmente en contextos urbanos como Lima.
+
+En primer lugar, el proceso de investigación (Capítulo II) permitió validar que existe una necesidad real en los segmentos objetivo (instituciones educativas y corporativas), evidenciando que los usuarios carecen de herramientas que les permitan monitorear y actuar frente a la calidad del aire en tiempo real. Esto confirmó la relevancia del problema y justificó el desarrollo de la solución.
+
+En segundo lugar, la especificación de requerimientos (Capítulo III) permitió estructurar la solución desde una perspectiva centrada en el usuario, utilizando artefactos como User Stories, Impact Mapping y Product Backlog. Estos elementos facilitaron la priorización de funcionalidades clave como monitoreo en tiempo real, alertas automáticas y generación de reportes.
+
+Asimismo, el diseño arquitectónico (Capítulo IV), basado en Attribute-Driven Design (ADD) y Domain-Driven Design (DDD), permitió definir una arquitectura escalable, modular y orientada a eventos, adecuada para el procesamiento de datos IoT en tiempo real. La identificación de drivers arquitectónicos y atributos de calidad como rendimiento, disponibilidad y escalabilidad fue fundamental para tomar decisiones tecnológicas coherentes con los objetivos del sistema.
+
+Por otro lado, se concluye que el uso de una arquitectura distribuida basada en microservicios y el despliegue en la nube permiten garantizar la escalabilidad del sistema y su adaptación a diferentes contextos de implementación, desde instituciones educativas hasta empresas.
+
+Finalmente, el desarrollo del proyecto permitió al equipo fortalecer competencias en análisis de requerimientos, diseño de arquitectura de software, trabajo colaborativo y comunicación técnica, alineándose con el Student Outcome del curso.
+
+Como recomendación, se propone en futuras iteraciones:
+
+- Implementar modelos de Machine Learning más avanzados para predicción de calidad del aire  
+- Integrar el sistema con dispositivos de automatización (smart devices)  
+- Ampliar el alcance hacia ciudades inteligentes (smart cities)  
+- Realizar validaciones con usuarios reales mediante prototipos funcionales  
+
+En conclusión, AirQ representa una solución tecnológica viable, escalable y alineada con las necesidades actuales de monitoreo ambiental, con potencial de impacto en la salud, productividad y bienestar de las personas.
+
+---
+
+# Bibliografía
+
+- Ministerio del Ambiente del Perú. (2023). *Calidad del aire en el Perú*.  
+  https://www.gob.pe/minam
+
+- Bass, L., Clements, P., & Kazman, R. (2012). *Software architecture in practice* (3rd ed.). Addison-Wesley.  
+  https://www.pearson.com/en-us/subject-catalog/p/software-architecture-in-practice/P200000003295
+
+- Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.  
+  https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/
+
+- Fowler, M. (2018). *Microservices architecture*.  
+  https://martinfowler.com/microservices/
+
+- Humble, J., & Farley, D. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley.  
+  https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/
+
+- International Organization for Standardization. (2021). *ISO 16000: Indoor air quality standards*.  
+  https://www.iso.org/standard/39170.html
+
+- Newman, S. (2021). *Building microservices* (2nd ed.). O’Reilly Media.  
+  https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/
+
+- United States Environmental Protection Agency. (2023). *Indoor air quality*.  
+  https://www.epa.gov/indoor-air-quality-iaq
+
+- World Health Organization. (2021). *WHO global air quality guidelines*.  
+  https://www.who.int/publications/i/item/9789240034228
+
+- Amazon Web Services. (2024). *IoT architecture best practices*.  
+  https://aws.amazon.com/iot/
+
+- Microsoft. (2024). *Azure architecture center*.  
+  https://learn.microsoft.com/en-us/azure/architecture/
+
+- Google. (2024). *Machine learning crash course*.  
+  https://developers.google.com/machine-learning
+
+- UXPressia. (2024). *Customer journey mapping tools*.  
+  https://uxpressia.com/
+
+- Institute of Electrical and Electronics Engineers. (2022). *Internet of Things (IoT): Architecture and design*.  
+  https://www.ieee.org/
+
+

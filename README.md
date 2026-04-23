@@ -1977,3 +1977,251 @@ Entonces el sistema le notificará que necesita actualizar su plan.</td>
 
 ---
 
+# CAPÍTULO IV: Strategic-Level Software Design
+
+---
+
+## 4.1. Strategic-Level Attribute-Driven Design
+
+### 4.1.1. Design Purpose
+
+El propósito del diseño arquitectónico de la solución AirQ es definir una arquitectura escalable, distribuida y orientada a eventos que permita:
+
+- Procesar datos en tiempo real provenientes de sensores IoT  
+- Garantizar alta disponibilidad y baja latencia en la visualización  
+- Soportar múltiples dispositivos y usuarios concurrentes  
+- Permitir la integración de modelos de Machine Learning  
+
+Este diseño responde directamente a la problemática identificada en el Capítulo II, donde los usuarios requieren información inmediata y acciones automáticas frente a la calidad del aire.
+
+---
+
+### 4.1.2. Attribute-Driven Design Inputs
+
+---
+
+#### 4.1.2.1. Primary Functionality
+
+Las siguientes User Stories han sido seleccionadas como drivers principales de arquitectura debido a su impacto en la solución:
+
+| ID | Título | Descripción |
+|----|------|------------|
+| HU004 | Monitoreo en tiempo real | Recepción y visualización de datos IoT |
+| HU006 | Automatización | Ejecución de acciones automáticas |
+| HU008 | Notificaciones | Alertas en tiempo real |
+| HU007 | Reportes | Generación de métricas y análisis |
+
+Estas historias definen:
+- Flujo de datos
+- Procesamiento en tiempo real
+- Interacción sistema-usuario
+
+---
+
+#### 4.1.2.2. Quality Attribute Scenarios
+
+| Atributo | Fuente | Estímulo | Artefacto | Entorno | Respuesta | Medida |
+|--------|--------|---------|----------|--------|----------|--------|
+| Performance | Sensor IoT | Envío de datos | Backend API | Operación normal | Procesa y muestra datos | < 2 segundos |
+| Availability | Usuario | Acceso al sistema | Web App | Alta demanda | Sistema responde sin caída | 99.5% uptime |
+| Scalability | Sistema | Incremento de sensores | Backend | Alta carga | Escala horizontalmente | +1000 dispositivos |
+| Reliability | Sensor | Pérdida de conexión | Sistema | Error | Mantiene último dato | Sin pérdida de datos |
+| Security | Usuario | Inicio de sesión | API | Internet | Autenticación segura | JWT + cifrado |
+
+---
+
+#### 4.1.2.3. Constraints
+
+| ID | Título | Descripción |
+|----|------|------------|
+| TC001 | Uso de IoT | El sistema debe integrarse con sensores físicos |
+| TC002 | Arquitectura distribuida | Backend debe ser desacoplado |
+| TC003 | Cloud deployment | Debe desplegarse en la nube |
+| TC004 | RESTful APIs | Comunicación basada en APIs |
+| TC005 | Multi-plataforma | Web + Mobile |
+
+---
+
+### 4.1.3. Architectural Drivers Backlog
+
+Drivers principales:
+
+- Procesamiento en tiempo real  
+- Alta disponibilidad  
+- Escalabilidad  
+- Integración IoT  
+- Automatización  
+
+Estos drivers guían TODAS las decisiones arquitectónicas.
+
+---
+
+### 4.1.4. Architectural Design Decisions
+
+| Decisión | Justificación |
+|--------|-------------|
+| Arquitectura basada en microservicios | Permite escalabilidad independiente |
+| Uso de APIs REST | Facilita integración entre componentes |
+| Arquitectura orientada a eventos | Ideal para IoT y datos en tiempo real |
+| Uso de cloud (AWS/Firebase) | Alta disponibilidad |
+| Base de datos híbrida | SQL + NoSQL |
+
+---
+
+### 4.1.5. Quality Attribute Scenario Refinements
+
+Refinamiento:
+
+- Performance: uso de WebSockets  
+- Scalability: uso de contenedores (Docker)  
+- Availability: balanceadores de carga  
+- Security: autenticación JWT  
+
+---
+
+## 4.2. Strategic-Level Domain-Driven Design
+
+---
+
+### 4.2.1. EventStorming
+
+Para la elaboración del EventStorming, el equipo se organizó para encontrar una primera aproximación almodelado del dominio de nuestro proyecto.
+
+Más detalle en: [Miro](https://miro.com/app/board/uXjVJF8TGBw=/?share_link_id=973173365533)
+
+<img src= "assets/Chapter4/Event_Storming.jpg">
+
+---
+
+#### 4.1.1.1. Candidate Context Discovery.
+
+A partir del EventStorming realizado en Miro, nuestro equipo llevó a cabo una sesión de Candidate ContextDiscovery para identificar los bounded contexts de nuestra solución. Utilizamos principalmente la técnicalook-for-pivotal-events durante la sesión.
+
+| Contexto candidato             | Descripción (alcance del dominio)                                                                 | Historias de Usuario que lo sustentan |
+|--------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
+| **Identity & Access (IAM)**    | Registro, inicio/cierre de sesión, recuperación/cambio de contraseña, gestión de perfil/contacto. Provee identidad y `claims` a todo el sistema. | US001, US002, US003, US018 |
+| **Gestión de Roles & Restricciones** | Administración de roles (usuario, admin, soporte) y políticas de acceso por plan de suscripción. | US015, US019 |
+| **IoT & Control de Respuesta** | Ingesta de datos desde dispositivos, ejecución de acciones manuales/automáticas y edición de parámetros de respuesta. | US005, US006, US008, US009 |
+| **Notificaciones**             | Envío de alertas inmediatas, recordatorios y retorno a nivel seguro con antispam/debounce.       | US008 |
+| **Reportes & Insights**        | Generación y distribución de reportes (PDF/Excel) con métricas y tendencias periódicas.           | US007 |
+| **Facturación & Suscripciones**| Pasarela de pago, listado de suscripciones, historial de pagos, estado de suscripciones activas. | US013, US014, US016, US017 |
+| **Soporte & Autoayuda**        | Atención al usuario vía chat, FAQ y datos de contacto de soporte.                                | US010, US011, US012 |
+
+---
+
+### 4.2.3. Domain Message Flows Modeling
+
+Los Domain Message Flows modelan las interacciones entre los diferentes bounded contexts, mostrandocómo se comunican entre sí mediante comandos, eventos y consultas. A continuación, presentamos los flujosde mensaje para cuatro escenarios clave de nuestra aplicación:
+
+| Comando              | Evento(s) resultante(s)                     | Productor              | Consumidor(es)                        |
+|----------------------|----------------------------------------------|------------------------|---------------------------------------|
+| `RegisterUser`         | `UserRegistered`                              | IAM                    | Roles & Restricciones, Auditoría      |
+| `LoginUser`            | `LoginSucceeded` / `LoginFailed`                | IAM                    | Auditoría                             |
+| `UpdateProfile`        | `UserProfileUpdated`                          | IAM                    | Auditoría                             |
+| `UpdateContactInfo`    | `ContactInfoUpdated`                          | IAM                    | Notificaciones                        |
+| `AssignRole`           | `RoleAssigned`                                | Roles & Restricciones  | IAM, Auditoría                        |
+| `SetRestriction`       | `RestrictionApplied`                          | Roles & Restricciones  | Frontend, Auditoría                   |
+| `UploadReading`        | `ReadingUploaded`                             | IoT                    | Reglas, Reportes                      |
+| `TriggerManualAction`  | `ManualActionExecuted` / `ManualActionFailed`   | IoT                    | Auditoría, Historial                  |
+| `TriggerAutoAction`    | `AutoActionExecuted` / `AutoActionFailed`       | IoT                    | Notificaciones, Auditoría             |
+| `UpdateThreshold`      | `ThresholdUpdated`                            | IoT                    | Auditoría                             |
+| `RaiseAlert`           | `AlertRaised`                                 | IoT/Notificaciones     | Usuario, Auditoría                    |
+| `GenerateReport`       | `ReportGenerated`                             | Reportes               | Usuario, Notificaciones               |
+| `SendReport`           | `ReportSent`                                  | Reportes               | Usuario, Auditoría                    |
+| `MakePayment`          | `PaymentSucceeded` / `PaymentFailed`            | Facturación            | Suscripciones, Auditoría              |
+| `UpdateSubscription`   | `SubscriptionUpdated`                         | Suscripciones          | Frontend, Notificaciones              |
+| `RecordPayment`        | `PaymentRecorded`                             | Facturación            | Auditoría                             |
+| `OpenChat`             | `ChatOpened`                                  | Soporte                | Auditoría                             |
+| `ChatFailed`           | `ChatUnavailable`                             | Soporte                | Auditoría                             |
+
+---
+
+### 4.2.4. Bounded Context Canvases
+
+Los Bounded Context Canvases son herramientas visuales que nos permiten documentar las característicasfundamentales de cada contexto delimitado, capturando su propósito estratégico, modelo de dominio,lenguaje ubicuo, políticas y relaciones con otros contextos. A continuación, presentamos los canvases paranuestros cuatro bounded contexts identificados, que nos ayudaron a definir claramente las responsabilidadesy límites de cada uno.
+
+| Contexto                        | Propósito                                                              | Responsabilidades principales                                      | Entidades / Aggregates                     | Eventos emitidos                                                                 |
+|---------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------------|
+| **Identity & Access (IAM)**     | Autenticar/autorizar usuarios y gestionar perfiles.                     | Registro, login/logout, recuperación de credenciales, edición de datos de contacto. | User, Credential, Session, ContactInfo     | UserRegistered, LoginSucceeded, LoginFailed, UserProfileUpdated, ContactInfoUpdated |
+| **Gestión de Roles & Restricciones** | Asignar roles y aplicar restricciones por suscripción/rol.             | Gestión de permisos, control de features premium.                    | Role, RestrictionPolicy                     | RoleAssigned, RestrictionApplied                                                 |
+| **IoT & Control de Respuesta**  | Gestionar dispositivos, ingesta de lecturas, ejecutar acciones manuales/automáticas. | Lecturas, umbrales, reglas, historial de acciones.                   | Device, Reading, Rule, Action, Threshold    | ReadingUploaded, ManualActionExecuted, AutoActionExecuted, ThresholdUpdated, AlertRaised |
+| **Notificaciones**              | Comunicar alertas, recordatorios y retornos a seguro.                   | Push/email, antispam, preferencias de usuario.                       | Notification, Alert, Reminder               | AlertRaised, NotificationSent, NotificationFailed                                |
+| **Reportes & Insights**         | Componer y distribuir reportes periódicos.                              | Generación de PDF/Excel, almacenamiento histórico.                   | Report, Metric                              | ReportGenerated, ReportSent                                                      |
+| **Facturación & Suscripciones** | Procesar pagos y controlar suscripciones.                               | Transacciones, historial, planes activos.                            | Payment, Subscription                       | PaymentSucceeded, SubscriptionUpdated, PaymentRecorded                           |
+| **Soporte & Autoayuda**         | Resolver dudas de usuarios vía chat/FAQ.                                | Chat, base de FAQs, datos de contacto.                               | ChatSession, FAQEntry                       | ChatOpened, ChatUnavailable                
+---
+
+### 4.2.5. Context Mapping
+
+Después de identificar nuestros bounded contexts a través del EventStorming, procedimos a analizar lasrelaciones entre ellos para desarrollar un context mapping efectivo. Este proceso fue crucial para entendercómo los diferentes contextos interactúan entre sí y para definir claramente sus responsabilidades y límites
+
+
+| Origen (Upstream)        | Destino (Downstream)     | Tipo de relación             | Estilo de integración          | Motivo/Contrato                                         |
+|---------------------------|--------------------------|------------------------------|--------------------------------|---------------------------------------------------------|
+| **IAM**                  | Todos                    | Conformist                  | OIDC/JWT + Webhooks            | Todos aceptan identidad/claims tal como IAM los publica. |
+| **Roles & Restricciones**| Frontend                 | Customer/Supplier           | REST + JWT Claims              | Habilita/limita funcionalidades según rol/plan.         |
+| **IoT**                  | Reportes                 | Customer/Supplier           | Stream de lecturas + ETL       | Datos crudos procesados en métricas/insights.           |
+| **IoT**                  | Notificaciones           | Partnership                 | Pub/Sub eventos `alert.*`      | SLA de baja latencia para alertas críticas.             |
+| **Facturación**          | Suscripciones            | Customer/Supplier + ACL     | REST + eventos `billing.*`     | Estado de pago actualiza features habilitados.          |
+| **Reportes**             | Notificaciones           | Customer/Supplier           | Evento `report.ready`          | Aviso de disponibilidad de reporte.                     |
+| **Soporte**              | IAM                      | Conformist                  | REST                           | Chat vinculado a identidad del usuario.                 |
+| **Todos**                | Auditoría                | Conformist                  | Event-sourcing ligero          | Trazabilidad completa.                                  |
+
+---
+
+## Diagrama lógico
+<img src="assets/Chapter4/context_mapping.jpeg">
+
+## 4.3. Software Architecture
+
+---
+
+### 4.3.1. System Landscape Diagram
+
+Arquitectura general:
+
+- IoT Devices  
+- Backend Services  
+- Web Application  
+- Mobile Application  
+- External Services (Cloud, ML APIs)
+
+  <img src="assets/Chapter4/landscapeDiagram.JPG">
+
+---
+
+### 4.3.2. Context Level Diagram
+
+Actor → Sistema AirQ → Servicios externos
+
+<img src="assets/Chapter4/ContextDiagram.JPG">
+
+---
+
+### 4.3.3. Container Level Diagram
+
+Componentes:
+
+- Frontend Web (Angular / React)
+- Mobile App (Flutter)
+- Backend API (.NET / Node)
+- IoT Gateway
+- Database (SQL + NoSQL)
+
+<img src="assets/Chapter4/ContainerDiagram.JPG">
+
+---
+
+### 4.3.4. Deployment Diagram
+
+Infraestructura:
+
+- Cloud (AWS / Firebase)
+- Contenedores Docker
+- API Gateway
+- Bases de datos
+- Servicios IoT
+
+<img src="assets/Chapter4/DeploymentDiagram.JPG">
+
+---

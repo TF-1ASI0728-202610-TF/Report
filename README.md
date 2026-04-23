@@ -945,29 +945,29 @@ Ahora, le hablamos un poco de la propuesta:
 
 #### Segmento Objetivo 1: Instituciones educativas
 
-| **Entrevista 1** |
-|------------------|
-| <strong>Nombre:</strong> Dayana Rojas Sosa |
-| <strong>Edad:</strong> 20 |
-| <strong>Procedencia:</strong> Lima |
-| <strong>Segmento:</strong> Instituciones Educativas |
+| **Entrevista 1**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <strong>Nombre:</strong> Dayana Rojas Sosa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| <strong>Edad:</strong> 20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <strong>Procedencia:</strong> Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| <strong>Segmento:</strong> Instituciones Educativas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **Resumen:** La entrevistada reconoce que a la hora de dar clases, la mayor parte del tiempo las ventanas están cerradas y siente molestias como alergias, mareos y dolores de cabeza. Menciona que tanto docentes como estudiantes suelen pasar varias horas en aulas con poca ventilación, lo que genera cansancio, falta de concentración y quejas frecuentes de sequedad en garganta. En general, afirma que no existe una cultura de preocuparse por la calidad del aire en la escuela, ya que rara vez se conversa del tema. Las medidas actuales son básicas, como abrir ventanas en los recreos o cuando el ambiente se siente “pesado”, sin sistemas de monitoreo ni purificación. Califica la calidad del aire en las aulas como “regular a mala”, mientras que en su casa la percibe como “mejor”, aunque solo por percepción. Si se confirmara que el aire en el aula está contaminado, expresaría preocupación por el impacto en el aprendizaje y la salud de los estudiantes. Considera importante monitorear niveles de CO₂, humedad y temperatura, ya que el exceso de dióxido de carbono puede afectar la atención. Espera que un sistema en tiempo real no solo muestre indicadores claros, sino que envíe alertas a docentes y directivos, e incluso pueda activar ventilación automática o recomendar pausas para ventilar. Señala que esta solución sería muy útil como herramienta pedagógica y de gestión, pues permitiría sensibilizar a la comunidad educativa y respaldar solicitudes de mejoras de infraestructura. Prefiere que la institución realice la inversión en los dispositivos y que exista una suscripción para reportes y alertas, con acceso desde pantallas en las aulas y aplicaciones móviles. Identifica como principales obstáculos la falta de presupuesto y la poca conciencia sobre la calidad del aire en interiores, pese a que en la escuela se pasa la mayor parte del día. |
-| <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdE1k7pQAmpIrnapz55HGJQBs9CxM6ZNVItXvDza7KO0_Q?e=AgIjc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdE1k7pQAmpIrnapz55HGJQBs9CxM6ZNVItXvDza7KO0_Q?e=AgIjc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
-| <strong>Foto del entrevistado:</strong><br><img src="assets/Chapter2/DayanaRojas.jpeg" alt="Entrevista - FatimaUrbina" height="200"/> |
+| <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdE1k7pQAmpIrnapz55HGJQBs9CxM6ZNVItXvDza7KO0_Q?e=AgIjc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdE1k7pQAmpIrnapz55HGJQBs9CxM6ZNVItXvDza7KO0_Q?e=AgIjc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/Chapter2/DayanaRojas.jpeg" alt="Entrevista - FatimaUrbina" height="200"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 
 
 #### Segmento Objetivo 2: Instituciones coorporativas
 
-| **Entrevista 2** |
-|------------------|
-| <strong>Nombre:</strong> Fatima Urbina |
-| <strong>Edad:</strong> 24 |
-| <strong>Procedencia:</strong> Lima |
-| <strong>Segmento:</strong> Instituciones Coorporativas |
+| **Entrevista 2**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <strong>Nombre:</strong> Fatima Urbina                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| <strong>Edad:</strong> 24                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| <strong>Procedencia:</strong> Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <strong>Segmento:</strong> Instituciones Coorporativas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | <strong>Resumen:</strong> El entrevistado reconoce que la calidad del aire en Lima es un problema, pero afirma que en su entorno laboral casi no se conversa del tema, salvo cuando alguien menciona que “el aire está cargado”. Identifica que el aire es peor en la oficina que en la calle, ya que permanecen muchas horas con ventanas cerradas y aire acondicionado, lo que genera un ambiente “viciado”. Sus medidas actuales son improvisadas, como abrir ventanas cuando lo sienten necesario, sin purificadores ni sistemas de control. Señala que varios compañeros sufren molestias como dolor de cabeza, sequedad en la garganta, cansancio y falta de aire tras varias horas. Califica la calidad del aire en la oficina como “mala” y en su casa como “buena” (aunque solo por percepción). Frente a la posibilidad de saber que el aire en la oficina está contaminado, expresa preocupación y frustración, pues depende de que la empresa actúe. Le gustaría monitorear principalmente niveles de CO₂, seguidos por humedad y temperatura, y espera que un sistema en tiempo real no solo muestre gráficos, sino que envíe alertas y automatice ventilación o purificadores. Considera que una solución así sería útil y daría argumentos para convencer a la gerencia, siempre que los datos sean confiables y científicamente validados. Prefiere una compra única del dispositivo y una suscripción para reportes y alertas. Imagina usar el sistema con pantallas visibles en la oficina y acceso desde laptop o celular. Reconoce como principales obstáculos la confianza en los datos y la falta de voluntad de inversión de la empresa. Finalmente, resalta que aún falta conciencia sobre la contaminación del aire en interiores, pese a que es donde se pasa la mayor parte del tiempo. |
-| <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1CH1QeU9kzvGa-IdbT46NIyWzq4bDmZ4m/view?usp=sharing](https://drive.google.com/file/d/1CH1QeU9kzvGa-IdbT46NIyWzq4bDmZ4m/view?usp=sharing) |
-| <strong>Foto del entrevistado:</strong><br><img src="assets/Chapter2/entrevista_FatimaUrbina.png" alt="Entrevista - FatimaUrbina" height="200"/> |
+| <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1CH1QeU9kzvGa-IdbT46NIyWzq4bDmZ4m/view?usp=sharing](https://drive.google.com/file/d/1CH1QeU9kzvGa-IdbT46NIyWzq4bDmZ4m/view?usp=sharing)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/Chapter2/entrevista_FatimaUrbina.png" alt="Entrevista - FatimaUrbina" height="200"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 &nbsp;
 
 ---
@@ -1012,22 +1012,22 @@ A continuación, se describen las tareas principales que ambos segmentos realiza
 
 **Segmento 1**
 
-| Tarea                                | Frecuencia | Importancia |
-|--------------------------------------|------------|-------------|
-| Monitorear calidad del aire en aulas | Media      | Alta        |
-| Recibir alertas de CO₂ alto          | Alta       | Alta        |
-| Abrir ventanas o activar ventilación | Media      | Alta        |
-| Consultar reportes sobre calidad del aire | Baja    | Media       |
+| Tarea                                     | Frecuencia | Importancia |
+| ----------------------------------------- | ---------- | ----------- |
+| Monitorear calidad del aire en aulas      | Media      | Alta        |
+| Recibir alertas de CO₂ alto               | Alta       | Alta        |
+| Abrir ventanas o activar ventilación      | Media      | Alta        |
+| Consultar reportes sobre calidad del aire | Baja       | Media       |
 
 **Segmento 2**
 
-| Tarea                              | Frecuencia | Importancia |
-|------------------------------------|------------|-------------|
-| Revisar niveles de CO₂   | Media      | Alta        |
-| Activar ventilación automáticamente| Media      | Alta        |
-| Recibir alertas en tiempo real     | Alta       | Alta        |
-| Generar reportes para RRHH/SSOMA   | Media      | Media       |
-| Consultar histórico de datos       | Baja       | Media       |
+| Tarea                               | Frecuencia | Importancia |
+| ----------------------------------- | ---------- | ----------- |
+| Revisar niveles de CO₂              | Media      | Alta        |
+| Activar ventilación automáticamente | Media      | Alta        |
+| Recibir alertas en tiempo real      | Alta       | Alta        |
+| Generar reportes para RRHH/SSOMA    | Media      | Media       |
+| Consultar histórico de datos        | Baja       | Media       |
 
 ---
 
@@ -1066,7 +1066,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 
 ---
 
-# CAPITULO III: Requirements Specification
+# CAPÍTULO III: Requirements Specification
 
 ## 3.1. User Stories
 
@@ -1075,28 +1075,25 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Registro de usuario</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimacion</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">3</span></th>
     <th><b>Story ID</b><br><span style="font-weight: 200">HU001</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span> Como nuevo usuario,
-Quiero registrarme con mis datos personales y correo electrónico
-Para poder crear una cuenta y acceder a la plataforma </span>
+      <span> Como nuevo usuario, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.</span>
     </td>
-    
   </tr>
   <tr>
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
-      <span> - Escenario 1: Registro exitoso
-Dado que el usuario quiere unirse a la plataforma,
-Cuando complete el formulario con datos válidos,
-Entonces se crea su cuenta y recibe un correo de confirmación. </span><br><br>
-    <span> - Escenario 2: Registro fallido
-Dado que el usuario ingresa datos inválidos,
-Cuando intente registrarse,
-Entonces el sistema muestra mensajes de error claros. </span>
+      <span>- Escenario 1: Registro exitoso<br>
+      <b>Dado</b> que el usuario quiere unirse a la plataforma,<br>
+      <b>Cuando</b> complete el formulario con datos válidos,<br>
+      <b>Entonces</b> se crea su cuenta y recibe un correo de confirmación.</span><br><br>
+      <span>- Escenario 2: Registro fallido<br>
+      <b>Dado</b> que el usuario ingresa datos inválidos,<br>
+      <b>Cuando</b> intente registrarse,<br>
+      <b>Entonces</b> el sistema muestra mensajes de error claros.</span>
     </td>
   </tr>
 </table>
@@ -1106,28 +1103,25 @@ Entonces el sistema muestra mensajes de error claros. </span>
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Inicio de sesión</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimacion</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">3</span></th>
     <th><b>Story ID</b><br><span style="font-weight: 200">HU002</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span> Como usuario registrado,
-Quiero iniciar sesión con mi correo y contraseña,
-Para acceder a mi cuenta de forma segura </span>
+      <span> Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura </span>
     </td>
-    
   </tr>
   <tr>
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
-      <span> - Escenario 1: Inicio exitoso
-Dado que el usuario tiene credenciales correctas,
-Cuando las ingrese y presione “Iniciar sesión”,
-Entonces accede a su perfil y dashboard. </span><br><br>
-    <span> - Escenario 2: Inicio fallido
-Dado que el usuario ingresa credenciales incorrectas,
-Cuando intente iniciar sesión,
-Entonces recibe un mensaje de error que indica “usuario o contraseña inválida”. </span>
+      <span> - Escenario 1: Inicio exitoso<br>
+      <b>Dado</b> que el usuario tiene credenciales correctas,<br>
+      <b>Cuando</b> las ingrese y presione “Iniciar sesión”,<br>
+      <b>Entonces</b> accede a su perfil y dashboard. </span><br><br>
+      <span> - Escenario 2: Inicio fallido<br>
+      <b>Dado</b> que el usuario ingresa credenciales incorrectas,<br>
+      <b>Cuando</b> intente iniciar sesión,<br>
+      <b>Entonces</b> recibe un mensaje de error que indica “usuario o contraseña inválida”. </span>
     </td>
   </tr>
 </table>
@@ -1136,29 +1130,26 @@ Entonces recibe un mensaje de error que indica “usuario o contraseña inválid
 <table>
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Gestión de perfil de usuario</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimacion</span></th>
+    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th>
     <th><b>Story ID</b><br><span style="font-weight: 200">HU003</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
-      <span> Como usuario autenticado,
-Quiero ver y editar mi información de perfil,
-Para mantener mis datos actualizados </span>
+      <span> Como usuario autenticado, quiero ver y editar mi información de perfil, para mantener mis datos actualizados </span>
     </td>
-    
   </tr>
   <tr>
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
-      <span> - Escenario 1: Visualización de perfil
-Dado que el usuario ha iniciado sesión,
-Cuando acceda a “Mi perfil”,
-Entonces verá su información registrada. </span><br><br>
-    <span> - Escenario 2: Edición de perfil
-Dado que el usuario desea actualizar sus datos,
-Cuando haga clic en “Editar” y guarde cambios,
-Entonces la nueva información se muestra correctamente en el perfil. </span>
+      <span> - Escenario 1: Visualización de perfil<br>
+      <b>Dado</b> que el usuario ha iniciado sesión,<br>
+      <b>Cuando</b> acceda a “Mi perfil”,<br>
+      <b>Entonces</b> verá su información registrada. </span><br><br>
+      <span> - Escenario 2: Edición de perfil<br>
+      <b>Dado</b> que el usuario desea actualizar sus datos,<br>
+      <b>Cuando</b> haga clic en “Editar” y guarde cambios,<br>
+      <b>Entonces</b> la nueva información se muestra correctamente en el perfil. </span>
     </td>
   </tr>
 </table>
@@ -1166,105 +1157,233 @@ Entonces la nueva información se muestra correctamente en el perfil. </span>
 
 <table> 
     <thead> 
-        <th><b>Title</b><br><span style="font-weight: 200">Recepción de información de Sensores</span></th> 
+        <th><b>Title</b><br><span style="font-weight: 200">Recepción de datos del sensor</span></th> 
         <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> 
-        <th><b>Estimate</b><br><span style="font-weight: 200">5 pts</span></th> 
+        <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th> 
         <th><b>Story ID</b><br><span style="font-weight: 200">HU004</span></th> 
     </thead> 
     <tr> 
         <td colspan="4"><b>User Story:</b><br> 
-            <span>Como usuario de AirQ, quiero que el sensor de calidad de aire envíe datos periódicos a las aplicaciones móviles y web y poder visualizarlas en tiempo real en un dashboard.</span> 
+            <span>Como usuario de AirQ, quiero que el sistema reciba y registre datos de los sensores, para asegurar que la información esté disponible y sea confiable en la plataforma.</span> 
         </td> 
     </tr>
     <tr> 
         <td colspan="4"> 
             <b>Acceptance Criteria:</b><br> 
-            <span>- Escenario 1: Recepción de datos en tiempo real<br> 
-            <b>Dado</b> que el sensor está encendido y vinculado a un ambiente,<br> 
-            <b>Cuando</b> el sensor envía lecturas periódicas de calidad de aire,<br> 
-            <b>Entonces</b> la aplicación recibe los datos y los muestra en el dashboard sin retrasos perceptibles.</span>
-            <br><br> 
-            <span>- Escenario 2: Visualización en el dashboard<br> 
-            <b>Dado</b> que existen lecturas recibidas de un sensor,<br> 
-            <b>Cuando</b> el usuario accede al dashboard,<br> 
-            <b>Entonces</b> visualiza los valores actualizados de calidad de aire (ej. CO₂, PM2.5, humedad, temperatura).</span>
-            <br><br> 
-            <span>- Escenario 3: Manejo de pérdida de conexión<br> 
-            <b>Dado</b> que el sensor pierde conexión,<br> 
-            <b>Cuando</b> el dashboard intenta actualizar la información,<br> 
-            <b>Entonces</b> muestra un estado “Sin conexión” y mantiene la última lectura recibida.</span>
-            <br><br> 
-            <span>- Escenario 4: Registro histórico de lecturas<br> 
-            <b>Dado</b> que el sensor envía lecturas periódicas,<br> 
-            <b>Cuando</b> el usuario consulta el historial del ambiente,<br> 
-            <b>Entonces</b> encuentra un registro de las mediciones con timestamp y valores reportados.</span> 
+            <span>- Escenario 1: Recepción correcta<br> 
+            <b>Dado</b> que el sensor está encendido y vinculado,<br> 
+            <b>Cuando</b> envía datos,<br> 
+            <b>Entonces</b> el sistema los recibe y almacena correctamente.</span><br><br>
+            <span>- Escenario 2: Error en recepción<br> 
+            <b>Dado</b> que ocurre un fallo en la transmisión,<br> 
+            <b>Cuando</b> el sistema no recibe datos,<br> 
+            <b>Entonces</b> registra el error y mantiene la última información válida.</span>     
         </td> 
     </tr> 
-</table> <br>
+</table> 
 
+<br>
 
 <table> 
     <thead> 
-      <th><b>Title</b><br><span style="font-weight: 200">Control manual de respuesta</span></th> 
-      <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> <th><b>Estimate</b><br><span style="font-weight: 200">5 pts</span></th> 
-      <th><b>Story ID</b><br><span style="font-weight: 200">HU005</span></th> 
+        <th><b>Title</b><br><span style="font-weight: 200">Visualización en tiempo real</span></th> 
+        <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> 
+        <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th> 
+        <th><b>Story ID</b><br><span style="font-weight: 200">HU005</span></th> 
     </thead> 
     <tr> 
-      <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario de AirQ, quiero activar manualmente medidas de respuesta (p. ej., encender purificador o activar ventilación) desde la app/web, para reducir mi exposición a contaminantes cuando lo necesite.</span> 
-      </td> 
-    </tr>
-    <tr> 
-      <td colspan="4"> 
-          <b>Acceptance Criteria:</b><br> 
-          Escenario 1: Visualización de acciones disponibles<br> 
-          <b>Dado</b> que estoy autenticado y hay un dispositivo asociado al ambiente,<br> <b>Cuando</b> ingreso al panel “Acciones”,<br> 
-          <b>Entonces</b> visualizo las acciones manuales disponibles según las capacidades del dispositivo.<br><br> 
-          Escenario 2: Ejecución exitosa de acción<br> 
-          <b>Dado</b> que el dispositivo está en línea y el purificador está apagado,<br> <b>Cuando</b> toco “Encender purificador”,<br> 
-          <b>Entonces</b> el estado cambia a “Encendido” y veo la confirmación “Purificador encendido”.<br><br> 
-          Escenario 3: Registro en historial<br> <b>Dado</b> que ejecuté una acción manual,<br> <b>Cuando</b> consulto el historial del ambiente,<br> <b>Entonces</b> encuentro un evento con acción, usuario, timestamp y resultado.</span><br><br> 
-          Escenario 4: Error por dispositivo no disponible<br> 
-          <b>Dado</b> que el dispositivo está fuera de línea,<br> 
-          <b>Cuando</b> intento “Activar ventilación”,<br> 
-          <b>Entonces</b> veo “No se pudo ejecutar la acción. Dispositivo sin conexión.” y no se altera el estado.
-      </td> 
-    </tr> 
-</table> <br>
-
-<table> 
-    <thead>
-    <th><b>Title</b><br><span style="font-weight: 200">Control automático de respuesta</span></th> 
-    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> <th><b>Estimate</b><br><span style="font-weight: 200">8 pts</span></th> <th><b>Story ID</b><br><span style="font-weight: 200">HU006</span></th>
-    </thead> 
-    <tr>
-    <td colspan="4"><b>User Story:</b><br> <span>Como usuario de AirQ, quiero que se ejecuten acciones automáticas cuando un contaminante supere su umbral, para mitigar riesgos sin intervención constante.</span> 
-    </td>
+        <td colspan="4"><b>User Story:</b><br> 
+            <span>Como usuario, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.</span> 
+        </td> 
     </tr>
     <tr> 
         <td colspan="4"> 
             <b>Acceptance Criteria:</b><br> 
-            <span>- Escenario 1: Disparo por cruce de umbral<br> 
-            <b>Dado</b> que el umbral de PM2.5 está configurado en 35 µg/m³ y la regla es “Encender purificador”,<br> 
-            <b>Cuando</b> la medición de PM2.5 alcanza 45 µg/m³,<br> 
-            <b>Entonces</b> el sistema enciende el purificador, envía notificación “Automático: purificador encendido por PM2.5=45” y registra el evento.</span>
-            <br><br> 
-            <span>- Escenario 2: Desactivar automatización<br> 
-            <b>Dado</b> que la automatización de PM2.5 está habilitada,<br> 
-            <b>Cuando</b> la desactivo desde “Reglas automáticas”,<br> 
-            <b>Entonces</b> ante un nuevo cruce de umbral no se ejecuta acción ni se envía notificación y se registra “Regla deshabilitada”.</span>
-            <br><br> 
-            <span>- Escenario 3: Ajuste de umbral<br> 
-            <b>Dado</b> que el umbral actual de PM2.5 es 35 µg/m³,<br> 
-            <b>Cuando</b> lo actualizo a 25 µg/m³ y guardo,<br>
-             <b>Entonces</b> el nuevo umbral efectivo es 25 µg/m³ y el cambio queda registrado con usuario y timestamp.</span>
-             <br><br>
-             <span>- Escenario 4: Falla al ejecutar acción automática<br> 
-             <b>Dado</b> que la regla está activa pero el dispositivo está fuera de línea,<br> 
-             <b>Cuando</b> PM2.5 supera el umbral,<br> 
-             <b>Entonces</b> no se ejecuta la acción, recibo “Fallo en acción automática (dispositivo sin conexión)” y se registra el error.</span> 
-        </td>
+            <span>- Escenario 1:Visualización actualizada <br> 
+            <b>Dado</b> que existen datos recientes,<br> 
+            <b>Cuando</b> accedo al dashboard,<br> 
+            <b>Entonces</b> veo los valores actualizados sin retrasos perceptibles.</span><br><br>
+            <span>- Escenario 2:Datos visibles<br> 
+            <b>Dado</b> que hay múltiples variables,<br> 
+            <b>Cuando</b> se muestran en pantalla,<br> 
+            <b>Entonces</b> se visualizan de forma clara y organizada.</span>
+        </td> 
     </tr> 
+</table> 
+
+<br>
+
+<table> 
+    <thead> 
+        <th><b>Title</b><br><span style="font-weight: 200">Manejo de desconexión del sensor</span></th> 
+        <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th> 
+        <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th> 
+        <th><b>Story ID</b><br><span style="font-weight: 200">HU006</span></th> 
+    </thead> 
+    <tr> 
+        <td colspan="4"><b>User Story:</b><br> 
+            <span>Como usuario, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.</span> 
+        </td> 
+    </tr>
+    <tr> 
+        <td colspan="4"> 
+            <b>Acceptance Criteria:</b><br> 
+            <span>- Escenario 1: Sensor desconectado<br> 
+            <b>Dado</b> que el sensor pierde conexión,<br> 
+            <b>Cuando</b> el sistema intenta actualizar datos,<br> 
+            <b>Entonces</b> muestra un estado “Sin conexión”.</span><br><br>
+            <span>- Escenario 2: Última lectura<br> 
+            <b>Dado</b> que no hay conexión,<br> 
+            <b>Cuando</b> visualizo el dashboard,<br> 
+            <b>Entonces</b> se mantiene la última lectura disponible.</span>        
+        </td> 
+    </tr> 
+</table> 
+
+<br>
+
+<table> 
+    <thead> 
+        <th><b>Title</b><br><span style="font-weight: 200">Consulta de historial de mediciones</span></th> 
+        <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th> 
+        <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th> 
+        <th><b>Story ID</b><br><span style="font-weight: 200">HU007</span></th> 
+    </thead> 
+    <tr> 
+        <td colspan="4"><b>User Story:</b><br> 
+            <span>Como usuario, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo.</span> 
+        </td> 
+    </tr>
+    <tr> 
+        <td colspan="4"> 
+            <b>Acceptance Criteria:</b><br> 
+            <span>- Escenario 1: Historial disponible<br> 
+            <b>Dado</b> que existen datos almacenados,<br> 
+            <b>Cuando</b> accedo al historial, <br> 
+            <b>Entonces</b> visualizo las mediciones con fecha y valores.</span><br><br>
+            <span>- Escenario 2: Orden de datos<br> 
+            <b>Dado</b> que hay múltiples registros,<br> 
+            <b>Cuando</b> se muestran, <br> 
+            <b>Entonces</b> están ordenados cronológicamente.</span>  
+        </td> 
+    </tr> 
+</table> 
+
+
+<br>
+
+<table> 
+  <thead> 
+    <th><b>Title</b><br><span style="font-weight: 200">Control manual de dispositivos</span></th> 
+    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th> 
+    <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th> 
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU008</span></th> 
+  </thead> 
+  <tr> 
+    <td colspan="4"><b>User Story:</b><br> 
+      <span>Como usuario, quiero poder activar manualmente los actuadores (ventilador, extractor), para intervenir en el control del ambiente cuando lo considere necesario, incluso si el sistema automático basado en Machine Learning está activo.</span> 
+    </td> 
+  </tr>
+  <tr> 
+    <td colspan="4"> 
+      <b>Acceptance Criteria:</b><br> 
+      <span>- Escenario 1: Activación manual<br> 
+      <b>Dado</b> que el dispositivo está disponible,<br> 
+      <b>Cuando</b> el usuario presiona activar manualmente,<br> 
+      <b>Entonces</b> el dispositivo cambia de estado correctamente, independientemente del estado del sistema automático.</span><br><br>
+      <span>- Escenario 2: Prioridad del control manual<br> 
+      <b>Dado</b> que el sistema automático está ejecutando una acción,<br> 
+      <b>Cuando</b> el usuario realiza una acción manual,<br> 
+      <b>Entonces</b> la acción manual tiene prioridad sobre la automática.</span><br><br>
+      <span>- Escenario 3: Error de conexión<br> 
+      <b>Dado</b> que el dispositivo está desconectado,<br> 
+      <b>Cuando</b> el usuario intenta activarlo,<br> 
+      <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo ejecutar la acción.</span>
+    </td> 
+  </tr> 
+</table>
+
+<br>
+
+<table> 
+  <thead>
+    <th><b>Title</b><br><span style="font-weight: 200">Activación automática de dispositivos</span></th> 
+    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> 
+    <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th> 
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU009</span></th>
+  </thead> 
+  <tr>
+    <td colspan="4"><b>User Story:</b><br> 
+      <span>Como usuario, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.</span> 
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="4"> 
+      <b>Acceptance Criteria:</b><br> 
+      <span>- Escenario 1: Activación automática<br> 
+      <b>Dado</b> que la calidad del aire supera un umbral definido,<br> 
+      <b>Cuando</b> el sistema lo detecta,<br> 
+      <b>Entonces</b> activa automáticamente el dispositivo correspondiente.</span><br><br>
+      <span>- Escenario 2: Condición normal<br> 
+      <b>Dado</b> que los niveles son adecuados,<br> 
+      <b>Cuando</b> el sistema evalúa el ambiente,<br> 
+      <b>Entonces</b> no realiza ninguna acción.</span>
+    </td>
+  </tr> 
+</table>
+
+<br>
+
+<table> 
+  <thead>
+    <th><b>Title</b><br><span style="font-weight: 200">Evaluación de múltiples variables</span></th> 
+    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> 
+    <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th> 
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU010</span></th>
+  </thead> 
+  <tr>
+    <td colspan="4"><b>User Story:</b><br> 
+      <span>Como usuario, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.</span> 
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="4"> 
+      <b>Acceptance Criteria:</b><br> 
+      <span>- Escenario 1: Evaluación combinada<br> 
+      <b>Dado</b> que existen múltiples datos de sensores,<br> 
+      <b>Cuando</b> el sistema analiza el ambiente,<br> 
+      <b>Entonces</b> toma decisiones basadas en la combinación de variables.</span><br><br> 
+      <span>- Escenario 2: Consistencia en decisiones<br> 
+      <b>Dado</b> que los valores cambian,<br> 
+      <b>Cuando</b> el sistema evalúa continuamente,<br> 
+      <b>Entonces</b> mantiene decisiones coherentes con las condiciones del ambiente.</span>
+    </td>
+  </tr> 
+</table>
+
+<br>
+
+<table> 
+  <thead>
+    <th><b>Title</b><br><span style="font-weight: 200">Mejora continua del modelo</span></th> 
+    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th> 
+    <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th> 
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU011</span></th>
+  </thead> 
+  <tr>
+    <td colspan="4"><b>User Story:</b><br> 
+      <span>Como usuario, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.</span> 
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="4"> 
+      <b>Acceptance Criteria:</b><br> 
+      <span>- Escenario 1: Uso de datos históricos<br> 
+      <b>Dado</b> que el sistema acumula datos,<br> 
+      <b>Cuando</b> el modelo se actualiza,<br> 
+      <b>Entonces</b> mejora la precisión en la toma de decisiones.</span>
+    </td>
+  </tr> 
 </table>
 
  <br> 
@@ -1272,12 +1391,14 @@ Entonces la nueva información se muestra correctamente en el perfil. </span>
  <table> 
     <thead> 
         <th><b>Title</b><br><span style="font-weight: 200">Reportes periódicos de resultados</span></th> 
-        <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th> <th><b>Estimate</b><br><span style="font-weight: 200">5 pts</span></th> <th><b>Story ID</b><br><span style="font-weight: 200">HU007</span></th> 
+        <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
+        <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th> 
+        <th><b>Story ID</b><br><span style="font-weight: 200">HU012</span></th> 
     </thead> 
     <tr> 
-    <td colspan="4">
-    <b>User Story:</b><br> <span>Como usuario de AirQ, quiero recibir reportes con una frecuencia (diaria/semanal/mensual) que incluyan métricas y tendencias, para tomar decisiones informadas sobre salud y confort.</span>
-    </td> 
+      <td colspan="4"><b>User Story:</b><br> 
+      <span>Como usuario de AirQ, quiero recibir reportes con una frecuencia (diaria/semanal/mensual) que incluyan métricas y tendencias, para tomar decisiones informadas sobre salud y confort.</span>
+      </td> 
     </tr>
     <tr>
         <td colspan="4"> 
@@ -1285,18 +1406,15 @@ Entonces la nueva información se muestra correctamente en el perfil. </span>
         <span>- Escenario 1: Configurar frecuencia<br> 
         <b>Dado</b> que estoy en la sección “Reportes”,<br> 
         <b>Cuando</b> selecciono “Semanal” y guardo,<br> 
-        <b>Entonces</b> la preferencia queda almacenada y se muestra la próxima fecha programada.</span>
-        <br><br> 
+        <b>Entonces</b> la preferencia queda almacenada y se muestra la próxima fecha programada.</span><br><br>
         <span>- Escenario 2: Generación y contenido mínimo<br> 
         <b>Dado</b> que existen datos suficientes del periodo,<br> 
         <b>Cuando</b> se genera el reporte semanal,<br>
-        <b>Entonces</b> incluye promedio, máximo, mínimo por contaminante, gráficos de tendencia y recomendaciones si se superaron umbrales.</span>
-        <br><br> 
+        <b>Entonces</b> incluye promedio, máximo, mínimo por contaminante, gráficos de tendencia y recomendaciones si se superaron umbrales.</span><br><br>
         <span>- Escenario 3: Distribución y descarga<br> 
         <b>Dado</b> que la frecuencia es “Semanal” y hoy es la fecha de envío,<br> 
         <b>Cuando</b> el reporte se publica,<br> 
-        <b>Entonces</b> lo recibo por correo y queda disponible en la app con opción de descarga en PDF y Excel.</span>
-        <br><br> 
+        <b>Entonces</b> lo recibo por correo y queda disponible en la app con opción de descarga en PDF y Excel.</span><br><br>
         <span>- Escenario 4: Datos insuficientes<br> 
         <b>Dado</b> que hay menos de 10 mediciones en el periodo,<br> 
         <b>Cuando</b> se genera el reporte,<br> 
@@ -1306,50 +1424,49 @@ Entonces la nueva información se muestra correctamente en el perfil. </span>
  </table> 
 
  <br> 
- 
- <table> 
-    <thead> 
-    <th><b>Title</b><br><span style="font-weight: 200">Notificaciones de calidad del aire</span></th> 
-    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> <th><b>Estimate</b><br><span style="font-weight: 200">5 pts</span></th> <th><b>Story ID</b><br><span style="font-weight: 200">HU008</span></th> 
-    </thead> 
-    <tr> 
-    <td colspan="4"><b>User Story:</b><br> <span>Como usuario de AirQ, quiero recibir notificaciones inmediatas cuando un contaminante cruce o regrese bajo su umbral, para actuar a tiempo y proteger mi salud.</span> </td> </tr> <tr> <td colspan="4"> <b>Acceptance Criteria:</b><br> <span>- Escenario 1: Alerta por cruce de umbral<br> <b>Dado</b> que el umbral de PM2.5 es 35 µg/m³ y tengo notificaciones activas,<br> <b>Cuando</b> la medición llega a 42 µg/m³ en dos lecturas consecutivas,<br> <b>Entonces</b> recibo una notificación con título “PM2.5 en nivel alto” y recomendación de acción, y queda registrado el evento.</span><br><br> <span>- Escenario 2: Retorno a nivel seguro<br> <b>Dado</b> que recibí una alerta por PM2.5 alto,<br> <b>Cuando</b> el valor se mantiene por debajo del umbral durante 10 minutos,<br> <b>Entonces</b> recibo la notificación “PM2.5 volvió a nivel seguro” y se registra la normalización.</span><br><br> <span>- Escenario 3: Preferencias por tipo de contaminante<br> <b>Dado</b> que desactivé notificaciones para CO,<br> <b>Cuando</b> CO supera su umbral,<br> <b>Entonces</b> no recibo notificación y el evento se marca en historial como “silenciado por preferencia”.</span><br><br> <span>- Escenario 4: Antispam (debounce)<br> <b>Dado</b> que recibí una alerta por PM2.5 en los últimos 5 minutos,<br> <b>Cuando</b> el valor vuelve a oscilar cruzando el umbral en ese periodo,<br> <b>Entonces</b> no se envía una alerta duplicada y se agrupan los eventos bajo un mismo registro con contador.</span> </td> </tr> </table> <br>
-
-
-<table>
-  <thead>
-    <th><b>Title</b><br><span style="font-weight: 200">Edición de parámetros de respuesta</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU009</span></th>
-  </thead>
-  <tr>
-    <td colspan="4"><b>User Story:</b><br>  
-      <span>Como usuario quiero poder editar los parámetros de respuesta del dispositivo IoT en función a lo que detecta, para controlar a qué nivel de contaminante la aplicación realiza la acción correspondiente.</span>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      <b>Acceptance Criteria:</b><br>
-      <span>- Escenario 1: Acceso y edición exitosa<br>
-      <b>Dado</b> que el usuario se encuentra en la vista principal de la aplicación,<br>
-      <b>Cuando</b> seleccione "Ajustes" y acceda a "Editar parámetros de respuesta",<br>
-      <b>Entonces</b> podrá elegir el nivel de contaminante y guardar los cambios de forma exitosa.</span><br><br>
-      <span>- Escenario 2: Edición fallida<br>
-      <b>Dado</b> que el usuario intenta guardar parámetros inválidos o incompletos,<br>
-      <b>Cuando</b> confirme la acción,<br>
-      <b>Entonces</b> el sistema muestra un mensaje de error indicando el problema y no se aplican los cambios.</span>
-    </td>
-  </tr>
+<table> 
+  <thead> 
+    <th><b>Title</b><br><span style="font-weight: 200">Notificaciones inteligentes de calidad del aire</span></th> 
+    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th> 
+    <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th> 
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU013</span></th> 
+  </thead> 
+  <tr> 
+    <td colspan="4"><b>User Story:</b><br> 
+      <span>Como usuario de AirQ, quiero recibir notificaciones inteligentes sobre la calidad del aire y las acciones ejecutadas automáticamente por el sistema basado en Machine Learning, para mantenerme informado del estado de mi ambiente sin necesidad de intervenir constantemente.</span> 
+    </td> 
+  </tr> 
+  <tr> 
+    <td colspan="4"> 
+      <b>Acceptance Criteria:</b><br> 
+      <span>- Escenario 1: Notificación por acción automática<br> 
+      <b>Dado</b> que el sistema detecta un nivel alto de contaminantes,<br> 
+      <b>Cuando</b> el modelo de Machine Learning ejecuta una acción (ej. encender ventilación),<br> 
+      <b>Entonces</b> el usuario recibe una notificación indicando la acción realizada y el motivo.</span><br><br>
+      <span>- Escenario 2: Retorno a condiciones normales<br> 
+      <b>Dado</b> que el ambiente vuelve a niveles seguros,<br> 
+      <b>Cuando</b> el sistema detecta estabilidad en los valores,<br> 
+      <b>Entonces</b> el usuario recibe una notificación indicando que la calidad del aire se ha normalizado.</span><br><br>
+      <span>- Escenario 3: Preferencias de notificación<br> 
+      <b>Dado</b> que el usuario configura sus preferencias,<br> 
+      <b>Cuando</b> ocurra un evento de calidad del aire o acción automática,<br> 
+      <b>Entonces</b> el sistema respeta sus configuraciones de notificación.</span><br><br>
+      <span>- Escenario 4: Control de notificaciones repetidas<br> 
+      <b>Dado</b> que múltiples eventos similares ocurren en corto tiempo,<br> 
+      <b>Cuando</b> el sistema genera notificaciones,<br> 
+      <b>Entonces</b> evita el envío de notificaciones duplicadas y agrupa los eventos relevantes.</span> 
+    </td> 
+  </tr> 
 </table>
+    
 <br>
 
 <table>
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Chat con soporte</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU010</span></th>
+    <th><b>Priority</b><br><span style="font-weight: 200">Baja</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU014</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
@@ -1375,9 +1492,9 @@ Entonces la nueva información se muestra correctamente en el perfil. </span>
 <table>
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">FAQ</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU011</span></th>
+    <th><b>Priority</b><br><span style="font-weight: 200">Baja</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">2</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU015</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
@@ -1403,9 +1520,9 @@ Entonces la nueva información se muestra correctamente en el perfil. </span>
 <table>
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Información de soporte</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU012</span></th>
+    <th><b>Priority</b><br><span style="font-weight: 200">Baja</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">1</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU016</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
@@ -1432,27 +1549,25 @@ Entonces la nueva información se muestra correctamente en el perfil. </span>
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Pasarela de pago</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU013</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU017</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario,
-Quiero realizar mis pagos a través de una pasarela segura,
-Para completar mis compras o suscripciones de manera confiable.</span>
+      <span>Como usuario, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.</span>
     </td>
   </tr>
   <tr>
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
       <span>- Escenario 1: Acceso a pasarela<br>
-Dado que el usuario selecciona un plan o producto,<br>
-Cuando elija “Pagar”,<br>
-Entonces será redirigido a la pasarela de pago integrada.</span><br><br>
+      <b>Dado<b> que el usuario selecciona un plan o producto,<br>
+      <b>Cuando<b> elija “Pagar”,<br>
+      <b>Entonces<b> será redirigido a la pasarela de pago integrada.</span><br><br>
       <span>- Escenario 2: Confirmación de pago<br>
-Dado que el usuario ingresa sus datos correctamente,<br>
-Cuando confirme la transacción,<br>
-Entonces recibirá un comprobante de pago válido.</span>
+      <b>Dado<b> que el usuario ingresa sus datos correctamente,<br>
+      <b>Cuando<b> confirme la transacción,<br>
+      <b>Entonces<b> recibirá un comprobante de pago válido.</span>
     </td>
   </tr>
 </table>
@@ -1462,27 +1577,25 @@ Entonces recibirá un comprobante de pago válido.</span>
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Lista de suscripciones</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU014</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">3</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU018</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario,
-Quiero visualizar una lista de mis suscripciones,
-Para conocer el estado de cada plan o servicio adquirido.</span>
+      <span>Como usuario, quiero visualizar una lista de mis suscripciones, para conocer el estado de cada plan o servicio adquirido.</span>
     </td>
   </tr>
   <tr>
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
       <span>- Escenario 1: Acceso a suscripciones<br>
-Dado que el usuario está autenticado,<br>
-Cuando acceda a “Mis suscripciones”,<br>
-Entonces verá un listado con los planes contratados.</span><br><br>
+      <b>Dado<b> que el usuario está autenticado,<br>
+      <b>Cuando<b> acceda a “Mis suscripciones”,<br>
+      <b>Entonces<b> verá un listado con los planes contratados.</span><br><br>
       <span>- Escenario 2: Estado de suscripción<br>
-Dado que la lista se muestra,<br>
-Cuando el usuario consulte los detalles,<br>
-Entonces podrá visualizar fechas de inicio, vencimiento y estado (activo/inactivo).</span>
+      <b>Dado<b> que la lista se muestra,<br>
+      <b>Cuando<b> el usuario consulte los detalles,<br>
+      <b>Entonces<b> podrá visualizar fechas de inicio, vencimiento y estado (activo/inactivo).</span>
     </td>
   </tr>
 </table>
@@ -1492,150 +1605,58 @@ Entonces podrá visualizar fechas de inicio, vencimiento y estado (activo/inacti
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Gestión de roles</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU015</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU019</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
-      <span>Como administrador,
-Quiero asignar y gestionar roles de usuario,
-Para controlar el acceso y permisos dentro de la aplicación.</span>
+      <span>Como administrador, quiero asignar y gestionar roles de usuario, para controlar el acceso a funcionalidades como monitoreo, configuración del sistema y gestión de dispositivos IoT.</span>
     </td>
   </tr>
   <tr>
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
       <span>- Escenario 1: Asignación de roles<br>
-Dado que el administrador gestiona usuarios,<br>
-Cuando edite un perfil,<br>
-Entonces podrá asignar un rol (ej. usuario, administrador, soporte).</span><br><br>
+      <b>Dado</b> que el administrador gestiona usuarios,<br>
+      <b>Cuando</b> edite un perfil,<br>
+      <b>Entonces</b> podrá asignar un rol (ej. usuario, administrador, soporte).</span><br><br>
       <span>- Escenario 2: Restricción por rol<br>
-Dado que un usuario tiene un rol específico,<br>
-Cuando intente acceder a una función restringida,<br>
-Entonces el sistema validará si tiene permisos suficientes.</span>
+      <b>Dado</b> que un usuario tiene un rol específico,<br>
+      <b>Cuando</b> intente acceder a funcionalidades restringidas (ej. configuración de dispositivos o gestión de usuarios),<br>
+      <b>Entonces</b> el sistema validará si tiene permisos suficientes y bloqueará el acceso si no corresponde.</span>
     </td>
   </tr>
 </table>
+
 <br>
 
 <table>
   <thead>
     <th><b>Title</b><br><span style="font-weight: 200">Historial de pagos</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU016</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">3</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU020</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario,
-Quiero visualizar mi historial de pagos,
-Para llevar un control de mis transacciones realizadas en la plataforma.</span>
+      <span>Como usuario, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.</span>
     </td>
   </tr>
   <tr>
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
       <span>- Escenario 1: Acceso a historial<br>
-Dado que el usuario está autenticado,<br>
-Cuando ingrese a “Historial de pagos”,<br>
-Entonces verá una lista con todas sus transacciones.</span><br><br>
+      <b>Dado</b> que el usuario está autenticado,<br>
+      <b>Cuando</b> ingrese a “Historial de pagos”,<br>
+      <b>Entonces</b> verá una lista con todas sus transacciones.</span><br><br>
       <span>- Escenario 2: Detalle de transacción<br>
-Dado que el usuario consulta una transacción,<br>
-Cuando seleccione un registro,<br>
-Entonces visualizará la fecha, monto, método de pago y estado de la operación.</span>
+      <b>Dado</b> que el usuario consulta una transacción,<br>
+      <b>Cuando</b> seleccione un registro,<br>
+      <b>Entonces</b> visualizará la fecha, monto, método de pago y estado de la operación.</span>
     </td>
   </tr>
 </table>
-<br>
 
-<table>
-  <thead>
-    <th><b>Title</b><br><span style="font-weight: 200">Suscripciones activas</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU017</span></th>
-  </thead>
-  <tr>
-    <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario,
-Quiero visualizar mis suscripciones activas,
-Para saber qué servicios tengo actualmente en uso.</span>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      <b>Acceptance Criteria:</b><br>
-      <span>- Escenario 1: Acceso a suscripciones activas<br>
-Dado que el usuario inició sesión,<br>
-Cuando acceda a “Suscripciones activas”,<br>
-Entonces verá únicamente las suscripciones vigentes.</span><br><br>
-      <span>- Escenario 2: Detalle de suscripción activa<br>
-Dado que el usuario consulta una suscripción activa,<br>
-Cuando la seleccione,<br>
-Entonces visualizará detalles como plan, fecha de inicio y fecha de vencimiento.</span>
-    </td>
-  </tr>
-</table>
-<br>
-
-<table>
-  <thead>
-    <th><b>Title</b><br><span style="font-weight: 200">Información de Contacto</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU018</span></th>
-  </thead>
-  <tr>
-    <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario,
-Quiero visualizar y actualizar mi información de contacto,
-Para mantener mis datos al día y recibir notificaciones correctas.</span>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      <b>Acceptance Criteria:</b><br>
-      <span>- Escenario 1: Visualización de información<br>
-Dado que el usuario está autenticado,<br>
-Cuando acceda a “Información de contacto”,<br>
-Entonces verá su correo, teléfono y dirección registrados.</span><br><br>
-      <span>- Escenario 2: Edición de información<br>
-Dado que el usuario quiere actualizar un dato,<br>
-Cuando lo modifique y guarde,<br>
-Entonces el sistema mostrará la nueva información correctamente.</span>
-    </td>
-  </tr>
-</table>
-<br>
-
-<table>
-  <thead>
-    <th><b>Title</b><br><span style="font-weight: 200">Restricciones de la aplicación</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">Estimación</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU019</span></th>
-  </thead>
-  <tr>
-    <td colspan="4"><b>User Story:</b><br>
-      <span>Como administrador,
-Quiero configurar restricciones en la aplicación,
-Para controlar el acceso y uso de ciertas funciones según políticas definidas.</span>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      <b>Acceptance Criteria:</b><br>
-      <span>- Escenario 1: Restricción por rol<br>
-Dado que un usuario intenta acceder a una función,<br>
-Cuando no tenga permisos,<br>
-Entonces el sistema mostrará un mensaje de restricción.</span><br><br>
-      <span>- Escenario 2: Restricción por suscripción<br>
-Dado que un usuario con plan básico intenta usar una función premium,<br>
-Cuando lo intente,<br>
-Entonces el sistema le notificará que necesita actualizar su plan.</span>
-    </td>
-  </tr>
-</table>
 <br>
 
 <table>
@@ -1940,7 +1961,6 @@ Entonces el sistema le notificará que necesita actualizar su plan.</td>
   </tbody>
 </table>
 
-
 ## 3.2. Impact Mapping
 
 **Segmento 1:**
@@ -2004,12 +2024,12 @@ Este diseño responde directamente a la problemática identificada en el Capítu
 
 Las siguientes User Stories han sido seleccionadas como drivers principales de arquitectura debido a su impacto en la solución:
 
-| ID | Título | Descripción |
-|----|------|------------|
+| ID    | Título                   | Descripción                            |
+| ----- | ------------------------ | -------------------------------------- |
 | HU004 | Monitoreo en tiempo real | Recepción y visualización de datos IoT |
-| HU006 | Automatización | Ejecución de acciones automáticas |
-| HU008 | Notificaciones | Alertas en tiempo real |
-| HU007 | Reportes | Generación de métricas y análisis |
+| HU006 | Automatización           | Ejecución de acciones automáticas      |
+| HU008 | Notificaciones           | Alertas en tiempo real                 |
+| HU007 | Reportes                 | Generación de métricas y análisis      |
 
 Estas historias definen:
 - Flujo de datos
@@ -2020,25 +2040,25 @@ Estas historias definen:
 
 #### 4.1.2.2. Quality Attribute Scenarios
 
-| Atributo | Fuente | Estímulo | Artefacto | Entorno | Respuesta | Medida |
-|--------|--------|---------|----------|--------|----------|--------|
-| Performance | Sensor IoT | Envío de datos | Backend API | Operación normal | Procesa y muestra datos | < 2 segundos |
-| Availability | Usuario | Acceso al sistema | Web App | Alta demanda | Sistema responde sin caída | 99.5% uptime |
-| Scalability | Sistema | Incremento de sensores | Backend | Alta carga | Escala horizontalmente | +1000 dispositivos |
-| Reliability | Sensor | Pérdida de conexión | Sistema | Error | Mantiene último dato | Sin pérdida de datos |
-| Security | Usuario | Inicio de sesión | API | Internet | Autenticación segura | JWT + cifrado |
+| Atributo     | Fuente     | Estímulo               | Artefacto   | Entorno          | Respuesta                  | Medida               |
+| ------------ | ---------- | ---------------------- | ----------- | ---------------- | -------------------------- | -------------------- |
+| Performance  | Sensor IoT | Envío de datos         | Backend API | Operación normal | Procesa y muestra datos    | < 2 segundos         |
+| Availability | Usuario    | Acceso al sistema      | Web App     | Alta demanda     | Sistema responde sin caída | 99.5% uptime         |
+| Scalability  | Sistema    | Incremento de sensores | Backend     | Alta carga       | Escala horizontalmente     | +1000 dispositivos   |
+| Reliability  | Sensor     | Pérdida de conexión    | Sistema     | Error            | Mantiene último dato       | Sin pérdida de datos |
+| Security     | Usuario    | Inicio de sesión       | API         | Internet         | Autenticación segura       | JWT + cifrado        |
 
 ---
 
 #### 4.1.2.3. Constraints
 
-| ID | Título | Descripción |
-|----|------|------------|
-| TC001 | Uso de IoT | El sistema debe integrarse con sensores físicos |
-| TC002 | Arquitectura distribuida | Backend debe ser desacoplado |
-| TC003 | Cloud deployment | Debe desplegarse en la nube |
-| TC004 | RESTful APIs | Comunicación basada en APIs |
-| TC005 | Multi-plataforma | Web + Mobile |
+| ID    | Título                   | Descripción                                     |
+| ----- | ------------------------ | ----------------------------------------------- |
+| TC001 | Uso de IoT               | El sistema debe integrarse con sensores físicos |
+| TC002 | Arquitectura distribuida | Backend debe ser desacoplado                    |
+| TC003 | Cloud deployment         | Debe desplegarse en la nube                     |
+| TC004 | RESTful APIs             | Comunicación basada en APIs                     |
+| TC005 | Multi-plataforma         | Web + Mobile                                    |
 
 ---
 
@@ -2058,13 +2078,13 @@ Estos drivers guían TODAS las decisiones arquitectónicas.
 
 ### 4.1.4. Architectural Design Decisions
 
-| Decisión | Justificación |
-|--------|-------------|
-| Arquitectura basada en microservicios | Permite escalabilidad independiente |
-| Uso de APIs REST | Facilita integración entre componentes |
-| Arquitectura orientada a eventos | Ideal para IoT y datos en tiempo real |
-| Uso de cloud (AWS/Firebase) | Alta disponibilidad |
-| Base de datos híbrida | SQL + NoSQL |
+| Decisión                              | Justificación                          |
+| ------------------------------------- | -------------------------------------- |
+| Arquitectura basada en microservicios | Permite escalabilidad independiente    |
+| Uso de APIs REST                      | Facilita integración entre componentes |
+| Arquitectura orientada a eventos      | Ideal para IoT y datos en tiempo real  |
+| Uso de cloud (AWS/Firebase)           | Alta disponibilidad                    |
+| Base de datos híbrida                 | SQL + NoSQL                            |
 
 ---
 
@@ -2097,15 +2117,15 @@ Más detalle en: [Miro](https://miro.com/app/board/uXjVJF8TGBw=/?share_link_id=9
 
 A partir del EventStorming realizado en Miro, nuestro equipo llevó a cabo una sesión de Candidate ContextDiscovery para identificar los bounded contexts de nuestra solución. Utilizamos principalmente la técnicalook-for-pivotal-events durante la sesión.
 
-| Contexto candidato             | Descripción (alcance del dominio)                                                                 | Historias de Usuario que lo sustentan |
-|--------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
-| **Identity & Access (IAM)**    | Registro, inicio/cierre de sesión, recuperación/cambio de contraseña, gestión de perfil/contacto. Provee identidad y `claims` a todo el sistema. | US001, US002, US003, US018 |
-| **Gestión de Roles & Restricciones** | Administración de roles (usuario, admin, soporte) y políticas de acceso por plan de suscripción. | US015, US019 |
-| **IoT & Control de Respuesta** | Ingesta de datos desde dispositivos, ejecución de acciones manuales/automáticas y edición de parámetros de respuesta. | US005, US006, US008, US009 |
-| **Notificaciones**             | Envío de alertas inmediatas, recordatorios y retorno a nivel seguro con antispam/debounce.       | US008 |
-| **Reportes & Insights**        | Generación y distribución de reportes (PDF/Excel) con métricas y tendencias periódicas.           | US007 |
-| **Facturación & Suscripciones**| Pasarela de pago, listado de suscripciones, historial de pagos, estado de suscripciones activas. | US013, US014, US016, US017 |
-| **Soporte & Autoayuda**        | Atención al usuario vía chat, FAQ y datos de contacto de soporte.                                | US010, US011, US012 |
+| Contexto candidato                   | Descripción (alcance del dominio)                                                                                                                | Historias de Usuario que lo sustentan |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| **Identity & Access (IAM)**          | Registro, inicio/cierre de sesión, recuperación/cambio de contraseña, gestión de perfil/contacto. Provee identidad y `claims` a todo el sistema. | US001, US002, US003, US018            |
+| **Gestión de Roles & Restricciones** | Administración de roles (usuario, admin, soporte) y políticas de acceso por plan de suscripción.                                                 | US015, US019                          |
+| **IoT & Control de Respuesta**       | Ingesta de datos desde dispositivos, ejecución de acciones manuales/automáticas y edición de parámetros de respuesta.                            | US005, US006, US008, US009            |
+| **Notificaciones**                   | Envío de alertas inmediatas, recordatorios y retorno a nivel seguro con antispam/debounce.                                                       | US008                                 |
+| **Reportes & Insights**              | Generación y distribución de reportes (PDF/Excel) con métricas y tendencias periódicas.                                                          | US007                                 |
+| **Facturación & Suscripciones**      | Pasarela de pago, listado de suscripciones, historial de pagos, estado de suscripciones activas.                                                 | US013, US014, US016, US017            |
+| **Soporte & Autoayuda**              | Atención al usuario vía chat, FAQ y datos de contacto de soporte.                                                                                | US010, US011, US012                   |
 
 ---
 
@@ -2113,26 +2133,26 @@ A partir del EventStorming realizado en Miro, nuestro equipo llevó a cabo una s
 
 Los Domain Message Flows modelan las interacciones entre los diferentes bounded contexts, mostrandocómo se comunican entre sí mediante comandos, eventos y consultas. A continuación, presentamos los flujosde mensaje para cuatro escenarios clave de nuestra aplicación:
 
-| Comando              | Evento(s) resultante(s)                     | Productor              | Consumidor(es)                        |
-|----------------------|----------------------------------------------|------------------------|---------------------------------------|
-| `RegisterUser`         | `UserRegistered`                              | IAM                    | Roles & Restricciones, Auditoría      |
-| `LoginUser`            | `LoginSucceeded` / `LoginFailed`                | IAM                    | Auditoría                             |
-| `UpdateProfile`        | `UserProfileUpdated`                          | IAM                    | Auditoría                             |
-| `UpdateContactInfo`    | `ContactInfoUpdated`                          | IAM                    | Notificaciones                        |
-| `AssignRole`           | `RoleAssigned`                                | Roles & Restricciones  | IAM, Auditoría                        |
-| `SetRestriction`       | `RestrictionApplied`                          | Roles & Restricciones  | Frontend, Auditoría                   |
-| `UploadReading`        | `ReadingUploaded`                             | IoT                    | Reglas, Reportes                      |
-| `TriggerManualAction`  | `ManualActionExecuted` / `ManualActionFailed`   | IoT                    | Auditoría, Historial                  |
-| `TriggerAutoAction`    | `AutoActionExecuted` / `AutoActionFailed`       | IoT                    | Notificaciones, Auditoría             |
-| `UpdateThreshold`      | `ThresholdUpdated`                            | IoT                    | Auditoría                             |
-| `RaiseAlert`           | `AlertRaised`                                 | IoT/Notificaciones     | Usuario, Auditoría                    |
-| `GenerateReport`       | `ReportGenerated`                             | Reportes               | Usuario, Notificaciones               |
-| `SendReport`           | `ReportSent`                                  | Reportes               | Usuario, Auditoría                    |
-| `MakePayment`          | `PaymentSucceeded` / `PaymentFailed`            | Facturación            | Suscripciones, Auditoría              |
-| `UpdateSubscription`   | `SubscriptionUpdated`                         | Suscripciones          | Frontend, Notificaciones              |
-| `RecordPayment`        | `PaymentRecorded`                             | Facturación            | Auditoría                             |
-| `OpenChat`             | `ChatOpened`                                  | Soporte                | Auditoría                             |
-| `ChatFailed`           | `ChatUnavailable`                             | Soporte                | Auditoría                             |
+| Comando               | Evento(s) resultante(s)                       | Productor             | Consumidor(es)                   |
+| --------------------- | --------------------------------------------- | --------------------- | -------------------------------- |
+| `RegisterUser`        | `UserRegistered`                              | IAM                   | Roles & Restricciones, Auditoría |
+| `LoginUser`           | `LoginSucceeded` / `LoginFailed`              | IAM                   | Auditoría                        |
+| `UpdateProfile`       | `UserProfileUpdated`                          | IAM                   | Auditoría                        |
+| `UpdateContactInfo`   | `ContactInfoUpdated`                          | IAM                   | Notificaciones                   |
+| `AssignRole`          | `RoleAssigned`                                | Roles & Restricciones | IAM, Auditoría                   |
+| `SetRestriction`      | `RestrictionApplied`                          | Roles & Restricciones | Frontend, Auditoría              |
+| `UploadReading`       | `ReadingUploaded`                             | IoT                   | Reglas, Reportes                 |
+| `TriggerManualAction` | `ManualActionExecuted` / `ManualActionFailed` | IoT                   | Auditoría, Historial             |
+| `TriggerAutoAction`   | `AutoActionExecuted` / `AutoActionFailed`     | IoT                   | Notificaciones, Auditoría        |
+| `UpdateThreshold`     | `ThresholdUpdated`                            | IoT                   | Auditoría                        |
+| `RaiseAlert`          | `AlertRaised`                                 | IoT/Notificaciones    | Usuario, Auditoría               |
+| `GenerateReport`      | `ReportGenerated`                             | Reportes              | Usuario, Notificaciones          |
+| `SendReport`          | `ReportSent`                                  | Reportes              | Usuario, Auditoría               |
+| `MakePayment`         | `PaymentSucceeded` / `PaymentFailed`          | Facturación           | Suscripciones, Auditoría         |
+| `UpdateSubscription`  | `SubscriptionUpdated`                         | Suscripciones         | Frontend, Notificaciones         |
+| `RecordPayment`       | `PaymentRecorded`                             | Facturación           | Auditoría                        |
+| `OpenChat`            | `ChatOpened`                                  | Soporte               | Auditoría                        |
+| `ChatFailed`          | `ChatUnavailable`                             | Soporte               | Auditoría                        |
 
 ---
 
@@ -2140,15 +2160,15 @@ Los Domain Message Flows modelan las interacciones entre los diferentes bounded 
 
 Los Bounded Context Canvases son herramientas visuales que nos permiten documentar las característicasfundamentales de cada contexto delimitado, capturando su propósito estratégico, modelo de dominio,lenguaje ubicuo, políticas y relaciones con otros contextos. A continuación, presentamos los canvases paranuestros cuatro bounded contexts identificados, que nos ayudaron a definir claramente las responsabilidadesy límites de cada uno.
 
-| Contexto                        | Propósito                                                              | Responsabilidades principales                                      | Entidades / Aggregates                     | Eventos emitidos                                                                 |
-|---------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------------|
-| **Identity & Access (IAM)**     | Autenticar/autorizar usuarios y gestionar perfiles.                     | Registro, login/logout, recuperación de credenciales, edición de datos de contacto. | User, Credential, Session, ContactInfo     | UserRegistered, LoginSucceeded, LoginFailed, UserProfileUpdated, ContactInfoUpdated |
-| **Gestión de Roles & Restricciones** | Asignar roles y aplicar restricciones por suscripción/rol.             | Gestión de permisos, control de features premium.                    | Role, RestrictionPolicy                     | RoleAssigned, RestrictionApplied                                                 |
-| **IoT & Control de Respuesta**  | Gestionar dispositivos, ingesta de lecturas, ejecutar acciones manuales/automáticas. | Lecturas, umbrales, reglas, historial de acciones.                   | Device, Reading, Rule, Action, Threshold    | ReadingUploaded, ManualActionExecuted, AutoActionExecuted, ThresholdUpdated, AlertRaised |
-| **Notificaciones**              | Comunicar alertas, recordatorios y retornos a seguro.                   | Push/email, antispam, preferencias de usuario.                       | Notification, Alert, Reminder               | AlertRaised, NotificationSent, NotificationFailed                                |
-| **Reportes & Insights**         | Componer y distribuir reportes periódicos.                              | Generación de PDF/Excel, almacenamiento histórico.                   | Report, Metric                              | ReportGenerated, ReportSent                                                      |
-| **Facturación & Suscripciones** | Procesar pagos y controlar suscripciones.                               | Transacciones, historial, planes activos.                            | Payment, Subscription                       | PaymentSucceeded, SubscriptionUpdated, PaymentRecorded                           |
-| **Soporte & Autoayuda**         | Resolver dudas de usuarios vía chat/FAQ.                                | Chat, base de FAQs, datos de contacto.                               | ChatSession, FAQEntry                       | ChatOpened, ChatUnavailable                
+| Contexto                             | Propósito                                                                            | Responsabilidades principales                                                       | Entidades / Aggregates                   | Eventos emitidos                                                                         |
+| ------------------------------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Identity & Access (IAM)**          | Autenticar/autorizar usuarios y gestionar perfiles.                                  | Registro, login/logout, recuperación de credenciales, edición de datos de contacto. | User, Credential, Session, ContactInfo   | UserRegistered, LoginSucceeded, LoginFailed, UserProfileUpdated, ContactInfoUpdated      |
+| **Gestión de Roles & Restricciones** | Asignar roles y aplicar restricciones por suscripción/rol.                           | Gestión de permisos, control de features premium.                                   | Role, RestrictionPolicy                  | RoleAssigned, RestrictionApplied                                                         |
+| **IoT & Control de Respuesta**       | Gestionar dispositivos, ingesta de lecturas, ejecutar acciones manuales/automáticas. | Lecturas, umbrales, reglas, historial de acciones.                                  | Device, Reading, Rule, Action, Threshold | ReadingUploaded, ManualActionExecuted, AutoActionExecuted, ThresholdUpdated, AlertRaised |
+| **Notificaciones**                   | Comunicar alertas, recordatorios y retornos a seguro.                                | Push/email, antispam, preferencias de usuario.                                      | Notification, Alert, Reminder            | AlertRaised, NotificationSent, NotificationFailed                                        |
+| **Reportes & Insights**              | Componer y distribuir reportes periódicos.                                           | Generación de PDF/Excel, almacenamiento histórico.                                  | Report, Metric                           | ReportGenerated, ReportSent                                                              |
+| **Facturación & Suscripciones**      | Procesar pagos y controlar suscripciones.                                            | Transacciones, historial, planes activos.                                           | Payment, Subscription                    | PaymentSucceeded, SubscriptionUpdated, PaymentRecorded                                   |
+| **Soporte & Autoayuda**              | Resolver dudas de usuarios vía chat/FAQ.                                             | Chat, base de FAQs, datos de contacto.                                              | ChatSession, FAQEntry                    | ChatOpened, ChatUnavailable                                                              |
 ---
 
 ### 4.2.5. Context Mapping
@@ -2156,16 +2176,16 @@ Los Bounded Context Canvases son herramientas visuales que nos permiten document
 Después de identificar nuestros bounded contexts a través del EventStorming, procedimos a analizar lasrelaciones entre ellos para desarrollar un context mapping efectivo. Este proceso fue crucial para entendercómo los diferentes contextos interactúan entre sí y para definir claramente sus responsabilidades y límites
 
 
-| Origen (Upstream)        | Destino (Downstream)     | Tipo de relación             | Estilo de integración          | Motivo/Contrato                                         |
-|---------------------------|--------------------------|------------------------------|--------------------------------|---------------------------------------------------------|
-| **IAM**                  | Todos                    | Conformist                  | OIDC/JWT + Webhooks            | Todos aceptan identidad/claims tal como IAM los publica. |
-| **Roles & Restricciones**| Frontend                 | Customer/Supplier           | REST + JWT Claims              | Habilita/limita funcionalidades según rol/plan.         |
-| **IoT**                  | Reportes                 | Customer/Supplier           | Stream de lecturas + ETL       | Datos crudos procesados en métricas/insights.           |
-| **IoT**                  | Notificaciones           | Partnership                 | Pub/Sub eventos `alert.*`      | SLA de baja latencia para alertas críticas.             |
-| **Facturación**          | Suscripciones            | Customer/Supplier + ACL     | REST + eventos `billing.*`     | Estado de pago actualiza features habilitados.          |
-| **Reportes**             | Notificaciones           | Customer/Supplier           | Evento `report.ready`          | Aviso de disponibilidad de reporte.                     |
-| **Soporte**              | IAM                      | Conformist                  | REST                           | Chat vinculado a identidad del usuario.                 |
-| **Todos**                | Auditoría                | Conformist                  | Event-sourcing ligero          | Trazabilidad completa.                                  |
+| Origen (Upstream)         | Destino (Downstream) | Tipo de relación        | Estilo de integración      | Motivo/Contrato                                          |
+| ------------------------- | -------------------- | ----------------------- | -------------------------- | -------------------------------------------------------- |
+| **IAM**                   | Todos                | Conformist              | OIDC/JWT + Webhooks        | Todos aceptan identidad/claims tal como IAM los publica. |
+| **Roles & Restricciones** | Frontend             | Customer/Supplier       | REST + JWT Claims          | Habilita/limita funcionalidades según rol/plan.          |
+| **IoT**                   | Reportes             | Customer/Supplier       | Stream de lecturas + ETL   | Datos crudos procesados en métricas/insights.            |
+| **IoT**                   | Notificaciones       | Partnership             | Pub/Sub eventos `alert.*`  | SLA de baja latencia para alertas críticas.              |
+| **Facturación**           | Suscripciones        | Customer/Supplier + ACL | REST + eventos `billing.*` | Estado de pago actualiza features habilitados.           |
+| **Reportes**              | Notificaciones       | Customer/Supplier       | Evento `report.ready`      | Aviso de disponibilidad de reporte.                      |
+| **Soporte**               | IAM                  | Conformist              | REST                       | Chat vinculado a identidad del usuario.                  |
+| **Todos**                 | Auditoría            | Conformist              | Event-sourcing ligero      | Trazabilidad completa.                                   |
 
 ---
 

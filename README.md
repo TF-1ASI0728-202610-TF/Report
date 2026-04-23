@@ -214,7 +214,7 @@ Se encargó de la introducción al diseño arquitectónico, participando en la d
 ### [Student Outcome](#student-outcome)
 ---
 
-## [Capítulo I: Introducción](#capítulo-i-introducción)
+## [Capítulo I: Introducción](#capítulo-i-introducción-1)
 
 - [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -232,7 +232,7 @@ Se encargó de la introducción al diseño arquitectónico, participando en la d
 
 ---
 
-## [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+## [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis-1)
 
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
@@ -253,7 +253,7 @@ Se encargó de la introducción al diseño arquitectónico, participando en la d
 
 ---
 
-## [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+## [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification-1)
 
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
@@ -262,7 +262,7 @@ Se encargó de la introducción al diseño arquitectónico, participando en la d
 
 ---
 
-## [Capítulo IV: Strategic-Level Software Design](#capítulo-iv-strategic-level-software-design)
+## [Capítulo IV: Strategic-Level Software Design](#capítulo-iv-strategic-level-software-design-1)
 
 ### [4.1. Strategic-Level Attribute-Driven Design](#41-strategic-level-attribute-driven-design)
 - [4.1.1. Design Purpose](#411-design-purpose)
@@ -282,10 +282,10 @@ Se encargó de la introducción al diseño arquitectónico, participando en la d
 - [4.2.5. Context Mapping](#425-context-mapping)
 
 ### [4.3. Software Architecture](#43-software-architecture)
-- [4.3.1. System Landscape Diagram](#431-system-landscape-diagram)
-- [4.3.2. Context Level Diagrams](#432-context-level-diagrams)
-- [4.3.3. Container Level Diagrams](#433-container-level-diagrams)
-- [4.3.4. Deployment Diagrams](#434-deployment-diagrams)
+- [4.3.1. Software Architecture System Landscape Diagram](#431-software-architecture-system-landscape-diagram)
+- [4.3.2. Software Architecture Context Level Diagrams](#432-software-architecture-context-level-diagram)
+- [4.3.3. Software Architecture Container Level Diagrams](#433-software-architecture-container-level-diagram)
+- [4.3.4. Software Architecture Deployment Diagrams](#434-software-architecture-deployment-diagram)
 
 ---
 
@@ -454,7 +454,7 @@ Documentó el diseño arquitectónico y los drivers arquitectónicos.</li>
 
 <br>
 
-# Capítulo I: Introducción
+# CAPÍTULO I: INTRODUCCIÓN
 
 ## 1.1 Startup Profile
 
@@ -607,7 +607,7 @@ Para el desarrollo de AirQ se han identificado dos segmentos objetivos principal
 
 ---
 
-# CAPÍTULO II: Requirements Elicitation & Analysis
+# CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS
 
 ---
 
@@ -1045,9 +1045,15 @@ En esta sección se presentan los Empathy Mapping, esta herramienta nos ayudará
 
 ---
 
-### 2.3.4. As-Is Scenario Mapping (Customer Journey)
-### FALTA ESTA PARTE
+### 2.3.4. As-Is Scenario Mapping 
 
+**Segmento 1**
+
+![As-Is Scenario Mapping - Segmento 1](assets/Chapter3/As-Is_1.png)
+
+**Segmento 2**
+
+![As-Is Scenario Mapping - Segmento 2](assets/Chapter3/As-Is_2.png)
 
 ---
 
@@ -1066,9 +1072,19 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 
 ---
 
-# CAPÍTULO III: Requirements Specification
+# CAPÍTULO III: REQUIREMENTS SPECIFICATION
 
-## 3.1. User Stories
+## 3.1. To-Be Scenario Mapping
+
+**Segmento 1**
+
+![To-Be Scenario Mapping - Segmento 1](assets/Chapter3/To-Be_1.png)
+
+**Segmento 2**
+
+![To-Be Scenario Mapping - Segmento 2](assets/Chapter3/To-Be_2.png)
+
+## 3.2. User Stories
 
 ### Lista de User Stories
 <table>
@@ -1986,17 +2002,19 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 </table>
 
 
-## 3.2. Impact Mapping
+## 3.3. Impact Mapping
 
 **Segmento 1:**
 
-<img src= "assets/Chapter3/Impact_map_1.png">
+![Impact Mapping - Segmento 1](assets/Chapter3/Impact_map_1.png)
+
 
 **Segmento 2:**
 
-<img src= "assets/Chapter3/Impact_map_2.png">
+![Impact Mapping - Segmento 2](assets/Chapter3/Impact_map_2.png)
 
-## 3.3. Product Backlog
+
+## 3.4. Product Backlog
 
 
 
@@ -2027,7 +2045,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 
 ---
 
-# CAPÍTULO IV: Strategic-Level Software Design
+# CAPÍTULO IV: STRATEGIC-LEVEL SOFTWARE DESIGN
 
 ---
 
@@ -2143,7 +2161,7 @@ Más detalle en: [Miro](https://miro.com/app/board/uXjVJF8TGBw=/?share_link_id=9
 
 ---
 
-#### 4.1.1.1. Candidate Context Discovery.
+### 4.2.2. Candidate Context Discovery.
 
 A partir del EventStorming realizado en Miro, nuestro equipo llevó a cabo una sesión de Candidate ContextDiscovery para identificar los bounded contexts de nuestra solución. Utilizamos principalmente la técnicalook-for-pivotal-events durante la sesión.
 
@@ -2226,25 +2244,25 @@ Después de identificar nuestros bounded contexts a través del EventStorming, p
 
 ---
 
-### 4.3.1. System Landscape Diagram
+### 4.3.1. Software Architecture System Landscape Diagram
 
   <img src="assets/Chapter4/landscapeDiagram.jpg">
 
 ---
 
-### 4.3.2. Context Level Diagram
+### 4.3.2. Software Architecture Context Level Diagram
 
 <img src="assets/Chapter4/ContextDiagram.jpg">
 
 ---
 
-### 4.3.3. Container Level Diagram
+### 4.3.3. Software Architecture Container Level Diagram
 
 <img src="assets/Chapter4/ContainerDiagram.jpg">
 
 ---
 
-### 4.3.4. Deployment Diagram
+### 4.3.4. Software Architecture Deployment Diagram
 
 Infraestructura:
 

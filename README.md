@@ -1049,11 +1049,11 @@ En esta sección se presentan los Empathy Mapping, esta herramienta nos ayudará
 
 **Segmento 1**
 
-![As-Is Scenario Mapping - Segmento 1](assets/Chapter3/As-Is_1.png)
+![As-Is Scenario Mapping - Segmento 1](assets/Chapter2/As-Is_1.png)
 
 **Segmento 2**
 
-![As-Is Scenario Mapping - Segmento 2](assets/Chapter3/As-Is_2.png)
+![As-Is Scenario Mapping - Segmento 2](assets/Chapter2/As-Is_2.png)
 
 ---
 

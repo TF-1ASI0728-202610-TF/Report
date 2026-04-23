@@ -2186,7 +2186,7 @@ Arquitectura general:
 - Mobile Application  
 - External Services (Cloud, ML APIs)
 
-  <img src="assets/Chapter4/landscapeDiagram.JPG">
+  <img src="assets/Chapter4/landscapeDiagram.jpg">
 
 ---
 
@@ -2194,7 +2194,7 @@ Arquitectura general:
 
 Actor → Sistema AirQ → Servicios externos
 
-<img src="assets/Chapter4/ContextDiagram.JPG">
+<img src="assets/Chapter4/ContextDiagram.jpg">
 
 ---
 
@@ -2208,7 +2208,7 @@ Componentes:
 - IoT Gateway
 - Database (SQL + NoSQL)
 
-<img src="assets/Chapter4/ContainerDiagram.JPG">
+<img src="assets/Chapter4/ContainerDiagram.jpg">
 
 ---
 
@@ -2222,6 +2222,6 @@ Infraestructura:
 - Bases de datos
 - Servicios IoT
 
-<img src="assets/Chapter4/DeploymentDiagram.JPG">
+<img src="assets/Chapter4/DeploymentDiagram.jpg">
 
 ---

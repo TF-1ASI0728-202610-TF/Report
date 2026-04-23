@@ -858,224 +858,210 @@ Esto permite posicionar a AirQ como una solución práctica, escalable y centrad
 
 ### 2.2.1. Diseño de entrevistas
 
-El diseño de entrevistas se estructuró con el objetivo de validar la problemática relacionada con la calidad del aire en espacios cerrados, comprender los hábitos de los usuarios y evaluar la aceptación de la propuesta de valor de AirQ.
+En esta sección definiremos las pareguntas con el objetivo de validar el problema, entender los hábitos de lsa personas respecto a la calidad del aire en sus espacios cerrados y evaluar la propuesta de valor de AirQ.
 
-Las entrevistas se organizaron en cinco bloques:
+El perfil de los entrevistados seran las personas que regularmente esten en espacios cerrados
 
-1. **Conciencia del problema**
-2. **Experiencias y dolores**
-3. **Soluciones actuales**
-4. **Validación de la propuesta**
-5. **Modelo de valor**
+A continuación, se presentaran las preguntas propuestas para las entrevistas:
 
-Este enfoque permitió obtener información cualitativa relevante para la construcción de artefactos UX.
+## Bloque 1: Contexto y Concienciación del Problema (Calidad del Aire)
+
+1. "Cuéntame, ¿qué tan consciente eres de la calidad del aire aquí en Lima? ¿Es un tema del que hablas o escuchas con frecuencia?"
+
+- Objetivo: Medir el nivel de conciencia general sobre el problema.
+
+2. "Cuando piensas en la contaminación del aire, ¿dónde crees que es un problema mayor: en la calle o dentro de tu casa/oficina? ¿Por qué?"
+
+- Objetivo: Entender si perciben el riesgo también en ambientes interiores, que es donde actúa AirQ.
+
+3. "¿Has tomado alguna medida o has cambiado algún hábito en tu día a día por la contaminación? (ej: usar mascarilla, purificadores de aire, ventilar a ciertas horas, comprar plantas, etc.)"
+
+- Objetivo: Descubrir comportamientos existentes y soluciones actuales, aunque sean rudimentarias.
+
+## Bloque 2: Experiencias y Dolores Específicos (El Dolor)
+
+4. "¿Has notado que tú o alguien en tu familia (pareja, hijos, padres) tenga molestias como alergias, picor de ojos, tos seca o problemas para respirar que empeoran dentro de casa o la oficina?"
+
+- Objetivo: Identificar el "dolor" tangible y personal que causa el problema.
+
+5. "Si tuvieras que adivinar, ¿cómo calificarías la calidad del aire dentro de tu hogar? ¿Y en tu lugar de trabajo? ¿Excelente, buena, regular, mala?"
+
+- Objetivo: Establecer una línea base de su percepción subjetiva actual.
+
+6. "Si supieras que el aire en tu casa está contaminado, ¿qué sentirías? (preocupación, ansiedad, ganas de actuar, etc.)"
+
+- Objetivo: Evaluar la intensidad emocional del problema.
+
+## Bloque 3: Soluciones Actuales y Expectativas 
+
+7. "Hoy en día, ¿cómo decides cuándo abrir una ventana para ventilar? ¿O cuándo encender un purificador de aire si tienes uno?"
+
+  - Objetivo: Entender el proceso de decisión actual, que suele ser por intuición o horarios fijos.
+
+8. "¿Qué te gustaría saber EXACTAMENTE sobre el aire que respiras en tu casa que hoy no sabes?" (ej: niveles de polvo, químicos, humedad, etc.)
+
+ - Objetivo: Descubrir las métricas específicas que les importan.
+
+9. "Imagina que tuvieras datos en tiempo real sobre la calidad del aire en tu hogar. ¿Qué te gustaría que hiciera ese sistema? ¿Solo mostrarte los datos? ¿Alertarte? ¿Activar automáticamente un purificador o una ventana?"
+
+- Objetivo: Explorar el deseo de automatización vs. control manual, y validar características de tu producto.
+
+## Bloque 4: Presentación de la Solución (Validar AirQ)
+
+Ahora, le hablamos un poco de la propuesta: 
+"Estamos desarrollando un sistema llamado AirQ. Es un dispositivo que mide la calidad del aire en tiempo real dentro del lugar en donde estes y te envía alertas a tu teléfono con recomendaciones (ej: 'alta concentración de polvo, es mejor cerrar la ventana'). Basado en lo que hemos hablado, ¿qué opinas?"
+
+(Objetivo: Obtener una primera reacción general).
+
+10. "¿Una solución como esta resolvería alguna de las preocupaciones que mencionaste antes?"
+
+- Objetivo: Conectar directamente tu solución con el "dolor" que ellos expresaron.
+
+11. "¿Qué información sería la MÁS importante para ti que mostrara este dispositivo?" (Puedes proponer: CO2, humedad, temperatura, etc.)
+
+- Objetivo: Priorizar las métricas que debe medir tu dispositivo.
+
+12. "¿Cómo te imaginarías usando este sistema en tu día a día?"
+
+- Objetivo: Entender la integración en su rutina y la usabilidad esperada.
+
+## Bloque 5: Valoración y Cierre
+
+13. "¿Qué obstáculo verías para usar algo así? (ej: precio, instalación complicada, desconfianza en los datos)"
+
+- Objetivo: Identificar objeciones principales para poder abordarlas.
+
+14. "Para terminar, si un sistema como este existiera y confiaras en él, ¿qué valor le asignarías? ¿Estarías dispuesto a pagar una suscripción por los datos y alertas, o preferirías una compra única del dispositivo?"
+
+- Objetivo: Explorar el modelo de negocio potencial, sin presionar.
+
+15. "¿Hay algo más sobre tu experiencia con la calidad del aire que no hayamos cubierto y que sea importante para ti?"
+
+- Objetivo: Dar espacio para que compartan algo inesperado.
 
 ---
 
 ### 2.2.2. Registro de entrevistas
 
-(Se mantiene tu contenido original porque está bien estructurado)
+#### Segmento Objetivo 1: Instituciones educativas
 
-Incluye evidencia real:
-- Video
-- Foto
-- Resumen detallado
+| **Entrevista 1** |
+|------------------|
+| <strong>Nombre:</strong> Dayana Rojas Sosa |
+| <strong>Edad:</strong> 20 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Instituciones Educativas |
+| **Resumen:** La entrevistada reconoce que a la hora de dar clases, la mayor parte del tiempo las ventanas están cerradas y siente molestias como alergias, mareos y dolores de cabeza. Menciona que tanto docentes como estudiantes suelen pasar varias horas en aulas con poca ventilación, lo que genera cansancio, falta de concentración y quejas frecuentes de sequedad en garganta. En general, afirma que no existe una cultura de preocuparse por la calidad del aire en la escuela, ya que rara vez se conversa del tema. Las medidas actuales son básicas, como abrir ventanas en los recreos o cuando el ambiente se siente “pesado”, sin sistemas de monitoreo ni purificación. Califica la calidad del aire en las aulas como “regular a mala”, mientras que en su casa la percibe como “mejor”, aunque solo por percepción. Si se confirmara que el aire en el aula está contaminado, expresaría preocupación por el impacto en el aprendizaje y la salud de los estudiantes. Considera importante monitorear niveles de CO₂, humedad y temperatura, ya que el exceso de dióxido de carbono puede afectar la atención. Espera que un sistema en tiempo real no solo muestre indicadores claros, sino que envíe alertas a docentes y directivos, e incluso pueda activar ventilación automática o recomendar pausas para ventilar. Señala que esta solución sería muy útil como herramienta pedagógica y de gestión, pues permitiría sensibilizar a la comunidad educativa y respaldar solicitudes de mejoras de infraestructura. Prefiere que la institución realice la inversión en los dispositivos y que exista una suscripción para reportes y alertas, con acceso desde pantallas en las aulas y aplicaciones móviles. Identifica como principales obstáculos la falta de presupuesto y la poca conciencia sobre la calidad del aire en interiores, pese a que en la escuela se pasa la mayor parte del día. |
+| <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdE1k7pQAmpIrnapz55HGJQBs9CxM6ZNVItXvDza7KO0_Q?e=AgIjc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdE1k7pQAmpIrnapz55HGJQBs9CxM6ZNVItXvDza7KO0_Q?e=AgIjc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/Chapter2/DayanaRojas.jpeg" alt="Entrevista - FatimaUrbina" height="200"/> |
+
+
+
+#### Segmento Objetivo 2: Instituciones coorporativas
+
+| **Entrevista 2** |
+|------------------|
+| <strong>Nombre:</strong> Fatima Urbina |
+| <strong>Edad:</strong> 24 |
+| <strong>Procedencia:</strong> Lima |
+| <strong>Segmento:</strong> Instituciones Coorporativas |
+| <strong>Resumen:</strong> El entrevistado reconoce que la calidad del aire en Lima es un problema, pero afirma que en su entorno laboral casi no se conversa del tema, salvo cuando alguien menciona que “el aire está cargado”. Identifica que el aire es peor en la oficina que en la calle, ya que permanecen muchas horas con ventanas cerradas y aire acondicionado, lo que genera un ambiente “viciado”. Sus medidas actuales son improvisadas, como abrir ventanas cuando lo sienten necesario, sin purificadores ni sistemas de control. Señala que varios compañeros sufren molestias como dolor de cabeza, sequedad en la garganta, cansancio y falta de aire tras varias horas. Califica la calidad del aire en la oficina como “mala” y en su casa como “buena” (aunque solo por percepción). Frente a la posibilidad de saber que el aire en la oficina está contaminado, expresa preocupación y frustración, pues depende de que la empresa actúe. Le gustaría monitorear principalmente niveles de CO₂, seguidos por humedad y temperatura, y espera que un sistema en tiempo real no solo muestre gráficos, sino que envíe alertas y automatice ventilación o purificadores. Considera que una solución así sería útil y daría argumentos para convencer a la gerencia, siempre que los datos sean confiables y científicamente validados. Prefiere una compra única del dispositivo y una suscripción para reportes y alertas. Imagina usar el sistema con pantallas visibles en la oficina y acceso desde laptop o celular. Reconoce como principales obstáculos la confianza en los datos y la falta de voluntad de inversión de la empresa. Finalmente, resalta que aún falta conciencia sobre la contaminación del aire en interiores, pese a que es donde se pasa la mayor parte del tiempo. |
+| <strong>Enlace de video:</strong> [https://drive.google.com/file/d/1CH1QeU9kzvGa-IdbT46NIyWzq4bDmZ4m/view?usp=sharing](https://drive.google.com/file/d/1CH1QeU9kzvGa-IdbT46NIyWzq4bDmZ4m/view?usp=sharing) |
+| <strong>Foto del entrevistado:</strong><br><img src="assets/Chapter2/entrevista_FatimaUrbina.png" alt="Entrevista - FatimaUrbina" height="200"/> |
+&nbsp;
 
 ---
 
 ### 2.2.3. Análisis de entrevistas
 
-El análisis de entrevistas revela patrones consistentes en ambos segmentos:
+**Segmento Objetivo 1: Instituciones Educativas**
 
----
+En este segmento se evidencia una baja conciencia institucional respecto a la calidad del aire, tratándose como un problema secundario frente a otras prioridades. Sin embargo, los síntomas reportados (cansancio, alergias, dolor de cabeza) muestran que el impacto es real en el aprendizaje y la salud. El interés de Dayana en indicadores como CO₂, humedad y temperatura refleja una apertura a soluciones tecnológicas, pero también un vacío: no existen mecanismos formales de monitoreo, solo acciones improvisadas.
 
-#### Hallazgos en instituciones educativas
+Esto revela una oportunidad clara: introducir sistemas de medición y alerta no solo como solución sanitaria, sino como herramienta pedagógica y de gestión. La barrera principal es presupuestal; sin embargo, si se vincula con beneficios académicos (mejora en la concentración, reducción de malestares) podría justificarse como inversión estratégica.
 
-- Baja conciencia sobre la calidad del aire
-- Síntomas frecuentes (fatiga, alergias, baja concentración)
-- Ausencia de herramientas tecnológicas
-- Dependencia de decisiones intuitivas
+**Segmento Objetivo 2: Instituciones Corporativas**
 
----
+En el entorno corporativo la situación es distinta: existe mayor conciencia de que el aire en oficinas es malo, pero la responsabilidad recae en la empresa, lo que genera frustración en los trabajadores. Aquí la demanda no es tanto la sensibilización, sino la credibilidad de los datos: si el sistema no tiene respaldo científico, difícilmente logrará convencer a la gerencia.
 
-#### Hallazgos en instituciones corporativas
+Esto plantea que el valor no solo está en el monitoreo, sino en la validez técnica y la capacidad de convertir la información en argumentos de negocio (productividad, bienestar laboral, reducción de ausentismo). La barrera es doble: confianza en la tecnología y voluntad de inversión empresarial.
 
-- Mayor conciencia del problema
-- Dependencia de decisiones empresariales
-- Necesidad de datos confiables
-- Interés en automatización
-
----
-
-#### Insight transversal
-
-Ambos segmentos:
-
-- No tienen datos en tiempo real  
-- Toman decisiones sin evidencia  
-- Buscan automatización  
-
----
-
-## 2.3. Needfinding
-
-El proceso de Needfinding permite traducir los hallazgos de las entrevistas en representaciones estructuradas del usuario mediante artefactos UX.
-
----
-
+## 2.3. Needfindig
 ### 2.3.1. User Personas
+En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competenecia, con el objetivo de capturar las características, y comportamientos de nuestros usuarios.
 
-Se construyeron dos arquetipos representativos:
+**Segmento 1: Instituciones Educativas**
 
----
+<img src="assets/Chapter2//UserPersona1.png">
 
-#### Patricia López – Segmento Corporativo
-
-<img src="assets/Chapter2/UserPersona1.png">
-
-**Análisis:**
-
-Patricia representa a tomadores de decisión en empresas. Su enfoque está en productividad y bienestar laboral.
-
-- Prioriza eficiencia  
-- Busca automatización  
-- Necesita datos confiables  
-
----
-
-#### Luis Fernández – Segmento Educativo
+**Segmento 2: Instituciones Corporativas**
 
 <img src="assets/Chapter2/UserPersona2.png">
-
-**Análisis:**
-
-Luis representa gestores institucionales que deben justificar inversiones.
-
-- Busca soluciones escalables  
-- Necesita evidencia  
-- Tiene restricciones presupuestales  
 
 ---
 
 ### 2.3.2. User Task Matrix
 
-Las tareas principales identificadas son:
+En esta sección, se presenta el User Task Matrix, que agrupa las principales tareas que los User Personas realizan para cumplir con sus objetivos. Los segmentos considerados para este análisis son:
 
-| Tarea | Educativo | Corporativo |
-|------|----------|------------|
-| Monitorear calidad del aire | Alta | Alta |
-| Recibir alertas | Alta | Alta |
-| Tomar decisiones | Alta | Alta |
-| Analizar datos | Media | Alta |
+1. Luis Fernández, director de infraestructura de una universidad, que busca una solución para mantener las aulas y otros espacios en la universidad saludables para los estudiantes y el personal académico.
 
-Conclusión:
-Las tareas críticas son monitoreo y toma de decisiones basada en datos.
+2. Patricia López, gerente de operaciones de una empresa corporativa, que desea crear el mejor ambiente de trabajo posible para su equipo, garantizando un entorno saludable y productivo.
+
+A continuación, se describen las tareas principales que ambos segmentos realizan independientemente de la existencia de nuestra aplicación de monitoreo de calidad del aire:
+
+**Segmento 1**
+
+| Tarea                                | Frecuencia | Importancia |
+|--------------------------------------|------------|-------------|
+| Monitorear calidad del aire en aulas | Media      | Alta        |
+| Recibir alertas de CO₂ alto          | Alta       | Alta        |
+| Abrir ventanas o activar ventilación | Media      | Alta        |
+| Consultar reportes sobre calidad del aire | Baja    | Media       |
+
+**Segmento 2**
+
+| Tarea                              | Frecuencia | Importancia |
+|------------------------------------|------------|-------------|
+| Revisar niveles de CO₂   | Media      | Alta        |
+| Activar ventilación automáticamente| Media      | Alta        |
+| Recibir alertas en tiempo real     | Alta       | Alta        |
+| Generar reportes para RRHH/SSOMA   | Media      | Media       |
+| Consultar histórico de datos       | Baja       | Media       |
 
 ---
 
 ### 2.3.3. Empathy Mapping
 
----
+En esta sección se presentan los Empathy Mapping, esta herramienta nos ayudará a conocer un poco más lo que los usuarios sienten o necesitan de nuestra aplicación. 
 
-#### Empathy Map – Patricia
+**Segmento 1:**
 
 <img src="assets/Chapter2/Empathy-map1.png">
 
-**Interpretación:**
-
-- Piensa en productividad  
-- Siente preocupación por su equipo  
-- Hace investigación antes de decidir  
-
-Pain:
-Falta de datos confiables  
-
-Gain:
-Automatización
-
----
-
-#### Empathy Map – Luis
+**Segmento 2:**
 
 <img src="assets/Chapter2/Empathy-map2.png">
-
-**Interpretación:**
-
-- Piensa en bienestar estudiantil  
-- Siente presión institucional  
-- Evalúa múltiples opciones  
-
-Pain:
-Falta de claridad  
-
-Gain:
-Sistema confiable
 
 ---
 
 ### 2.3.4. As-Is Scenario Mapping (Customer Journey)
+### FALTA ESTA PARTE
 
----
-
-#### Journey – Patricia
-
-<img src="assets/Chapter2/Customer-journey map-1.png">
-
-**Problemas detectados:**
-
-- Falta de información  
-- Resistencia al cambio  
-- Dificultad para medir impacto  
-
----
-
-#### Journey – Luis
-
-<img src="assets/Chapter2/Customer-journey map-2.png">
-
-**Problemas detectados:**
-
-- Falta de presupuesto  
-- Dudas sobre efectividad  
-- Falta de métricas  
-
----
-
-### Conclusión del Needfinding
-
-El análisis de artefactos UX permite identificar:
-
-- Necesidad de datos en tiempo real  
-- Falta de herramientas accesibles  
-- Alta dependencia de intuición  
-
----
-
-## 2.4. Big Picture EventStorming
-
-<img src="assets/Chapter2/EventStorming.JPG">
-
-El EventStorming permitió identificar los eventos clave del sistema, tales como:
-
-- Captura de datos por sensores  
-- Envío de datos a la nube  
-- Generación de alertas  
-- Toma de decisiones del usuario  
-
-Esto facilita la comprensión del dominio y la posterior definición de arquitectura.
 
 ---
 
 ## 2.5. Ubiquitous Language
 
-Se define un lenguaje común para alinear negocio y tecnología:
+1. **Calidad del Aire:** El nivel de contaminantes o compuestos como CO₂, humedad, partículas en suspensión, y otros elementos que afectan la salud y el bienestar de los usuarios en espacios cerrados o exteriores.
 
-| Término | Definición |
-|--------|----------|
-| Calidad del aire | Nivel de contaminantes en un entorno |
-| Sensor IoT | Dispositivo que mide variables ambientales |
-| Monitoreo en tiempo real | Visualización continua de datos |
-| Alerta | Notificación ante niveles críticos |
-| Ambiente saludable | Espacio con condiciones seguras |
+2. **Sensor de Calidad de Aire:** Dispositivo que mide los niveles de CO₂, partículas y otros contaminantes en el aire para proporcionar datos en tiempo real a los usuarios.
+
+3. **Monitoreo en Tiempo Real:** Capacidad de observar los niveles de calidad de aire en un espacio determinado de manera continua a través de la plataforma de Oxaira.
+
+4. **Sistema de Ventilación Inteligente:** Sistema que ajusta automáticamente los niveles de ventilación y purificación en respuesta a los cambios en la calidad del aire, basado en los datos recogidos.
+
+5. **Ambientes Saludables:**
+Espacios en los que la calidad del aire está regulada y monitoreada constantemente para cumplir con los estándares de salud, lo que incluye niveles seguros de CO₂, humedad, y partículas en el aire.
 
 ---

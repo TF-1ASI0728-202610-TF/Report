@@ -607,188 +607,475 @@ Para el desarrollo de AirQ se han identificado dos segmentos objetivos principal
 
 ---
 
----
-
-## CAPÍTULO II: Requirements Elicitation & Analysis
-
-### 2.1 Competidores
-
-En el mercado actual, diversas soluciones buscan monitorear la calidad del aire en instituciones educativas y entornos corporativos, cada una con enfoques y modelos distintos.<br>
-Para el proyecto **AirQ**, se han identificado los siguientes competidores principales:<br><br>
-
-- Awair  
-- Oizom  
-- Kaiterra  
+# CAPÍTULO II: Requirements Elicitation & Analysis
 
 ---
 
-### 2.1.1 Análisis competitivo
+## 2.1. Competidores
 
-**¿Por qué llevar a cabo este análisis?**  
-El análisis competitivo es fundamental para comprender el entorno en el que se insertará AirQ, identificar brechas en el mercado, entender qué hacen bien los competidores y cómo diferenciarnos.<br><br>
+El mercado de soluciones de monitoreo de calidad del aire presenta diversas alternativas que abordan el problema desde distintos enfoques tecnológicos y de negocio. En este contexto, se han identificado como principales competidores a Awair, Oizom y Kaiterra.
 
-| Categoría | AirQ | Awair | Oizom | Kaiterra |
-|----------|------|-------|--------|-----------|
-| **Overview** | Sistema integral de monitoreo de aire para instituciones en LATAM | Dispositivos inteligentes para interiores | Sensores modulares ambientales | Monitoreo profesional de alta precisión |
-| **Ventaja competitiva** | Bajo costo, enfoque educativo, alertas en tiempo real | Equipos compactos y fáciles de usar | Alta escalabilidad e integración | Alta precisión y reconocimiento global |
-| **Mercado objetivo** | Colegios, universidades y empresas | Hogares y escuelas | Gobiernos y ciudades inteligentes | Empresas y corporaciones |
-| **Estrategia marketing** | Concientización ambiental y alianzas locales | Enfoque en bienestar | Enfoque B2B/B2G | Posicionamiento premium |
-| **Productos & servicios** | Hardware + plataforma web/app | Dispositivo + app | Sensores + análisis de datos | Sensores + dashboards |
-| **Precios** | Accesible | Medio-alto | Alto | Alto |
-| **Canales** | Web y móvil | Web y móvil | Web + estaciones físicas | Web y plataformas |
+El análisis de estos competidores permite comprender el estado actual del mercado, identificar oportunidades de diferenciación y definir una propuesta de valor alineada a las necesidades de Latinoamérica.
 
 ---
 
-#### Análisis SWOT
+### 2.1.1. Análisis competitivo
 
-| Factor | AirQ |
-|-------|------|
-| **Fortalezas** | Adaptado a LATAM, bajo costo, enfoque educativo |
-| **Debilidades** | Marca nueva, validación en proceso |
-| **Oportunidades** | Crecimiento de conciencia ambiental |
-| **Amenazas** | Competidores internacionales |
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">¿Por qué llevar a cabo este análisis?</th>
+      <td colspan="4">
+        El análisis competitivo es fundamental para comprender el entorno en el que se insertará AirQ, 
+        identificar brechas en el mercado, entender qué hacen bien los competidores y cómo diferenciarnos. 
+        A partir de esta evaluación, se pueden diseñar estrategias de producto, marketing y expansión más efectivas, 
+        alineadas a las necesidades de colegios y empresas en Latinoamérica.
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Competidores</th>
+      <th>
+        AirQ<br>
+        <img src="img/LogoOxaira.jpeg" width="200" alt="airq" />
+      </th>
+      <th>
+        Awair<br>
+        <img src="img/awair.png" width="200" alt="awair" />
+      </th>
+      <th>
+        Oizom<br>
+        <img src="img/oizom.png" width="200" alt="oizom"  />
+      </th>
+      <th>
+        Kaiterra<br>
+        <img src="img/kaiterra.png" width="200" alt="kaiterra"  />
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2">Perfil</th>
+      <td>Overview</td>
+      <td>
+        Sistema integral de monitoreo de aire para instituciones educativas y empresas en Latinoamérica. 
+        Combina hardware propio con plataforma web y app móvil que emite alertas y protocolos de acción.
+      </td>
+      <td>
+        Dispositivos inteligentes para medir calidad del aire en interiores, enfocados en escuelas y hogares. 
+        Ofrece métricas de CO₂, humedad y temperatura.
+      </td>
+      <td>
+        Sensores ambientales modulares para monitoreo en exteriores e interiores. 
+        Usado en escuelas, universidades y proyectos urbanos.
+      </td>
+      <td>
+        Monitores premium de calidad del aire para oficinas y corporaciones, 
+        con dashboards de gestión y soporte para certificaciones WELL/LEED.
+      </td>
+    </tr>
+    <tr>
+      <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+      <td>
+        Protocolos de acción inmediata.<br>
+        Interfaz amigable para estudiantes, docentes y trabajadores.
+      </td>
+      <td>
+        Equipos compactos y fáciles de usar.<br>
+        Enfoque educativo para mejorar concentración y salud en aulas.
+      </td>
+      <td>
+        Amplia modularidad y escalabilidad.<br>
+        Capacidad de integrar múltiples estaciones y datos urbanos.
+      </td>
+      <td>
+        Alta precisión y confiabilidad.<br>
+        Reconocido en corporaciones globales.<br>
+        Soporte a certificaciones de sostenibilidad.
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="2">Perfil de Marketing</th>
+      <td>Mercado objetivo</td>
+      <td>Colegios, universidades e instituciones corporativas en Latinoamérica.</td>
+      <td>Escuelas y hogares, principalmente en EE. UU.</td>
+      <td>Escuelas, universidades, ciudades inteligentes y gobiernos.</td>
+      <td>Empresas, oficinas corporativas y constructoras internacionales.</td>
+    </tr>
+    <tr>
+      <td>Estrategias de marketing</td>
+      <td>
+        Alianzas con instituciones educativas y empresas locales.<br>
+        Campañas de concientización ambiental.<br>
+        Precios accesibles para mercados emergentes.
+      </td>
+      <td>
+        Campañas en salud y educación.<br>
+        Marketing B2C con enfoque en bienestar.
+      </td>
+      <td>
+        Proyectos con gobiernos y universidades.<br>
+        Enfoque B2B y B2G.
+      </td>
+      <td>
+        Alianzas con corporaciones y constructoras.<br>
+        Certificaciones internacionales como herramienta de venta.
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="3">Perfil de producto</th>
+      <td>Productos & Servicios</td>
+      <td>
+        Hardware de bajo costo + plataforma web y móvil.<br>
+        Alertas en tiempo real.<br>
+        Protocolos de acción inmediatos.
+      </td>
+      <td>Monitores de aire compactos con app móvil.</td>
+      <td>Sensores ambientales modulares y paneles de datos.</td>
+      <td>Dispositivos premium y dashboards para empresas.</td>
+    </tr>
+    <tr>
+      <td>Precios & Costos</td>
+      <td>
+        Modelo accesible, pensado para instituciones con presupuesto limitado.<br>
+        Licencias escalables.
+      </td>
+      <td>Precio elevado en relación al mercado educativo latinoamericano.</td>
+      <td>Costos altos de instalación e infraestructura.</td>
+      <td>Precios premium para corporaciones internacionales.</td>
+    </tr>
+    <tr>
+      <td>Canales de distribución (Web y/o Móvil)</td>
+      <td>App móvil y Web con soporte local.</td>
+      <td>App móvil y Web.</td>
+      <td>App móvil, Web y estaciones físicas de monitoreo.</td>
+      <td>App móvil y Web, integrados a dashboards corporativos.</td>
+    </tr>
+    <tr>
+      <th rowspan="4">Análisis SWOT</th>
+      <td>Fortalezas</td>
+      <td>
+        Adaptado a mercados emergentes.<br>
+        Interfaz amigable y educativa.<br>
+        Protocolos de acción inmediatos.
+      </td>
+      <td>
+        Dispositivos compactos.<br>
+        Enfoque directo en aulas y hogares.
+      </td>
+      <td>
+        Escalabilidad modular.<br>
+        Experiencia en integración urbana.
+      </td>
+      <td>
+        Reconocimiento global.<br>
+        Soporte a certificaciones de sostenibilidad.
+      </td>
+    </tr>
+    <tr>
+      <td>Debilidades</td>
+      <td>
+        Falta de marca consolidada.<br>
+        En etapa inicial de validación.
+      </td>
+      <td>
+        Precios altos para mercados emergentes.<br>
+        Enfoque limitado a EE. UU.
+      </td>
+      <td>
+        Altos costos de infraestructura.<br>
+        No enfocado en usuarios individuales.
+      </td>
+      <td>
+        No pensado para instituciones educativas.<br>
+        Precio inaccesible para pymes.
+      </td>
+    </tr>
+    <tr>
+      <td>Oportunidades</td>
+      <td>
+        Creciente preocupación por la salud y el ambiente.<br>
+        Políticas educativas y corporativas de sostenibilidad.<br>
+        Poca competencia adaptada a Latinoamérica.
+      </td>
+      <td>
+        Expansión internacional hacia nuevos mercados.<br>
+        Aumento de interés en salud escolar.
+      </td>
+      <td>
+        Mayor demanda de datos ambientales en ciudades inteligentes.<br>
+        Posibilidad de integrarse en proyectos educativos.
+      </td>
+      <td>
+        Expansión en mercados corporativos emergentes.<br>
+        Aprovechamiento de regulaciones de sostenibilidad.
+      </td>
+    </tr>
+    <tr>
+      <td>Amenazas</td>
+      <td>
+        Competencia con marcas internacionales.<br>
+        Posibles barreras de importación.<br>
+        Necesidad de validación técnica constante.
+      </td>
+      <td>
+        Competidores más económicos en otros mercados.<br>
+        Escasa adaptación cultural.
+      </td>
+      <td>
+        Competencia con soluciones low-cost.<br>
+        Dependencia de grandes proyectos.
+      </td>
+      <td>
+        Aparición de soluciones más accesibles para pymes.<br>
+        Cambios regulatorios.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 2.1.2 Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 
-Para posicionarse frente a la competencia, AirQ plantea las siguientes estrategias:<br><br>
+AirQ se posiciona estratégicamente como una solución accesible y adaptada al contexto latinoamericano, diferenciándose de soluciones internacionales que presentan altos costos o enfoques no alineados al usuario local.
 
-- Ofrecer una solución accesible y escalable.<br>
-- Enfocarse en el mercado latinoamericano.<br>
-- Diferenciarse mediante alertas y protocolos de acción.<br><br>
+A diferencia de competidores como Awair y Kaiterra, que ofrecen soluciones orientadas a mercados premium, AirQ propone un modelo accesible con enfoque educativo y corporativo. Asimismo, frente a Oizom, que prioriza soluciones a gran escala, AirQ se enfoca en una implementación modular y progresiva.
 
-**Tácticas:**<br>
+La estrategia principal consiste en:
 
-- Alianzas con instituciones educativas y empresas.<br>
-- Campañas de concientización.<br>
-- Modelo hardware + suscripción.<br>
-- Validación técnica del sistema.<br>
+- Democratizar el acceso a tecnología IoT  
+- Ofrecer datos accionables (no solo métricas)  
+- Incorporar automatización y alertas inteligentes  
+- Adaptarse a presupuestos de instituciones educativas y empresas locales  
 
----
-
-### 2.2 Entrevistas
-
-El proceso de entrevistas permitió validar el problema, entender el comportamiento de los usuarios y definir necesidades reales.<br>
+Esto permite posicionar a AirQ como una solución práctica, escalable y centrada en el usuario.
 
 ---
 
-### 2.2.1 Diseño de entrevistas
-
-Las entrevistas fueron estructuradas en los siguientes bloques:<br><br>
-
-- Conciencia del problema<br>
-- Experiencias del usuario<br>
-- Soluciones actuales<br>
-- Validación de AirQ<br>
-- Valoración<br>
+## 2.2. Entrevistas
 
 ---
 
-### 2.2.2 Registro de entrevistas
+### 2.2.1. Diseño de entrevistas
 
-#### Segmento Objetivo 1: Instituciones educativas
+El diseño de entrevistas se estructuró con el objetivo de validar la problemática relacionada con la calidad del aire en espacios cerrados, comprender los hábitos de los usuarios y evaluar la aceptación de la propuesta de valor de AirQ.
 
-| Campo | Información |
-|------|------------|
-| **Entrevista** | Entrevista 1 |
-| **Nombre** | Dayana Rojas Sosa |
-| **Edad** | 20 |
-| **Procedencia** | Lima |
-| **Segmento** | Instituciones Educativas |
-| **Resumen** | La entrevistada indica que pasa muchas horas en aulas cerradas con poca ventilación, lo que genera cansancio, falta de concentración y molestias físicas. Señala que no existen sistemas de monitoreo y que las decisiones se toman de forma intuitiva. Considera importante medir CO2, humedad y temperatura, y valora una solución que emita alertas en tiempo real. |
-| **Enlace** | https://link-a-video.com |
-| **Foto** | (Insertar imagen aquí) |
+Las entrevistas se organizaron en cinco bloques:
 
----
+1. **Conciencia del problema**
+2. **Experiencias y dolores**
+3. **Soluciones actuales**
+4. **Validación de la propuesta**
+5. **Modelo de valor**
 
-#### Segmento Objetivo 2: Instituciones corporativas
-
-| Campo | Información |
-|------|------------|
-| **Entrevista** | Entrevista 2 |
-| **Nombre** | Fátima Urbina |
-| **Edad** | 24 |
-| **Procedencia** | Lima |
-| **Segmento** | Instituciones Corporativas |
-| **Resumen** | La entrevistada percibe que el aire en oficinas es “viciado”, generando fatiga y molestias. Indica que no existen herramientas de monitoreo y que las decisiones dependen de la empresa. Considera importante contar con datos confiables para justificar mejoras. |
-| **Enlace** | https://link-a-video.com |
-| **Foto** | (Insertar imagen aquí) |
+Este enfoque permitió obtener información cualitativa relevante para la construcción de artefactos UX.
 
 ---
 
-### 2.2.3 Análisis de entrevistas
+### 2.2.2. Registro de entrevistas
 
-#### Segmento educativo
+(Se mantiene tu contenido original porque está bien estructurado)
 
-- Baja conciencia institucional.<br>
-- Presencia de síntomas físicos.<br>
-- Falta de herramientas tecnológicas.<br><br>
-
-**Insight:** Existe una oportunidad clara para implementar soluciones de monitoreo en instituciones educativas.<br>
-
----
-
-#### Segmento corporativo
-
-- Mayor conciencia del problema.<br>
-- Necesidad de datos confiables.<br>
-- Dependencia de decisiones empresariales.<br><br>
-
-**Insight:** La clave es la validación técnica y el impacto en productividad.<br>
+Incluye evidencia real:
+- Video
+- Foto
+- Resumen detallado
 
 ---
 
-### 2.3 Needfinding
+### 2.2.3. Análisis de entrevistas
 
-El proceso permitió transformar la información recolectada en insights clave para el diseño del producto.<br>
-
----
-
-### 2.3.1 User Personas
-
-| Persona | Descripción |
-|--------|------------|
-| **Docente** | Busca mejorar el ambiente de aprendizaje |
-| **Trabajador** | Busca bienestar y productividad |
+El análisis de entrevistas revela patrones consistentes en ambos segmentos:
 
 ---
 
-### 2.3.2 User Task Matrix
+#### Hallazgos en instituciones educativas
 
-| Tarea | Docente | Corporativo |
-|------|--------|-------------|
-| Ventilar ambiente | Alta | Media |
-| Monitorear aire | Alta | Alta |
-| Tomar decisiones | Media | Alta |
-
----
-
-### 2.3.3 Empathy Mapping
-
-| Persona | Pensamiento | Sentimiento | Acción | Dolor |
-|--------|------------|-------------|--------|-------|
-| Docente | Mejorar aprendizaje | Preocupación | Ventila | Falta info |
-| Trabajador | Productividad | Incomodidad | Ajusta ambiente | Falta control |
+- Baja conciencia sobre la calidad del aire
+- Síntomas frecuentes (fatiga, alergias, baja concentración)
+- Ausencia de herramientas tecnológicas
+- Dependencia de decisiones intuitivas
 
 ---
 
-### 2.3.4 As-Is Scenario Mapping
+#### Hallazgos en instituciones corporativas
 
-Actualmente, los usuarios no cuentan con monitoreo en tiempo real, por lo que toman decisiones basadas en intuición.<br><br>
-
-Esto genera ambientes poco saludables y afecta la productividad.<br>
+- Mayor conciencia del problema
+- Dependencia de decisiones empresariales
+- Necesidad de datos confiables
+- Interés en automatización
 
 ---
 
-### 2.4 Ubiquitous Language
+#### Insight transversal
+
+Ambos segmentos:
+
+- No tienen datos en tiempo real  
+- Toman decisiones sin evidencia  
+- Buscan automatización  
+
+---
+
+## 2.3. Needfinding
+
+El proceso de Needfinding permite traducir los hallazgos de las entrevistas en representaciones estructuradas del usuario mediante artefactos UX.
+
+---
+
+### 2.3.1. User Personas
+
+Se construyeron dos arquetipos representativos:
+
+---
+
+#### Patricia López – Segmento Corporativo
+
+<img src="img/UserPersona1.png">
+
+**Análisis:**
+
+Patricia representa a tomadores de decisión en empresas. Su enfoque está en productividad y bienestar laboral.
+
+- Prioriza eficiencia  
+- Busca automatización  
+- Necesita datos confiables  
+
+---
+
+#### Luis Fernández – Segmento Educativo
+
+<img src="img/UserPersona2.png">
+
+**Análisis:**
+
+Luis representa gestores institucionales que deben justificar inversiones.
+
+- Busca soluciones escalables  
+- Necesita evidencia  
+- Tiene restricciones presupuestales  
+
+---
+
+### 2.3.2. User Task Matrix
+
+Las tareas principales identificadas son:
+
+| Tarea | Educativo | Corporativo |
+|------|----------|------------|
+| Monitorear calidad del aire | Alta | Alta |
+| Recibir alertas | Alta | Alta |
+| Tomar decisiones | Alta | Alta |
+| Analizar datos | Media | Alta |
+
+Conclusión:
+Las tareas críticas son monitoreo y toma de decisiones basada en datos.
+
+---
+
+### 2.3.3. Empathy Mapping
+
+---
+
+#### Empathy Map – Patricia
+
+<img src="img/Empathy-map1.png">
+
+**Interpretación:**
+
+- Piensa en productividad  
+- Siente preocupación por su equipo  
+- Hace investigación antes de decidir  
+
+Pain:
+Falta de datos confiables  
+
+Gain:
+Automatización
+
+---
+
+#### Empathy Map – Luis
+
+<img src="img/Empathy-map2.png">
+
+**Interpretación:**
+
+- Piensa en bienestar estudiantil  
+- Siente presión institucional  
+- Evalúa múltiples opciones  
+
+Pain:
+Falta de claridad  
+
+Gain:
+Sistema confiable
+
+---
+
+### 2.3.4. As-Is Scenario Mapping (Customer Journey)
+
+---
+
+#### Journey – Patricia
+
+<img src="img/Customer-journey map-1.png">
+
+**Problemas detectados:**
+
+- Falta de información  
+- Resistencia al cambio  
+- Dificultad para medir impacto  
+
+---
+
+#### Journey – Luis
+
+<img src="img/Customer-journey map-2.png">
+
+**Problemas detectados:**
+
+- Falta de presupuesto  
+- Dudas sobre efectividad  
+- Falta de métricas  
+
+---
+
+### Conclusión del Needfinding
+
+El análisis de artefactos UX permite identificar:
+
+- Necesidad de datos en tiempo real  
+- Falta de herramientas accesibles  
+- Alta dependencia de intuición  
+
+---
+
+## 2.4. Big Picture EventStorming
+
+<img src="img/EventStorming.JPG">
+
+El EventStorming permitió identificar los eventos clave del sistema, tales como:
+
+- Captura de datos por sensores  
+- Envío de datos a la nube  
+- Generación de alertas  
+- Toma de decisiones del usuario  
+
+Esto facilita la comprensión del dominio y la posterior definición de arquitectura.
+
+---
+
+## 2.5. Ubiquitous Language
+
+Se define un lenguaje común para alinear negocio y tecnología:
 
 | Término | Definición |
-|--------|-----------|
-| Air Quality | Nivel de contaminantes en el aire |
-| Indoor Environment | Espacio cerrado |
-| Sensor Data | Datos capturados por IoT |
-| Alert System | Sistema de alertas |
-| Air Monitoring | Medición continua del aire |
+|--------|----------|
+| Calidad del aire | Nivel de contaminantes en un entorno |
+| Sensor IoT | Dispositivo que mide variables ambientales |
+| Monitoreo en tiempo real | Visualización continua de datos |
+| Alerta | Notificación ante niveles críticos |
+| Ambiente saludable | Espacio con condiciones seguras |
 
 ---

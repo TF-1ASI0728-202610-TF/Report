@@ -1561,13 +1561,13 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
       <span>- Escenario 1: Acceso a pasarela<br>
-      <b>Dado<b> que el usuario selecciona un plan o producto,<br>
-      <b>Cuando<b> elija “Pagar”,<br>
-      <b>Entonces<b> será redirigido a la pasarela de pago integrada.</span><br><br>
+      <b>Dado</b> que el usuario selecciona un plan o producto,<br>
+      <b>Cuando</b> elija “Pagar”,<br>
+      <b>Entonces</b> será redirigido a la pasarela de pago integrada.</span><br><br>
       <span>- Escenario 2: Confirmación de pago<br>
-      <b>Dado<b> que el usuario ingresa sus datos correctamente,<br>
-      <b>Cuando<b> confirme la transacción,<br>
-      <b>Entonces<b> recibirá un comprobante de pago válido.</span>
+      <b>Dado</b> que el usuario ingresa sus datos correctamente,<br>
+      <b>Cuando</b> confirme la transacción,<br>
+      <b>Entonces</b> recibirá un comprobante de pago válido.</span>
     </td>
   </tr>
 </table>
@@ -1582,20 +1582,30 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
-      <span>Como usuario, quiero visualizar una lista de mis suscripciones, para conocer el estado de cada plan o servicio adquirido.</span>
+      <span>Como usuario, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.</span>
     </td>
   </tr>
   <tr>
     <td colspan="4">
       <b>Acceptance Criteria:</b><br>
-      <span>- Escenario 1: Acceso a suscripciones<br>
-      <b>Dado<b> que el usuario está autenticado,<br>
-      <b>Cuando<b> acceda a “Mis suscripciones”,<br>
-      <b>Entonces<b> verá un listado con los planes contratados.</span><br><br>
-      <span>- Escenario 2: Estado de suscripción<br>
-      <b>Dado<b> que la lista se muestra,<br>
-      <b>Cuando<b> el usuario consulte los detalles,<br>
-      <b>Entonces<b> podrá visualizar fechas de inicio, vencimiento y estado (activo/inactivo).</span>
+      <span>- Escenario 1: Servicio activo<br>
+      <b>Dado</b> que el usuario tiene un dispositivo instalado y una suscripción vigente,<br>
+      <b>Cuando</b> accede a la sección “Estado del servicio”,<br>
+      <b>Entonces</b> visualiza el estado “Activo”, el tipo de plan y la fecha de vencimiento.</span><br><br>
+      <span>- Escenario 2: Servicio vencido<br>
+      <b>Dado</b> que la suscripción ha expirado,<br>
+      <b>Cuando</b> accede a la sección “Estado del servicio”,<br>
+      <b>Entonces</b> el sistema muestra el estado “Vencido” junto con la fecha de expiración y una alerta indicando que el servicio puede verse limitado.</span>
+      <br><br>
+      <span>- Escenario 3: Servicio suspendido<br>
+      <b>Dado</b> que existe un problema con el pago o incumplimiento,<br>
+      <b>Cuando</b> el usuario accede a la sección,<br>
+      <b>Entonces</b> el sistema muestra el estado “Suspendido” y una notificación indicando la causa.</span>
+      <br><br>
+      <span>- Escenario 4: Error en la carga de información<br>
+      <b>Dado</b> que ocurre un problema al obtener los datos del servicio,<br>
+      <b>Cuando</b> el usuario accede a la sección,<br>
+      <b>Entonces</b> el sistema muestra un mensaje indicando que la información no está disponible temporalmente.</span>
     </td>
   </tr>
 </table>
@@ -1667,299 +1677,314 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <th> Descripción</th>
       <th> Criterios de Aceptación</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td colspan="4">EPIC-1: Autenticación</td>
+      <td colspan="4">E1PIC-1: Autenticación y Gestión de Usuarios</td>
     </tr>
     <tr>
       <td>E1-HU001</td>
       <td>Registro de usuario</td>
-      <td> Como nuevo usuario, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.</td>
-      <td>- Escenario 1: Registro exitoso. Dado que el usuario quiere unirse a la plataforma, Cuando complete el formulario con datos válidos, Entonces se crea su cuenta y recibe un correo de confirmación.<br><br>- Escenario 2: Registro fallido. Dado que el usuario ingresa datos inválidos, Cuando intente registrarse, Entonces el sistema muestra mensajes de error claros. </td>
+      <td>Como nuevo usuario, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.</td>
+      <td><span>- Escenario 1: Registro exitoso<br>
+      <b>Dado</b> que el usuario quiere unirse a la plataforma,<br>
+      <b>Cuando</b> complete el formulario con datos válidos,<br>
+      <b>Entonces</b> se crea su cuenta y recibe un correo de confirmación.</span><br><br>
+      <span>- Escenario 2: Registro fallido<br>
+      <b>Dado</b> que el usuario ingresa datos inválidos,<br>
+      <b>Cuando</b> intente registrarse,<br>
+      <b>Entonces</b> el sistema muestra mensajes de error claros.</span></td>
     </tr>
     <tr>
       <td>E1-HU002</td>
       <td>Inicio de sesión</td>
-      <td> Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura.</td>
-      <td>- Escenario 1: Inicio exitoso. Dado que el usuario tiene credenciales correctas, Cuando las ingrese y presione “Iniciar sesión”, Entonces accede a su perfil y dashboard.<br><br>- Escenario 2: Inicio fallido. Dado que el usuario ingresa credenciales incorrectas, Cuando intente iniciar sesión, Entonces recibe un mensaje de error que indica “usuario o contraseña inválida”. </td>
+      <td>Como usuario registrado, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura.</td>
+      <td><span> - Escenario 1: Inicio exitoso<br>
+      <b>Dado</b> que el usuario tiene credenciales correctas,<br>
+      <b>Cuando</b> las ingrese y presione “Iniciar sesión”,<br>
+      <b>Entonces</b> accede a su perfil y dashboard. </span><br><br>
+      <span> - Escenario 2: Inicio fallido<br>
+      <b>Dado</b> que el usuario ingresa credenciales incorrectas,<br>
+      <b>Cuando</b> intente iniciar sesión,<br>
+      <b>Entonces</b> recibe un mensaje de error que indica “usuario o contraseña inválida”. </span></td>
     </tr>
     <tr>
-      <td colspan="4">EPIC-2: Monitoreo y Respuesta de Calidad de Aire</td>
+      <td>E1-HU003</td>
+      <td>Gestión de perfil de usuario</td>
+      <td>Como usuario autenticado, quiero ver y editar mi información de perfil, para mantener mis datos actualizados.</td>
+      <td><span> - Escenario 1: Visualización de perfil<br>
+      <b>Dado</b> que el usuario ha iniciado sesión,<br>
+      <b>Cuando</b> acceda a “Mi perfil”,<br>
+      <b>Entonces</b> verá su información registrada. </span><br><br>
+      <span> - Escenario 2: Edición de perfil<br>
+      <b>Dado</b> que el usuario desea actualizar sus datos,<br>
+      <b>Cuando</b> haga clic en “Editar” y guarde cambios,<br>
+      <b>Entonces</b> la nueva información se muestra correctamente en el perfil. </span></td>
+    </tr>
+    <tr>
+      <td>E1-HU019</td>
+      <td>Gestión de roles</td>
+      <td>Como administrador, quiero asignar y gestionar roles de usuario, para controlar el acceso a funcionalidades como monitoreo, configuración del sistema y gestión de dispositivos IoT.</td>
+      <td><span>- Escenario 1: Asignación de roles<br>
+      <b>Dado</b> que el administrador gestiona usuarios,<br>
+      <b>Cuando</b> edite un perfil,<br>
+      <b>Entonces</b> podrá asignar un rol (ej. usuario, administrador, soporte).</span><br><br>
+      <span>- Escenario 2: Restricción por rol<br>
+      <b>Dado</b> que un usuario tiene un rol específico,<br>
+      <b>Cuando</b> intente acceder a funcionalidades restringidas (ej. configuración de dispositivos o gestión de usuarios),<br>
+      <b>Entonces</b> el sistema validará si tiene permisos suficientes y bloqueará el acceso si no corresponde.</span></td>
+    </tr>
+    <tr>
+      <td colspan="4">EPIC-2: Ingreso y Monitoreo de Datos IoT</td>
     </tr>
     <tr>
       <td>E2-HU004</td>
-      <td>Recepción de información de Sensores</td>
-      <td>Como usuario, quiero que la aplicación reciba en tiempo real la información de los sensores de calidad del aire, para visualizar el estado de mi ambiente.</td>
-      <td>- Escenario 1: Recepción de datos en tiempo real. Dado que el sensor está encendido y vinculado a un ambiente, Cuando el sensor envía lecturas periódicas de calidad de aire, Entonces la aplicación recibe los datos y los muestra en el dashboard sin retrasos perceptibles.<br><br>- Escenario 2: Visualización en el dashboard. Dado que existen lecturas recibidas de un sensor, Cuando el usuario accede al dashboard, Entonces visualiza los valores actualizados de calidad de aire (ej. CO₂, PM2.5, humedad, temperatura).<br><br>- Escenario 3: Manejo de pérdida de conexión. Dado que el sensor pierde conexión, Cuando el dashboard intenta actualizar la información, Entonces muestra un estado “Sin conexión” y mantiene la última lectura recibida.<br><br>- Escenario 4: Registro histórico de lecturas. Dado que el sensor envía lecturas periódicas, Cuando el usuario consulta el historial del ambiente, Entonces encuentra un registro de las mediciones con timestamp y valores reportados.</td>
+      <td>Recepción de datos del sensor</td>
+      <td>Como usuario de AirQ, quiero que el sistema reciba y registre datos de los sensores, para asegurar que la información esté disponible y sea confiable en la plataforma.</td>
+      <td><span>- Escenario 1: Recepción correcta<br> 
+      <b>Dado</b> que el sensor está encendido y vinculado,<br> 
+      <b>Cuando</b> envía datos,<br> 
+      <b>Entonces</b> el sistema los recibe y almacena correctamente.</span><br><br>
+      <span>- Escenario 2: Error en recepción<br> 
+      <b>Dado</b> que ocurre un fallo en la transmisión,<br> 
+      <b>Cuando</b> el sistema no recibe datos,<br> 
+      <b>Entonces</b> registra el error y mantiene la última información válida.</span></td>
+    </tr>
+    <tr>
+      <td>E2-HU005</td>
+      <td>Visualización en tiempo real</td>
+      <td>Como usuario, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.</td>
+      <td><b>Acceptance Criteria:</b><br> 
+      <span>- Escenario 1:Visualización actualizada <br> 
+      <b>Dado</b> que existen datos recientes,<br> 
+      <b>Cuando</b> accedo al dashboard,<br> 
+      <b>Entonces</b> veo los valores actualizados sin retrasos perceptibles.</span><br><br>
+      <span>- Escenario 2:Datos visibles<br> 
+      <b>Dado</b> que hay múltiples variables,<br> 
+      <b>Cuando</b> se muestran en pantalla,<br> 
+      <b>Entonces</b> se visualizan de forma clara y organizada.</span></td>
+    </tr>
+    <tr>
+      <td>E2-HU006</td>
+      <td>Manejo de desconexión del sensor</td>
+      <td>Como usuario, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.</td>
+      <td><span>- Escenario 1: Sensor desconectado<br> 
+      <b>Dado</b> que el sensor pierde conexión,<br> 
+      <b>Cuando</b> el sistema intenta actualizar datos,<br> 
+      <b>Entonces</b> muestra un estado “Sin conexión”.</span><br><br>
+      <span>- Escenario 2: Última lectura<br> 
+      <b>Dado</b> que no hay conexión,<br> 
+      <b>Cuando</b> visualizo el dashboard,<br> 
+      <b>Entonces</b> se mantiene la última lectura disponible.</span>    </td>
     </tr>
     <tr>
       <td>E2-HU007</td>
-      <td>Reportes periódicos de resultados</td>
-      <td>Como usuario, quiero recibir reportes periódicos de los resultados de la calidad del aire en mis ambientes, para analizar tendencias y tomar decisiones informadas.</td>
-      <td><b>Escenario 1:</b> Configurar frecuencia
-    Dado que estoy en la sección “Reportes”,
-    Cuando selecciono “Semanal” y guardo,
-    Entonces la preferencia queda almacenada y se muestra la próxima fecha programada.
-    <b>Escenario 2:</b> Generación y contenido mínimo
-    Dado que existen datos suficientes del periodo,
-    Cuando se genera el reporte semanal,
-    Entonces incluye promedio, máximo, mínimo por contaminante, gráficos de tendencia y recomendaciones si se superaron umbrales.
-    <b>Escenario 3:</b> Distribución y descarga
-    Dado que la frecuencia es “Semanal” y hoy es la fecha de envío,
-    Cuando el reporte se publica,
-    Entonces lo recibo por correo y queda disponible en la app con opción de descarga en PDF y Excel.
-    <b>Escenario 4:</b> Datos insuficientes
-    Dado que hay menos de 10 mediciones en el periodo,
-    Cuando se genera el reporte,
-    Entonces se muestra “Datos insuficientes para análisis” y no se calculan métricas agregadas.</td>
+      <td>Consulta de historial de mediciones</td>
+      <td>Como usuario, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo.</td>
+      <td><span>- Escenario 1: Historial disponible<br> 
+      <b>Dado</b> que existen datos almacenados,<br> 
+      <b>Cuando</b> accedo al historial, <br> 
+      <b>Entonces</b> visualizo las mediciones con fecha y valores.</span><br><br>
+      <span>- Escenario 2: Orden de datos<br> 
+      <b>Dado</b> que hay múltiples registros,<br> 
+      <b>Cuando</b> se muestran, <br> 
+      <b>Entonces</b> están ordenados cronológicamente.</span>  </td>
     </tr>
     <tr>
-      <td>E2-HU008</td>
-      <td>Notificaciones de calidad del aire</td>
-      <td>Como usuario de AirQ, quiero recibir notificaciones inmediatas cuando un contaminante cruce o regrese bajo su umbral, para actuar a tiempo y proteger mi salud.</td>
-      <td><b>Escenario 1:</b> Alerta por cruce de umbral
-    Dado que el umbral de PM2.5 es 35 µg/m³ y tengo notificaciones activas,
-    Cuando la medición llega a 42 µg/m³ en dos lecturas consecutivas,
-    Entonces recibo una notificación con título “PM2.5 en nivel alto” y recomendación de acción, y queda registrado el evento.<br><br>
-    <b>Escenario 2:</b> Retorno a nivel seguro
-    Dado que recibí una alerta por PM2.5 alto,
-    Cuando el valor se mantiene por debajo del umbral durante 10 minutos,
-    Entonces recibo la notificación “PM2.5 volvió a nivel seguro” y se registra la normalización.
-    <b>Escenario 3:</b> Preferencias por tipo de contaminante
-    Dado que desactivé notificaciones para CO,
-    Cuando CO supera su umbral,
-    Entonces no recibo notificación y el evento se marca en historial como “silenciado por preferencia”.
-    <b>Escenario 4:</b> Antispam (debounce)
-    Dado que recibí una alerta por PM2.5 en los últimos 5 minutos,
-    Cuando el valor vuelve a oscilar cruzando el umbral en ese periodo,
-    Entonces no se envía una alerta duplicada y se agrupan los eventos bajo un mismo registro con contador.</td>
+      <td colspan="4">EPIC-3: Control y Automatización del Ambiente</td>
     </tr>
     <tr>
-      <td>E2-HU009</td>
-      <td>Edición de parámetros de respuesta</td>
-      <td>Como usuario quiero poder editar los parámetros de respuesta del dispositivo IoT en función a lo que detecta, para controlar a qué nivel de contaminante la aplicación realiza la acción correspondiente.</td>
-      <td><b>Escenario 1:</b> Acceso y edición exitosa
-    Dado que el usuario se encuentra en la vista principal de la aplicación,
-    Cuando seleccione "Ajustes" y acceda a "Editar parámetros de respuesta",
-    Entonces podrá elegir el nivel de contaminante y guardar los cambios de forma exitosa.
-    <b>Escenario 2:</b> Edición fallida
-    Dado que el usuario intenta guardar parámetros inválidos o incompletos,
-    Cuando confirme la acción,
-    Entonces el sistema muestra un mensaje de error indicando el problema y no se aplican los cambios.</td>
+      <td>E3-HU008</td>
+      <td>Control manual de dispositivos</td>
+      <td>Como usuario, quiero poder activar manualmente los actuadores (ventilador, extractor), para intervenir en el control del ambiente cuando lo considere necesario, incluso si el sistema automático basado en Machine Learning está activo.</td>
+      <td><span>- Escenario 1: Activación manual<br> 
+      <b>Dado</b> que el dispositivo está disponible,<br> 
+      <b>Cuando</b> el usuario presiona activar manualmente,<br> 
+      <b>Entonces</b> el dispositivo cambia de estado correctamente, independientemente del estado del sistema automático.</span><br><br>
+      <span>- Escenario 2: Prioridad del control manual<br> 
+      <b>Dado</b> que el sistema automático está ejecutando una acción,<br> 
+      <b>Cuando</b> el usuario realiza una acción manual,<br> 
+      <b>Entonces</b> la acción manual tiene prioridad sobre la automática.</span><br><br>
+      <span>- Escenario 3: Error de conexión<br> 
+      <b>Dado</b> que el dispositivo está desconectado,<br> 
+      <b>Cuando</b> el usuario intenta activarlo,<br> 
+      <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo ejecutar la acción.</span></td>
     </tr>
     <tr>
-      <td colspan="4">EPIC-3: Soporte al Usuario</td>
+      <td>E3-HU009</td>
+      <td>Activación automática de dispositivos</td>
+      <td>Como usuario, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.</td>
+      <td><span>- Escenario 1: Activación automática<br> 
+      <b>Dado</b> que la calidad del aire supera un umbral definido,<br> 
+      <b>Cuando</b> el sistema lo detecta,<br> 
+      <b>Entonces</b> activa automáticamente el dispositivo correspondiente.</span><br><br>
+      <span>- Escenario 2: Condición normal<br> 
+      <b>Dado</b> que los niveles son adecuados,<br> 
+      <b>Cuando</b> el sistema evalúa el ambiente,<br> 
+      <b>Entonces</b> no realiza ninguna acción.</span></td>
     </tr>
     <tr>
       <td>E3-HU010</td>
-      <td>Chat con soporte</td>
-      <td>Como usuario deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.</td>
-      <td><b>Escenario 1:</b> Acceso al chat exitoso
-Dado que el usuario se encuentra en la pantalla principal,
-Cuando haga clic en el botón “Soporte”,
-Entonces se abrirá la ventana de chat que le permite enviar y recibir mensajes con soporte.
-
-<b>Escenario 2:</b> Acceso fallido
-Dado que el servicio de chat no está disponible,
-Cuando el usuario intente abrirlo,
-Entonces el sistema mostrará un mensaje indicando “El chat no está disponible en este momento, inténtelo más tarde”.</td>
+      <td>Evaluación de múltiples variables</td>
+      <td>Como usuario, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.</td>
+      <td><span>- Escenario 1: Evaluación combinada<br> 
+      <b>Dado</b> que existen múltiples datos de sensores,<br> 
+      <b>Cuando</b> el sistema analiza el ambiente,<br> 
+      <b>Entonces</b> toma decisiones basadas en la combinación de variables.</span><br><br> 
+      <span>- Escenario 2: Consistencia en decisiones<br> 
+      <b>Dado</b> que los valores cambian,<br> 
+      <b>Cuando</b> el sistema evalúa continuamente,<br> 
+      <b>Entonces</b> mantiene decisiones coherentes con las condiciones del ambiente.</span></td>
     </tr>
     <tr>
       <td>E3-HU011</td>
-      <td>FAQ</td>
-      <td>Como usuario quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.</td>
-      <td><b>Escenario 1:</b> Visualización de preguntas frecuentes
-Dado que el usuario accede a la sección de FAQ desde el menú,
-Cuando la página cargue correctamente,
-Entonces se muestran las preguntas y respuestas disponibles.<br><br>
-<b>Escenario 2:</b> FAQ no disponible
-Dado que el sistema tiene un problema de carga de contenido,
-Cuando el usuario intente acceder,
-Entonces se mostrará un mensaje de error indicando que “El contenido no está disponible temporalmente”.</td>
+      <td>Mejora continua del modelo</td>
+      <td>Como usuario, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.</td>
+      <td><span>- Escenario 1: Uso de datos históricos<br> 
+      <b>Dado</b> que el sistema acumula datos,<br> 
+      <b>Cuando</b> el modelo se actualiza,<br> 
+      <b>Entonces</b> mejora la precisión en la toma de decisiones.</span></td>
     </tr>
     <tr>
-      <td>E3-HU012</td>
-      <td>Información de soporte	</td>
-      <td>Como usuario quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito.</td>
-      <td><b>Escenario 1:</b> Visualización correcta
-Dado que el usuario accede a la sección de soporte,
-Cuando se cargue la información,
-Entonces verá los datos de contacto actualizados de soporte.<br><br>
-<b>Escenario 2:</b> Información no disponible
-Dado que el sistema no puede recuperar los datos,
-Cuando el usuario ingrese a soporte,
-Entonces se mostrará un mensaje indicando “La información de soporte no está disponible en este momento”.</td>
+      <td colspan="4">EPIC-4: Analítica y Notificaciones</td>
     </tr>
     <tr>
-      <td colspan="4">EPIC-4: Pagos y Suscripciones</td>
+      <td>E4-HU012</td>
+      <td>Reportes periódicos de resultados</td>
+      <td>Como usuario de AirQ, quiero recibir reportes con una frecuencia (diaria/semanal/mensual) que incluyan métricas y tendencias, para tomar decisiones informadas sobre salud y confort.</td>
+      <td><span>- Escenario 1: Configurar frecuencia<br> 
+      <b>Dado</b> que estoy en la sección “Reportes”,<br> 
+      <b>Cuando</b> selecciono “Semanal” y guardo,<br> 
+      <b>Entonces</b> la preferencia queda almacenada y se muestra la próxima fecha programada.</span><br><br>
+      <span>- Escenario 2: Generación y contenido mínimo<br> 
+      <b>Dado</b> que existen datos suficientes del periodo,<br> 
+      <b>Cuando</b> se genera el reporte semanal,<br>
+      <b>Entonces</b> incluye promedio, máximo, mínimo por contaminante, gráficos de tendencia y recomendaciones si se superaron umbrales.</span><br><br>
+      <span>- Escenario 3: Distribución y descarga<br> 
+      <b>Dado</b> que la frecuencia es “Semanal” y hoy es la fecha de envío,<br> 
+      <b>Cuando</b> el reporte se publica,<br> 
+      <b>Entonces</b> lo recibo por correo y queda disponible en la app con opción de descarga en PDF y Excel.</span><br><br>
+      <span>- Escenario 4: Datos insuficientes<br> 
+      <b>Dado</b> que hay menos de 10 mediciones en el periodo,<br> 
+      <b>Cuando</b> se genera el reporte,<br> 
+      <b>Entonces</b> se muestra “Datos insuficientes para análisis” y no se calculan métricas agregadas.</span> </td>
     </tr>
     <tr>
       <td>E4-HU013</td>
-      <td>Pasarela de pago</td>
-      <td>Como usuario, Quiero realizar mis pagos a través de una pasarela segura, Para completar mis compras o suscripciones de manera confiable.</td>
-      <td><b>Escenario 1:</b> Acceso a pasarela
-Dado que el usuario selecciona un plan o producto,
-Cuando elija “Pagar”,
-Entonces será redirigido a la pasarela de pago integrada.
-<br><br>
-<b>Escenario 2:</b> Confirmación de pago
-Dado que el usuario ingresa sus datos correctamente,
-Cuando confirme la transacción,
-Entonces recibirá un comprobante de pago válido.</td>
+      <td>Notificaciones inteligentes de calidad del aire</td>
+      <td>Como usuario de AirQ, quiero recibir notificaciones inteligentes sobre la calidad del aire y las acciones ejecutadas automáticamente por el sistema basado en Machine Learning, para mantenerme informado del estado de mi ambiente sin necesidad de intervenir constantemente.</td>
+      <td><span>- Escenario 1: Notificación por acción automática<br> 
+      <b>Dado</b> que el sistema detecta un nivel alto de contaminantes,<br> 
+      <b>Cuando</b> el modelo de Machine Learning ejecuta una acción (ej. encender ventilación),<br> 
+      <b>Entonces</b> el usuario recibe una notificación indicando la acción realizada y el motivo.</span><br><br>
+      <span>- Escenario 2: Retorno a condiciones normales<br> 
+      <b>Dado</b> que el ambiente vuelve a niveles seguros,<br> 
+      <b>Cuando</b> el sistema detecta estabilidad en los valores,<br> 
+      <b>Entonces</b> el usuario recibe una notificación indicando que la calidad del aire se ha normalizado.</span><br><br>
+      <span>- Escenario 3: Preferencias de notificación<br> 
+      <b>Dado</b> que el usuario configura sus preferencias,<br> 
+      <b>Cuando</b> ocurra un evento de calidad del aire o acción automática,<br> 
+      <b>Entonces</b> el sistema respeta sus configuraciones de notificación.</span><br><br>
+      <span>- Escenario 4: Control de notificaciones repetidas<br> 
+      <b>Dado</b> que múltiples eventos similares ocurren en corto tiempo,<br> 
+      <b>Cuando</b> el sistema genera notificaciones,<br> 
+      <b>Entonces</b> evita el envío de notificaciones duplicadas y agrupa los eventos relevantes.</span> </td>
     </tr>
     <tr>
-      <td>E4-HU014</td>
-      <td>Lista de suscripciones</td>
-      <td>Como usuario, Quiero visualizar una lista de mis suscripciones, Para conocer el estado de cada plan o servicio adquirido.</td>
-      <td><b>Escenario 1:</b> Acceso a suscripciones
-Dado que el usuario está autenticado,
-Cuando acceda a “Mis suscripciones”,
-Entonces verá un listado con los planes contratados.
-<br><br>
-<b>Escenario 2:</b> Estado de suscripción
-Dado que la lista se muestra,
-Cuando el usuario consulte los detalles,
-Entonces podrá visualizar fechas de inicio, vencimiento y estado (activo/inactivo).</td>
+      <td colspan="4">EPIC-5: Soporte al Usuario</td>
     </tr>
     <tr>
-      <td>E4-HU016</td>
-      <td>Historial de pagos</td>
-      <td>Como usuario, Quiero visualizar mi historial de pagos, Para llevar un control de mis transacciones realizadas en la plataforma.</td>
-      <td><b>Escenario 1:</b> Acceso a historial
-Dado que el usuario está autenticado,
-Cuando ingrese a “Historial de pagos”,
-Entonces verá una lista con todas sus transacciones.
-<br><br>
-<b>Escenario 2:</b> Detalle de transacción
-Dado que el usuario consulta una transacción,
-Cuando seleccione un registro,
-Entonces visualizará la fecha, monto, método de pago y estado de la operación.</td>
-    </tr>
-    <tr>
-      <td>E4-HU017</td>
-      <td>Suscripciones activas</td>
-      <td>Como usuario, Quiero visualizar mis suscripciones activas, Para saber qué servicios tengo actualmente en uso.</td>
-      <td><b>Escenario 1:</b> Acceso a suscripciones activas
-Dado que el usuario inició sesión,
-Cuando acceda a “Suscripciones activas”,
-Entonces verá únicamente las suscripciones vigentes.
-<br><br>
-<b>Escenario 2:</b> Detalle de suscripción activa
-Dado que el usuario consulta una suscripción activa,
-Cuando la seleccione,
-Entonces visualizará detalles como plan, fecha de inicio y fecha de vencimiento.</td>
-    </tr>
-    <tr>
-      <td colspan="4">EPIC-5: Administración</td>
-    </tr>
-    <tr>
-      <td>E5-HU003</td>
-      <td>Gestión de perfil de usuario</td>
-      <td>Como usuario autenticado, Quiero ver y editar mi información de perfil, Para mantener mis datos actualizados</td>
-      <td><b>Escenario 1:</b> Visualización de perfil
-Dado que el usuario ha iniciado sesión, 
-Cuando acceda a “Mi perfil”, 
-Entonces verá su información registrada.
-<br><br>
-<b>Escenario 2:</b>Edición de perfil
-Dado que el usuario desea actualizar sus datos, 
-Cuando haga clic en “Editar” y guarde cambios, 
-Entonces la nueva información se muestra correctamente en el perfil.</td>
+      <td>E5-HU014</td>
+      <td>Chat con soporte</td>
+      <td>Como usuario deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.</td>
+      <td><span>- Escenario 1: Acceso al chat exitoso<br>
+      <b>Dado</b> que el usuario se encuentra en la pantalla principal,<br>
+      <b>Cuando</b> haga clic en el botón “Soporte”,<br>
+      <b>Entonces</b> se abrirá la ventana de chat que le permite enviar y recibir mensajes con soporte.</span><br><br>
+      <span>- Escenario 2: Acceso fallido<br>
+      <b>Dado</b> que el servicio de chat no está disponible,<br>
+      <b>Cuando</b> el usuario intente abrirlo,<br>
+      <b>Entonces</b> el sistema mostrará un mensaje indicando “El chat no está disponible en este momento, inténtelo más tarde”.</span></td>
     </tr>
     <tr>
       <td>E5-HU015</td>
-      <td>Gestión de roles</td>
-      <td>Como administrador, Quiero asignar y gestionar roles de usuario, Para controlar el acceso y permisos dentro de la aplicación.</td>
-      <td><b>Escenario 1:</b> Asignación de roles
-Dado que el administrador gestiona usuarios,
-Cuando edite un perfil,
-Entonces podrá asignar un rol (ej. usuario, administrador, soporte).
-<br><br>
-<b>Escenario 2:</b> Restricción por rol
-Dado que un usuario tiene un rol específico,
-Cuando intente acceder a una función restringida,
-Entonces el sistema validará si tiene permisos suficientes.</td>
+      <td>FAQ</td>
+      <td>Como usuario quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.</td>
+      <td><span>- Escenario 1: Visualización de preguntas frecuentes<br>
+      <b>Dado</b> que el usuario accede a la sección de FAQ desde el menú,<br>
+      <b>Cuando</b> la página cargue correctamente,<br>
+      <b>Entonces</b> se muestran las preguntas y respuestas disponibles.</span><br><br>
+      <span>- Escenario 2: FAQ no disponible<br>
+      <b>Dado</b> que el sistema tiene un problema de carga de contenido,<br>
+      <b>Cuando</b> el usuario intente acceder,<br>
+      <b>Entonces</b> se mostrará un mensaje de error indicando que “El contenido no está disponible temporalmente”.</span></td>
     </tr>
     <tr>
-      <td>E5-HU018</td>
-      <td>Información de Contacto</td>
-      <td>Como usuario, Quiero visualizar y actualizar mi información de contacto, Para mantener mis datos al día y recibir notificaciones correctas.</td>
-      <td><b>Escenario 1:</b> Visualización de información
-Dado que el usuario está autenticado,
-Cuando acceda a “Información de contacto”,
-Entonces verá su correo, teléfono y dirección registrados.
-<br><br>
-<b>Escenario 2:</b> Edición de información
-Dado que el usuario quiere actualizar un dato,
-Cuando lo modifique y guarde,
-Entonces el sistema mostrará la nueva información correctamente.</td>
+      <td>E5-HU016</td>
+      <td>Información de soporte</td>
+      <td>Como usuario quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito</td>
+      <td><span>- Escenario 1: Visualización correcta<br>
+      <b>Dado</b> que el usuario accede a la sección de soporte,<br>
+      <b>Cuando</b> se cargue la información,<br>
+      <b>Entonces</b> verá los datos de contacto actualizados de soporte.</span><br><br>
+      <span>- Escenario 2: Información no disponible<br>
+      <b>Dado</b> que el sistema no puede recuperar los datos,<br>
+      <b>Cuando</b> el usuario ingrese a soporte,<br>
+      <b>Entonces</b> se mostrará un mensaje indicando “La información de soporte no está disponible en este momento”.</span></td>
     </tr>
     <tr>
-      <td colspan="4">EPIC-6: Respuesta y Restricciones</td>
+      <td colspan="4">EPIC-6: Pagos y Suscripciones</td>
     </tr>
     <tr>
-      <td>E6-HU005</td>
-      <td>Control manual de respuesta</td>
-      <td>Como usuario de AirQ, quiero activar manualmente medidas de respuesta (p. ej., encender purificador o activar ventilación) desde la app/web, para reducir mi exposición a contaminantes cuando lo necesite.</td>
-      <td><b>Escenario 1:</b> Visualización de acciones disponibles
-Dado que estoy autenticado y hay un dispositivo asociado al ambiente,
-Cuando ingreso al panel “Acciones”,
-Entonces visualizo las acciones manuales disponibles según las capacidades del dispositivo.
-<br><br>
-<b>Escenario 2:</b> Ejecución exitosa de acción
-Dado que el dispositivo está en línea y el purificador está apagado,
-Cuando toco “Encender purificador”,
-Entonces el estado cambia a “Encendido” y veo la confirmación “Purificador encendido”.
-<b>Escenario 3:</b> Registro en historial
-Dado que ejecuté una acción manual,
-Cuando consulto el historial del ambiente,
-Entonces encuentro un evento con acción, usuario, timestamp y resultado.
-<br><br>
-<b>Escenario 4:</b> Error por dispositivo no disponible
-Dado que el dispositivo está fuera de línea,
-Cuando intento “Activar ventilación”,
-Entonces veo “No se pudo ejecutar la acción. Dispositivo sin conexión.” y no se altera el estado.</td>
+      <td>E6-HU017</td>
+      <td>Pasarela de pago</td>
+      <td>Como usuario, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.</td>
+      <td><span>- Escenario 1: Acceso a pasarela<br>
+      <b>Dado</b> que el usuario selecciona un plan o producto,<br>
+      <b>Cuando</b> elija “Pagar”,<br>
+      <b>Entonces</b> será redirigido a la pasarela de pago integrada.</span><br><br>
+      <span>- Escenario 2: Confirmación de pago<br>
+      <b>Dado</b> que el usuario ingresa sus datos correctamente,<br>
+      <b>Cuando</b> confirme la transacción,<br>
+      <b>Entonces</b> recibirá un comprobante de pago válido.</span></td>
     </tr>
     <tr>
-      <td>E6-HU006</td>
-      <td>Control automático de respuesta</td>
-      <td>Como usuario de AirQ, quiero que se ejecuten acciones automáticas cuando un contaminante supere su umbral, para mitigar riesgos sin intervención constante.</td>
-      <td><b>Escenario 1:</b> Disparo por cruce de umbral
-Dado que el umbral de PM2.5 está configurado en 35 µg/m³ y la regla es “Encender purificador”,
-Cuando la medición de PM2.5 alcanza 45 µg/m³,
-Entonces el sistema enciende el purificador, envía notificación “Automático: purificador encendido por PM2.5=45” y registra el evento.
-<br><br>
-<b>Escenario 2:</b> Desactivar automatización
-Dado que la automatización de PM2.5 está habilitada,
-Cuando la desactivo desde “Reglas automáticas”,
-Entonces ante un nuevo cruce de umbral no se ejecuta acción ni se envía notificación y se registra “Regla deshabilitada”.<br><br>
-<b>Escenario 3:</b> Ajuste de umbral
-Dado que el umbral actual de PM2.5 es 35 µg/m³,
-Cuando lo actualizo a 25 µg/m³ y guardo,
-Entonces el nuevo umbral efectivo es 25 µg/m³ y el cambio queda registrado con usuario y timestamp.
-<br><br>
-<b>Escenario 4:</b> Falla al ejecutar acción automática
-Dado que la regla está activa pero el dispositivo está fuera de línea,
-Cuando PM2.5 supera el umbral,
-Entonces no se ejecuta la acción, recibo “Fallo en acción automática (dispositivo sin conexión)” y se registra el error.</td>
+      <td>E6-HU018</td>
+      <td>Visualización del estado del servicio</td>
+      <td>Como usuario, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.</td>
+      <td><span>- Escenario 1: Servicio activo<br>
+      <b>Dado</b> que el usuario tiene un dispositivo instalado y una suscripción vigente,<br>
+      <b>Cuando</b> accede a la sección “Estado del servicio”,<br>
+      <b>Entonces</b> visualiza el estado “Activo”, el tipo de plan y la fecha de vencimiento.</span><br><br>
+      <span>- Escenario 2: Servicio vencido<br>
+      <b>Dado</b> que la suscripción ha expirado,<br>
+      <b>Cuando</b> accede a la sección “Estado del servicio”,<br>
+      <b>Entonces</b> el sistema muestra el estado “Vencido” junto con la fecha de expiración y una alerta indicando que el servicio puede verse limitado.</span>
+      <br><br>
+      <span>- Escenario 3: Servicio suspendido<br>
+      <b>Dado</b> que existe un problema con el pago o incumplimiento,<br>
+      <b>Cuando</b> el usuario accede a la sección,<br>
+      <b>Entonces</b> el sistema muestra el estado “Suspendido” y una notificación indicando la causa.</span>
+      <br><br>
+      <span>- Escenario 4: Error en la carga de información<br>
+      <b>Dado</b> que ocurre un problema al obtener los datos del servicio,<br>
+      <b>Cuando</b> el usuario accede a la sección,<br>
+      <b>Entonces</b> el sistema muestra un mensaje indicando que la información no está disponible temporalmente.</span></td>
     </tr>
     <tr>
-      <td>E6-HU019</td>
-      <td>Restricciones de la aplicación</td>
-      <td>Como administrador, Quiero configurar restricciones en la aplicación, Para controlar el acceso y uso de ciertas funciones según políticas definidas.</td>
-      <td><b>Escenario 1:</b> Restricción por rol
-Dado que un usuario intenta acceder a una función,
-Cuando no tenga permisos,
-Entonces el sistema mostrará un mensaje de restricción.
-<br><br>
-<b>Escenario 2:</b> Restricción por suscripción
-Dado que un usuario con plan básico intenta usar una función premium,
-Cuando lo intente,
-Entonces el sistema le notificará que necesita actualizar su plan.</td>
+      <td>E6-HU020</td>
+      <td>Historial de pagos</td>
+      <td>Como usuario, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.</td>
+      <td><span>- Escenario 1: Acceso a historial<br>
+      <b>Dado</b> que el usuario está autenticado,<br>
+      <b>Cuando</b> ingrese a “Historial de pagos”,<br>
+      <b>Entonces</b> verá una lista con todas sus transacciones.</span><br><br>
+      <span>- Escenario 2: Detalle de transacción<br>
+      <b>Dado</b> que el usuario consulta una transacción,<br>
+      <b>Cuando</b> seleccione un registro,<br>
+      <b>Entonces</b> visualizará la fecha, monto, método de pago y estado de la operación.</span></td>
     </tr>
-  </tbody>
+  </thead>
 </table>
+
 
 ## 3.2. Impact Mapping
 

@@ -1050,13 +1050,13 @@ En esta sección se presentan los Empathy Mapping, esta herramienta nos ayudará
 
 ### 2.3.4. As-Is Scenario Mapping 
 
-**Segmento 1**
+**Segmento 1: Instituciones educativas**
 
-![As-Is Scenario Mapping - Segmento 1](assets/Chapter2/As-Is_1.png)
+![As-Is Scenario Mapping - Segmento 1](assets/Chapter2/As-Is_1.jpg)
 
-**Segmento 2**
+**Segmento 2: Instituciones corporativas**
 
-![As-Is Scenario Mapping - Segmento 2](assets/Chapter2/As-Is_2.png)
+![As-Is Scenario Mapping - Segmento 2](assets/Chapter2/As-Is_2.jpg)
 
 ---
 
@@ -1079,13 +1079,13 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 
 ## 3.1. To-Be Scenario Mapping
 
-**Segmento 1**
+**Segmento 1: Instituciones educativas**
 
-![To-Be Scenario Mapping - Segmento 1](assets/Chapter3/To-Be_1.png)
+![To-Be Scenario Mapping - Segmento 1](assets/Chapter3/To-Be_1.jpg)
 
-**Segmento 2**
+**Segmento 2: Instituciones corporativas**
 
-![To-Be Scenario Mapping - Segmento 2](assets/Chapter3/To-Be_2.png)
+![To-Be Scenario Mapping - Segmento 2](assets/Chapter3/To-Be_2.jpg)
 
 ## 3.2. User Stories
 

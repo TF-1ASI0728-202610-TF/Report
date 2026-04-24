@@ -987,18 +987,21 @@ En el entorno corporativo la situación es distinta: existe mayor conciencia de 
 Esto plantea que el valor no solo está en el monitoreo, sino en la validez técnica y la capacidad de convertir la información en argumentos de negocio (productividad, bienestar laboral, reducción de ausentismo). La barrera es doble: confianza en la tecnología y voluntad de inversión empresarial.
 
 ## 2.3. Needfindig
+
+
 ### 2.3.1. User Personas
 En esta sección, se incluyen las fichas de User Personas que representan arquetipos detallados de los segmentos objetivo definidos para nuestro sitio web. Estos arquetipos se han creado a partir de un análisis de las entrevistas que hemos realizado con usuarios reales y un estudio comparativo de la competenecia, con el objetivo de capturar las características, y comportamientos de nuestros usuarios.
 
 **Segmento 1: Instituciones Educativas**
 
-<img src="assets/Chapter2//UserPersona1.png">
+![User Persona - Segmento 1](assets/Chapter2/UserPersona1.png)
 
 **Segmento 2: Instituciones Corporativas**
 
-<img src="assets/Chapter2/UserPersona2.png">
+![User Persona - Segmento 2](assets/Chapter2/UserPersona2.png)
 
 ---
+
 
 ### 2.3.2. User Task Matrix
 

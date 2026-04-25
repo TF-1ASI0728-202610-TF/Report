@@ -1326,27 +1326,27 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 
 <table> 
   <thead>
-    <th><b>Title</b><br><span style="font-weight: 200">Activación automática de dispositivos</span></th> 
+    <th><b>Title</b><br><span style="font-weight: 200">Activación automática inteligente de dispositivos</span></th> 
     <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> 
     <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th> 
     <th><b>Story ID</b><br><span style="font-weight: 200">HU009</span></th>
   </thead> 
   <tr>
     <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario de AirQ, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.</span> 
+      <span>Como usuario de AirQ, quiero que el sistema utilice modelos de Machine Learning para predecir y detectar condiciones de mala calidad del aire, para activar automáticamente dispositivos antes de que el ambiente se vuelva perjudicial.</span> 
     </td>
   </tr>
   <tr> 
     <td colspan="4"> 
       <b>Acceptance Criteria:</b><br> 
-      <span>- Escenario 1: Activación automática<br> 
-      <b>Dado</b> que la calidad del aire supera un umbral definido,<br> 
-      <b>Cuando</b> el sistema lo detecta,<br> 
-      <b>Entonces</b> activa automáticamente el dispositivo correspondiente.</span><br><br>
-      <span>- Escenario 2: Condición normal<br> 
-      <b>Dado</b> que los niveles son adecuados,<br> 
-      <b>Cuando</b> el sistema evalúa el ambiente,<br> 
-      <b>Entonces</b> no realiza ninguna acción.</span>
+      <span>- Escenario 1: Activación predictiva<br> 
+      <b>Dado</b> que el modelo identifica una tendencia de deterioro en la calidad del aire,<br> 
+      <b>Cuando</b> se alcanza un umbral predictivo,<br> 
+      <b>Entonces</b> el sistema activa automáticamente los dispositivos antes de que el ambiente sea crítico.</span><br><br>
+      <span>- Escenario 2: Condición estable<br> 
+      <b>Dado</b> que el modelo detecta condiciones estables,<br> 
+      <b>Cuando</b> evalúa el ambiente,<br> 
+      <b>Entonces</b> no realiza ninguna acción automática.</span>
     </td>
   </tr> 
 </table>
@@ -1355,27 +1355,27 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 
 <table> 
   <thead>
-    <th><b>Title</b><br><span style="font-weight: 200">Evaluación de múltiples variables</span></th> 
+    <th><b>Title</b><br><span style="font-weight: 200">Evaluación multivariable con Machine Learning</span></th> 
     <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th> 
     <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th> 
     <th><b>Story ID</b><br><span style="font-weight: 200">HU010</span></th>
   </thead> 
   <tr>
     <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario de AirQ, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.</span> 
+      <span>Como usuario de AirQ, quiero que el sistema analice múltiples variables mediante modelos de Machine Learning, para tomar decisiones más precisas y contextuales sobre el control del ambiente.</span> 
     </td>
   </tr>
   <tr> 
     <td colspan="4"> 
       <b>Acceptance Criteria:</b><br> 
       <span>- Escenario 1: Evaluación combinada<br> 
-      <b>Dado</b> que existen múltiples datos de sensores,<br> 
-      <b>Cuando</b> el sistema analiza el ambiente,<br> 
-      <b>Entonces</b> toma decisiones basadas en la combinación de variables.</span><br><br> 
+      <b>Dado</b> que existen múltiples variables (CO₂, temperatura, humedad, PM2.5),<br> 
+      <b>Cuando</b> el modelo analiza los datos,<br> 
+      <b>Entonces</b> toma decisiones considerando la relación entre todas las variables.</span><br><br> 
       <span>- Escenario 2: Consistencia en decisiones<br> 
-      <b>Dado</b> que los valores cambian,<br> 
+      <b>Dado</b> que las condiciones cambian constantemente,<br> 
       <b>Cuando</b> el sistema evalúa continuamente,<br> 
-      <b>Entonces</b> mantiene decisiones coherentes con las condiciones del ambiente.</span>
+      <b>Entonces</b> mantiene decisiones coherentes con el contexto del ambiente.</span>
     </td>
   </tr> 
 </table>
@@ -1391,16 +1391,20 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
   </thead> 
   <tr>
     <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario de AirQ, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.</span> 
+      <span>Como usuario de AirQ, quiero que el modelo de Machine Learning aprenda continuamente a partir de datos históricos y patrones de uso, para mejorar la precisión de las decisiones automatizadas.</span> 
     </td>
   </tr>
   <tr> 
     <td colspan="4"> 
       <b>Acceptance Criteria:</b><br> 
-      <span>- Escenario 1: Uso de datos históricos<br> 
-      <b>Dado</b> que el sistema acumula datos,<br> 
-      <b>Cuando</b> el modelo se actualiza,<br> 
-      <b>Entonces</b> mejora la precisión en la toma de decisiones.</span>
+      <span>- Escenario 1: Aprendizaje con datos históricos<br> 
+      <b>Dado</b> que el sistema acumula datos de sensores,<br> 
+      <b>Cuando</b> el modelo se reentrena,<br> 
+      <b>Entonces</b> mejora su precisión en la toma de decisiones.</span><br><br>
+      <span>- Escenario 2: Adaptación al entorno<br> 
+      <b>Dado</b> que el ambiente tiene patrones específicos,<br> 
+      <b>Cuando</b> el modelo analiza estos patrones,<br> 
+      <b>Entonces</b> ajusta su comportamiento automáticamente.</span>
     </td>
   </tr> 
 </table>
@@ -1445,67 +1449,32 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
  <br> 
 <table> 
   <thead> 
-    <th><b>Title</b><br><span style="font-weight: 200">Notificaciones inteligentes de calidad del aire</span></th> 
+    <th><b>Title</b><br><span style="font-weight: 200">Notificaciones inteligentes basadas en ML</span></th> 
     <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th> 
     <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th> 
     <th><b>Story ID</b><br><span style="font-weight: 200">HU013</span></th> 
   </thead> 
   <tr> 
     <td colspan="4"><b>User Story:</b><br> 
-      <span>Como usuario de AirQ, quiero recibir notificaciones inteligentes sobre la calidad del aire y las acciones ejecutadas automáticamente por el sistema basado en Machine Learning, para mantenerme informado del estado de mi ambiente sin necesidad de intervenir constantemente.</span> 
+      <span>Como usuario de AirQ, quiero recibir notificaciones inteligentes generadas por el modelo de Machine Learning, para entender las acciones automatizadas y el estado del ambiente sin necesidad de monitoreo constante.</span> 
     </td> 
   </tr> 
   <tr> 
     <td colspan="4"> 
       <b>Acceptance Criteria:</b><br> 
       <span>- Escenario 1: Notificación por acción automática<br> 
-      <b>Dado</b> que el sistema detecta un nivel alto de contaminantes,<br> 
-      <b>Cuando</b> el modelo de Machine Learning ejecuta una acción (ej. encender ventilación),<br> 
-      <b>Entonces</b> el usuario recibe una notificación indicando la acción realizada y el motivo.</span><br><br>
-      <span>- Escenario 2: Retorno a condiciones normales<br> 
-      <b>Dado</b> que el ambiente vuelve a niveles seguros,<br> 
-      <b>Cuando</b> el sistema detecta estabilidad en los valores,<br> 
-      <b>Entonces</b> el usuario recibe una notificación indicando que la calidad del aire se ha normalizado.</span><br><br>
-      <span>- Escenario 3: Preferencias de notificación<br> 
-      <b>Dado</b> que el usuario configura sus preferencias,<br> 
-      <b>Cuando</b> ocurra un evento de calidad del aire o acción automática,<br> 
-      <b>Entonces</b> el sistema respeta sus configuraciones de notificación.</span><br><br>
-      <span>- Escenario 4: Control de notificaciones repetidas<br> 
-      <b>Dado</b> que múltiples eventos similares ocurren en corto tiempo,<br> 
-      <b>Cuando</b> el sistema genera notificaciones,<br> 
-      <b>Entonces</b> evita el envío de notificaciones duplicadas y agrupa los eventos relevantes.</span> 
+      <b>Dado</b> que el modelo ejecuta una acción,<br> 
+      <b>Cuando</b> ocurre un evento relevante,<br> 
+      <b>Entonces</b> el usuario recibe una notificación con la acción y su motivo.</span><br><br>
+      <span>- Escenario 2: Normalización del ambiente<br> 
+      <b>Dado</b> que el ambiente vuelve a condiciones óptimas,<br> 
+      <b>Cuando</b> el sistema lo detecta,<br> 
+      <b>Entonces</b> notifica al usuario.</span><br><br>
     </td> 
   </tr> 
 </table>
     
-<br>
 
-<table>
-  <thead>
-    <th><b>Title</b><br><span style="font-weight: 200">Chat con soporte</span></th>
-    <th><b>Priority</b><br><span style="font-weight: 200">Baja</span></th>
-    <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU014</span></th>
-  </thead>
-  <tr>
-    <td colspan="4"><b>User Story:</b><br>  
-      <span>Como usuario de AirQ, deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.</span>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4">
-      <b>Acceptance Criteria:</b><br>
-      <span>- Escenario 1: Acceso al chat exitoso<br>
-      <b>Dado</b> que el usuario se encuentra en la pantalla principal,<br>
-      <b>Cuando</b> haga clic en el botón “Soporte”,<br>
-      <b>Entonces</b> se abrirá la ventana de chat que le permite enviar y recibir mensajes con soporte.</span><br><br>
-      <span>- Escenario 2: Acceso fallido<br>
-      <b>Dado</b> que el servicio de chat no está disponible,<br>
-      <b>Cuando</b> el usuario intente abrirlo,<br>
-      <b>Entonces</b> el sistema mostrará un mensaje indicando “El chat no está disponible en este momento, inténtelo más tarde”.</span>
-    </td>
-  </tr>
-</table>
 <br>
 
 <table>
@@ -1513,7 +1482,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <th><b>Title</b><br><span style="font-weight: 200">FAQ</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Baja</span></th>
     <th><b>Estimate</b><br><span style="font-weight: 200">2</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU015</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU014</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
@@ -1541,7 +1510,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <th><b>Title</b><br><span style="font-weight: 200">Información de soporte</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Baja</span></th>
     <th><b>Estimate</b><br><span style="font-weight: 200">1</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU016</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU015</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>  
@@ -1569,7 +1538,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <th><b>Title</b><br><span style="font-weight: 200">Pasarela de pago</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
     <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU017</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU016</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
@@ -1597,7 +1566,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <th><b>Title</b><br><span style="font-weight: 200">Lista de suscripciones</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
     <th><b>Estimate</b><br><span style="font-weight: 200">3</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU018</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU017</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
@@ -1635,7 +1604,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <th><b>Title</b><br><span style="font-weight: 200">Gestión de roles</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
     <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU019</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU018</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
@@ -1664,7 +1633,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
     <th><b>Title</b><br><span style="font-weight: 200">Historial de pagos</span></th>
     <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
     <th><b>Estimate</b><br><span style="font-weight: 200">3</span></th>
-    <th><b>Story ID</b><br><span style="font-weight: 200">HU020</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU019</span></th>
   </thead>
   <tr>
     <td colspan="4"><b>User Story:</b><br>
@@ -1682,6 +1651,122 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Dado</b> que el usuario consulta una transacción,<br>
       <b>Cuando</b> seleccione un registro,<br>
       <b>Entonces</b> visualizará la fecha, monto, método de pago y estado de la operación.</span>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <th><b>Title</b><br><span style="font-weight: 200">Entrenamiento del modelo de Machine Learning</span></th>
+    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU020</span></th>
+  </thead>
+  <tr>
+    <td colspan="4"><b>User Story:</b><br>
+      <span>Como sistema AirQ, quiero entrenar modelos de Machine Learning utilizando datos históricos de calidad de aire, para mejorar la capacidad de predicción y automatización.</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <b>Acceptance Criteria:</b><br>
+      <span>- Escenario 1: Entrenamiento exitoso<br>
+      <b>Dado</b> que existen datos históricos suficientes,<br>
+      <b>Cuando</b> se ejecuta el proceso de entrenamiento,<br>
+      <b>Entonces</b> el modelo se actualiza correctamente.</span><br><br>
+      <span>- Escenario 2: Datos insuficientes<br>
+      <b>Dado</b> que no hay suficientes datos,<br>
+      <b>Cuando</b> se intenta entrenar el modelo,<br>
+      <b>Entonces</b> el sistema indica que no es posible realizar el entrenamiento.</span>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <th><b>Title</b><br><span style="font-weight: 200">Predicción de calidad del aire</span></th>
+    <th><b>Priority</b><br><span style="font-weight: 200">Alta</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">8</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU021</span></th>
+  </thead>
+  <tr>
+    <td colspan="4"><b>User Story:</b><br>
+      <span>Como usuario de AirQ, quiero visualizar predicciones futuras de la calidad del aire, para anticiparme a posibles problemas en el ambiente.</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <b>Acceptance Criteria:</b><br>
+      <span>- Escenario 1: Predicción disponible<br>
+      <b>Dado</b> que el modelo tiene datos suficientes,<br>
+      <b>Cuando</b> el usuario accede al dashboard,<br>
+      <b>Entonces</b> visualiza predicciones futuras del ambiente.</span><br><br>
+      <span>- Escenario 2: Visualización clara<br>
+      <b>Dado</b> que existen predicciones,<br>
+      <b>Cuando</b> se muestran en pantalla,<br>
+      <b>Entonces</b> se presentan de forma comprensible (gráficas o indicadores).</span>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <th><b>Title</b><br><span style="font-weight: 200">Configuración del modelo de Machine Learning</span></th>
+    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU022</span></th>
+  </thead>
+  <tr>
+    <td colspan="4"><b>User Story:</b><br>
+      <span>Como usuario avanzado de AirQ, quiero ajustar los niveles de sensibilidad del modelo de Machine Learning, para adaptar el comportamiento del sistema a diferentes contextos.</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <b>Acceptance Criteria:</b><br>
+      <span>- Escenario 1: Ajuste de sensibilidad<br>
+      <b>Dado</b> que el usuario accede a configuración,<br>
+      <b>Cuando</b> modifica parámetros del modelo,<br>
+      <b>Entonces</b> el sistema guarda los cambios correctamente.</span><br><br>
+      <span>- Escenario 2: Aplicación de cambios<br>
+      <b>Dado</b> que se ajustaron parámetros,<br>
+      <b>Cuando</b> el sistema opera,<br>
+      <b>Entonces</b> el modelo responde según la nueva configuración.</span>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <thead>
+    <th><b>Title</b><br><span style="font-weight: 200">Explicabilidad del modelo (transparencia)</span></th>
+    <th><b>Priority</b><br><span style="font-weight: 200">Media</span></th>
+    <th><b>Estimate</b><br><span style="font-weight: 200">5</span></th>
+    <th><b>Story ID</b><br><span style="font-weight: 200">HU023</span></th>
+  </thead>
+  <tr>
+    <td colspan="4"><b>User Story:</b><br>
+      <span>Como usuario de AirQ, quiero entender por qué el sistema tomó ciertas decisiones automáticas, para confiar en el comportamiento del modelo de Machine Learning.</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <b>Acceptance Criteria:</b><br>
+      <span>- Escenario 1: Explicación de decisiones<br>
+      <b>Dado</b> que el sistema ejecuta una acción automática,<br>
+      <b>Cuando</b> el usuario consulta el detalle,<br>
+      <b>Entonces</b> visualiza la razón de la decisión (variables y condiciones).</span><br><br>
+      <span>- Escenario 2: Acceso a información<br>
+      <b>Dado</b> que el usuario está en el dashboard,<br>
+      <b>Cuando</b> selecciona una acción pasada,<br>
+      <b>Entonces</b> puede ver la explicación asociada.</span>
     </td>
   </tr>
 </table>

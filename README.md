@@ -2249,19 +2249,19 @@ Después de identificar nuestros bounded contexts a través del EventStorming, p
 
 ### 4.3.1. Software Architecture System Landscape Diagram
 
-  <img src="assets/Chapter4/landscapeDiagram.jpg">
+  <img src="assets/Chapter4/landscapeDiagram.png">
 
 ---
 
 ### 4.3.2. Software Architecture Context Level Diagram
 
-<img src="assets/Chapter4/ContextDiagram.jpg">
+<img src="assets/Chapter4/ContextDiagram.png">
 
 ---
 
 ### 4.3.3. Software Architecture Container Level Diagram
 
-<img src="assets/Chapter4/ContainerDiagram.jpg">
+<img src="assets/Chapter4/ContainerDiagram.png">
 
 ---
 
@@ -2269,13 +2269,13 @@ Después de identificar nuestros bounded contexts a través del EventStorming, p
 
 Infraestructura:
 
-- Cloud (AWS / Firebase)
+- Cloud (Azure)
 - Contenedores Docker
-- API Gateway
+- API
 - Bases de datos
 - Servicios IoT
 
-<img src="assets/Chapter4/DeploymentDiagram.jpg">
+<img src="assets/Chapter4/DeploymentDiagram.png">
 
 ---
 

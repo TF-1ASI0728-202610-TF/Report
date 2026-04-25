@@ -955,13 +955,13 @@ Ahora, le hablamos un poco de la propuesta:
 | <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdE1k7pQAmpIrnapz55HGJQBs9CxM6ZNVItXvDza7KO0_Q?e=AgIjc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218664_upc_edu_pe/EdE1k7pQAmpIrnapz55HGJQBs9CxM6ZNVItXvDza7KO0_Q?e=AgIjc2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | <strong>Foto del entrevistado:</strong><br><img src="assets/Chapter2/DayanaRojas.jpeg" alt="Entrevista - FatimaUrbina" height="200"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-| **Entrevista 2**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <strong>Nombre:</strong> Anderson Gonza                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| <strong>Edad:</strong> 21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| <strong>Procedencia:</strong> Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| <strong>Segmento:</strong> Instituciones Educativas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Resumen:** La entrevistado, practicante de Recursos Humanos, señala que su rol está relacionado con el bienestar del colaborador, principalmente porque recibe quejas del personal y las comunica a su jefatura. Indica que en la empresa existen molestias frecuentes vinculadas al ambiente físico de las oficinas, especialmente por variaciones de temperatura, calor, aire acondicionado muy frío o muy caliente, y sensación de cansancio en algunos trabajadores. Aunque estas situaciones suelen atribuirse al estrés, considera que podrían estar relacionadas con las condiciones ambientales del espacio de trabajo.
+| **Entrevista 2**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <strong>Nombre:</strong> Anderson Gonza                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| <strong>Edad:</strong> 21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <strong>Procedencia:</strong> Lima                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| <strong>Segmento:</strong> Instituciones Educativas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Resumen:** La entrevistado, practicante de Recursos Humanos, señala que su rol está relacionado con el bienestar del colaborador, principalmente porque recibe quejas del personal y las comunica a su jefatura. Indica que en la empresa existen molestias frecuentes vinculadas al ambiente físico de las oficinas, especialmente por variaciones de temperatura, calor, aire acondicionado muy frío o muy caliente, y sensación de cansancio en algunos trabajadores. Aunque estas situaciones suelen atribuirse al estrés, considera que podrían estar relacionadas con las condiciones ambientales del espacio de trabajo. |
 Actualmente, la gestión de estos problemas es reactiva, ya que solo se contacta al área de mantenimiento cuando alguien presenta una queja, sin contar con medidas preventivas ni seguimiento continuo. Además, menciona que la empresa no posee un sistema de monitoreo ambiental, más allá de detectores de humo, por lo que no se mide la calidad del aire ni otros factores del ambiente laboral. Sospecha que la calidad del aire podría influir en el rendimiento, la salud y el ausentismo, especialmente cuando varios trabajadores de un mismo piso se enferman durante una misma semana, aunque no existe información objetiva que permita confirmarlo.
 Considera muy relevante contar con datos históricos, ya que en Recursos Humanos las decisiones deben sustentarse con evidencia numérica para ser aprobadas por gerencia. Un reporte que demuestre, por ejemplo, niveles altos de CO₂ en salas de reuniones en determinados horarios, serviría como argumento sólido para justificar mejoras. Para adoptar una plataforma de monitoreo, considera imprescindibles las alertas en tiempo real, los reportes exportables, una interfaz fácil de entender y recomendaciones claras sobre qué acciones tomar ante una alerta. Finalmente, prioriza la facilidad de uso, porque una herramienta compleja no sería utilizada por el personal; luego valora la precisión de los datos, ya que deben ser confiables para presentarse ante gerencia. El precio también es importante, aunque no sería el factor principal si el valor de la solución está claramente demostrado. |
 | <strong>Enlace de video:</strong> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a085_upc_edu_pe/IQCAi6NHj6SkTI0w1hbkwz7oAWRye-s0diDCKBAnEwtbV4I?e=b1gG9T&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a085_upc_edu_pe/IQCAi6NHj6SkTI0w1hbkwz7oAWRye-s0diDCKBAnEwtbV4I?e=b1gG9T&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -1794,7 +1794,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <th> Criterios de Aceptación</th>
     </tr>
     <tr>
-      <td colspan="4">E1PIC-1: Autenticación y Gestión de Usuarios</td>
+      <td colspan="4">EPIC-1: Autenticación y Gestión de Usuarios</td>
     </tr>
     <tr>
       <td>E1-HU001</td>
@@ -1836,7 +1836,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Entonces</b> la nueva información se muestra correctamente en el perfil. </span></td>
     </tr>
     <tr>
-      <td>E1-HU019</td>
+      <td>E1-HU018</td>
       <td>Gestión de roles</td>
       <td>Como administrador, quiero asignar y gestionar roles de usuario, para controlar el acceso a funcionalidades como monitoreo, configuración del sistema y gestión de dispositivos IoT.</td>
       <td><span>- Escenario 1: Asignación de roles<br>
@@ -1865,6 +1865,22 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Entonces</b> registra el error y mantiene la última información válida.</span></td>
     </tr>
     <tr>
+      <td>E2-HU006</td>
+      <td>Manejo de desconexión del sensor</td>
+      <td>Como usuario de AirQ, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.</td>
+      <td><span>- Escenario 1: Sensor desconectado<br> 
+      <b>Dado</b> que el sensor pierde conexión,<br> 
+      <b>Cuando</b> el sistema intenta actualizar datos,<br> 
+      <b>Entonces</b> muestra un estado “Sin conexión”.</span><br><br>
+      <span>- Escenario 2: Última lectura<br> 
+      <b>Dado</b> que no hay conexión,<br> 
+      <b>Cuando</b> visualizo el dashboard,<br> 
+      <b>Entonces</b> se mantiene la última lectura disponible.</span>    </td>
+    </tr>
+    <tr>
+      <td colspan="4">EPIC-3: Visualización y Análisis de Datos</td>
+    </tr>
+    <tr>
       <td>E2-HU005</td>
       <td>Visualización en tiempo real</td>
       <td>Como usuario de AirQ, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.</td>
@@ -1877,19 +1893,6 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Dado</b> que hay múltiples variables,<br> 
       <b>Cuando</b> se muestran en pantalla,<br> 
       <b>Entonces</b> se visualizan de forma clara y organizada.</span></td>
-    </tr>
-    <tr>
-      <td>E2-HU006</td>
-      <td>Manejo de desconexión del sensor</td>
-      <td>Como usuario de AirQ, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.</td>
-      <td><span>- Escenario 1: Sensor desconectado<br> 
-      <b>Dado</b> que el sensor pierde conexión,<br> 
-      <b>Cuando</b> el sistema intenta actualizar datos,<br> 
-      <b>Entonces</b> muestra un estado “Sin conexión”.</span><br><br>
-      <span>- Escenario 2: Última lectura<br> 
-      <b>Dado</b> que no hay conexión,<br> 
-      <b>Cuando</b> visualizo el dashboard,<br> 
-      <b>Entonces</b> se mantiene la última lectura disponible.</span>    </td>
     </tr>
     <tr>
       <td>E2-HU007</td>
@@ -1905,7 +1908,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Entonces</b> están ordenados cronológicamente.</span>  </td>
     </tr>
     <tr>
-      <td colspan="4">EPIC-3: Control y Automatización del Ambiente</td>
+      <td colspan="4">EPIC-4: Control de Dispositivos</td>
     </tr>
     <tr>
       <td>E3-HU008</td>
@@ -1925,42 +1928,120 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo ejecutar la acción.</span></td>
     </tr>
     <tr>
+      <td colspan="4">EPIC-5: Automatización Inteligente con Machine Learning</td>
+    </tr>
+    <tr>
       <td>E3-HU009</td>
-      <td>Activación automática de dispositivos</td>
-      <td>Como usuario de AirQ, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.</td>
-      <td><span>- Escenario 1: Activación automática<br> 
-      <b>Dado</b> que la calidad del aire supera un umbral definido,<br> 
-      <b>Cuando</b> el sistema lo detecta,<br> 
-      <b>Entonces</b> activa automáticamente el dispositivo correspondiente.</span><br><br>
-      <span>- Escenario 2: Condición normal<br> 
-      <b>Dado</b> que los niveles son adecuados,<br> 
-      <b>Cuando</b> el sistema evalúa el ambiente,<br> 
-      <b>Entonces</b> no realiza ninguna acción.</span></td>
+      <td>Activación automática inteligente de dispositivos</td>
+      <td>Como usuario de AirQ, quiero que el sistema utilice modelos de Machine Learning para predecir y detectar condiciones de mala calidad del aire, para activar automáticamente dispositivos antes de que el ambiente se vuelva perjudicial.</td>
+      <td><span>- Escenario 1: Activación predictiva<br> 
+      <b>Dado</b> que el modelo identifica una tendencia de deterioro en la calidad del aire,<br> 
+      <b>Cuando</b> se alcanza un umbral predictivo,<br> 
+      <b>Entonces</b> el sistema activa automáticamente los dispositivos antes de que el ambiente sea crítico.</span><br><br>
+      <span>- Escenario 2: Condición estable<br> 
+      <b>Dado</b> que el modelo detecta condiciones estables,<br> 
+      <b>Cuando</b> evalúa el ambiente,<br> 
+      <b>Entonces</b> no realiza ninguna acción automática.</span></td>
     </tr>
     <tr>
       <td>E3-HU010</td>
-      <td>Evaluación de múltiples variables</td>
-      <td>Como usuario de AirQ, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.</td>
+      <td>Evaluación multivariable con Machine Learning</td>
+      <td>Como usuario de AirQ, quiero que el sistema analice múltiples variables mediante modelos de Machine Learning, para tomar decisiones más precisas y contextuales sobre el control del ambiente.</td>
       <td><span>- Escenario 1: Evaluación combinada<br> 
-      <b>Dado</b> que existen múltiples datos de sensores,<br> 
-      <b>Cuando</b> el sistema analiza el ambiente,<br> 
-      <b>Entonces</b> toma decisiones basadas en la combinación de variables.</span><br><br> 
+      <b>Dado</b> que existen múltiples variables (CO₂, temperatura, humedad, PM2.5),<br> 
+      <b>Cuando</b> el modelo analiza los datos,<br> 
+      <b>Entonces</b> toma decisiones considerando la relación entre todas las variables.</span><br><br> 
       <span>- Escenario 2: Consistencia en decisiones<br> 
-      <b>Dado</b> que los valores cambian,<br> 
+      <b>Dado</b> que las condiciones cambian constantemente,<br> 
       <b>Cuando</b> el sistema evalúa continuamente,<br> 
-      <b>Entonces</b> mantiene decisiones coherentes con las condiciones del ambiente.</span></td>
+      <b>Entonces</b> mantiene decisiones coherentes con el contexto del ambiente.</span></td>
+    </tr>
+    <tr>
+      <td>E5-HU021</td>
+      <td>Predicción de calidad del aire</td>
+      <td>Como usuario de AirQ, quiero visualizar predicciones futuras de la calidad del aire, para anticiparme a posibles problemas en el ambiente.</td>
+      <td><span>- Escenario 1: Predicción disponible<br>
+      <b>Dado</b> que el modelo tiene datos suficientes,<br>
+      <b>Cuando</b> el usuario accede al dashboard,<br>
+      <b>Entonces</b> visualiza predicciones futuras del ambiente.</span><br><br>
+      <span>- Escenario 2: Visualización clara<br>
+      <b>Dado</b> que existen predicciones,<br>
+      <b>Cuando</b> se muestran en pantalla,<br>
+      <b>Entonces</b> se presentan de forma comprensible (gráficas o indicadores).</span></td>
+    </tr>
+    <tr>
+      <td colspan="4">EPIC-6: Gestión y Evolución del Modelo de Machine Learning</td>
     </tr>
     <tr>
       <td>E3-HU011</td>
       <td>Mejora continua del modelo</td>
-      <td>Como usuario de AirQ, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.</td>
-      <td><span>- Escenario 1: Uso de datos históricos<br> 
-      <b>Dado</b> que el sistema acumula datos,<br> 
-      <b>Cuando</b> el modelo se actualiza,<br> 
-      <b>Entonces</b> mejora la precisión en la toma de decisiones.</span></td>
+      <td>Como usuario de AirQ, quiero que el modelo de Machine Learning aprenda continuamente a partir de datos históricos y patrones de uso, para mejorar la precisión de las decisiones automatizadas.</td>
+      <td><span>- Escenario 1: Aprendizaje con datos históricos<br> 
+      <b>Dado</b> que el sistema acumula datos de sensores,<br> 
+      <b>Cuando</b> el modelo se reentrena,<br> 
+      <b>Entonces</b> mejora su precisión en la toma de decisiones.</span><br><br>
+      <span>- Escenario 2: Adaptación al entorno<br> 
+      <b>Dado</b> que el ambiente tiene patrones específicos,<br> 
+      <b>Cuando</b> el modelo analiza estos patrones,<br> 
+      <b>Entonces</b> ajusta su comportamiento automáticamente.</span></td>
     </tr>
     <tr>
-      <td colspan="4">EPIC-4: Analítica y Notificaciones</td>
+      <td>HU020</td>
+      <td>Entrenamiento del modelo de Machine Learning</td>
+      <td>Como sistema AirQ, quiero entrenar modelos de Machine Learning utilizando datos históricos de calidad de aire, para mejorar la capacidad de predicción y automatización.</td>
+      <td> <span>- Escenario 1: Entrenamiento exitoso<br>
+      <b>Dado</b> que existen datos históricos suficientes,<br>
+      <b>Cuando</b> se ejecuta el proceso de entrenamiento,<br>
+      <b>Entonces</b> el modelo se actualiza correctamente.</span><br><br>
+      <span>- Escenario 2: Datos insuficientes<br>
+      <b>Dado</b> que no hay suficientes datos,<br>
+      <b>Cuando</b> se intenta entrenar el modelo,<br>
+      <b>Entonces</b> el sistema indica que no es posible realizar el entrenamiento.</span></td>
+    </tr>
+    <tr>
+      <td>HU022</td>
+      <td>Configuración del modelo de Machine Learning</td>
+      <td>Como usuario avanzado de AirQ, quiero ajustar los niveles de sensibilidad del modelo de Machine Learning, para adaptar el comportamiento del sistema a diferentes contextos.</td>
+      <td><span>- Escenario 1: Ajuste de sensibilidad<br>
+      <b>Dado</b> que el usuario accede a configuración,<br>
+      <b>Cuando</b> modifica parámetros del modelo,<br>
+      <b>Entonces</b> el sistema guarda los cambios correctamente.</span><br><br>
+      <span>- Escenario 2: Aplicación de cambios<br>
+      <b>Dado</b> que se ajustaron parámetros,<br>
+      <b>Cuando</b> el sistema opera,<br>
+      <b>Entonces</b> el modelo responde según la nueva configuración.</span></td>
+    </tr>
+    <tr>
+      <td colspan="4">EPIC-7: Explicabilidad y Comunicación Inteligente</td>
+    </tr>
+    <tr>
+      <td>E4-HU013</td>
+      <td>Notificaciones inteligentes basadas en ML</td>
+      <td>Como usuario de AirQ, quiero recibir notificaciones inteligentes generadas por el modelo de Machine Learning, para entender las acciones automatizadas y el estado del ambiente sin necesidad de monitoreo constante.</td>
+      <td><span>- Escenario 1: Notificación por acción automática<br> 
+      <b>Dado</b> que el modelo ejecuta una acción,<br> 
+      <b>Cuando</b> ocurre un evento relevante,<br> 
+      <b>Entonces</b> el usuario recibe una notificación con la acción y su motivo.</span><br><br>
+      <span>- Escenario 2: Normalización del ambiente<br> 
+      <b>Dado</b> que el ambiente vuelve a condiciones óptimas,<br> 
+      <b>Cuando</b> el sistema lo detecta,<br> 
+      <b>Entonces</b> notifica al usuario.</span><br><br></td>
+    </tr>
+    <tr>
+      <td>HU023</td>
+      <td>Explicabilidad del modelo (transparencia)</td>
+      <td>Como usuario de AirQ, quiero entender por qué el sistema tomó ciertas decisiones automáticas, para confiar en el comportamiento del modelo de Machine Learning.</td>
+      <td><span>- Escenario 1: Explicación de decisiones<br>
+      <b>Dado</b> que el sistema ejecuta una acción automática,<br>
+      <b>Cuando</b> el usuario consulta el detalle,<br>
+      <b>Entonces</b> visualiza la razón de la decisión (variables y condiciones).</span><br><br>
+      <span>- Escenario 2: Acceso a información<br>
+      <b>Dado</b> que el usuario está en el dashboard,<br>
+      <b>Cuando</b> selecciona una acción pasada,<br>
+      <b>Entonces</b> puede ver la explicación asociada.</span></td>
+    </tr>
+    <tr>
+      <td colspan="4">EPIC-8: Reportes y Soporte a la Toma de Decisiones</td>
     </tr>
     <tr>
       <td>E4-HU012</td>
@@ -1984,73 +2065,10 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Entonces</b> se muestra “Datos insuficientes para análisis” y no se calculan métricas agregadas.</span> </td>
     </tr>
     <tr>
-      <td>E4-HU013</td>
-      <td>Notificaciones inteligentes de calidad del aire</td>
-      <td>Como usuario de AirQ, quiero recibir notificaciones inteligentes sobre la calidad del aire y las acciones ejecutadas automáticamente por el sistema basado en Machine Learning, para mantenerme informado del estado de mi ambiente sin necesidad de intervenir constantemente.</td>
-      <td><span>- Escenario 1: Notificación por acción automática<br> 
-      <b>Dado</b> que el sistema detecta un nivel alto de contaminantes,<br> 
-      <b>Cuando</b> el modelo de Machine Learning ejecuta una acción (ej. encender ventilación),<br> 
-      <b>Entonces</b> el usuario recibe una notificación indicando la acción realizada y el motivo.</span><br><br>
-      <span>- Escenario 2: Retorno a condiciones normales<br> 
-      <b>Dado</b> que el ambiente vuelve a niveles seguros,<br> 
-      <b>Cuando</b> el sistema detecta estabilidad en los valores,<br> 
-      <b>Entonces</b> el usuario recibe una notificación indicando que la calidad del aire se ha normalizado.</span><br><br>
-      <span>- Escenario 3: Preferencias de notificación<br> 
-      <b>Dado</b> que el usuario configura sus preferencias,<br> 
-      <b>Cuando</b> ocurra un evento de calidad del aire o acción automática,<br> 
-      <b>Entonces</b> el sistema respeta sus configuraciones de notificación.</span><br><br>
-      <span>- Escenario 4: Control de notificaciones repetidas<br> 
-      <b>Dado</b> que múltiples eventos similares ocurren en corto tiempo,<br> 
-      <b>Cuando</b> el sistema genera notificaciones,<br> 
-      <b>Entonces</b> evita el envío de notificaciones duplicadas y agrupa los eventos relevantes.</span> </td>
+      <td colspan="4">EPIC-9: Gestión Comercial y Servicios</td>
     </tr>
     <tr>
-      <td colspan="4">EPIC-5: Soporte al Usuario</td>
-    </tr>
-    <tr>
-      <td>E5-HU014</td>
-      <td>Chat con soporte</td>
-      <td>Como usuario de AirQ, deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.</td>
-      <td><span>- Escenario 1: Acceso al chat exitoso<br>
-      <b>Dado</b> que el usuario se encuentra en la pantalla principal,<br>
-      <b>Cuando</b> haga clic en el botón “Soporte”,<br>
-      <b>Entonces</b> se abrirá la ventana de chat que le permite enviar y recibir mensajes con soporte.</span><br><br>
-      <span>- Escenario 2: Acceso fallido<br>
-      <b>Dado</b> que el servicio de chat no está disponible,<br>
-      <b>Cuando</b> el usuario intente abrirlo,<br>
-      <b>Entonces</b> el sistema mostrará un mensaje indicando “El chat no está disponible en este momento, inténtelo más tarde”.</span></td>
-    </tr>
-    <tr>
-      <td>E5-HU015</td>
-      <td>FAQ</td>
-      <td>Como usuario de AirQ, quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.</td>
-      <td><span>- Escenario 1: Visualización de preguntas frecuentes<br>
-      <b>Dado</b> que el usuario accede a la sección de FAQ desde el menú,<br>
-      <b>Cuando</b> la página cargue correctamente,<br>
-      <b>Entonces</b> se muestran las preguntas y respuestas disponibles.</span><br><br>
-      <span>- Escenario 2: FAQ no disponible<br>
-      <b>Dado</b> que el sistema tiene un problema de carga de contenido,<br>
-      <b>Cuando</b> el usuario intente acceder,<br>
-      <b>Entonces</b> se mostrará un mensaje de error indicando que “El contenido no está disponible temporalmente”.</span></td>
-    </tr>
-    <tr>
-      <td>E5-HU016</td>
-      <td>Información de soporte</td>
-      <td>Como usuario de AirQ, quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito</td>
-      <td><span>- Escenario 1: Visualización correcta<br>
-      <b>Dado</b> que el usuario accede a la sección de soporte,<br>
-      <b>Cuando</b> se cargue la información,<br>
-      <b>Entonces</b> verá los datos de contacto actualizados de soporte.</span><br><br>
-      <span>- Escenario 2: Información no disponible<br>
-      <b>Dado</b> que el sistema no puede recuperar los datos,<br>
-      <b>Cuando</b> el usuario ingrese a soporte,<br>
-      <b>Entonces</b> se mostrará un mensaje indicando “La información de soporte no está disponible en este momento”.</span></td>
-    </tr>
-    <tr>
-      <td colspan="4">EPIC-6: Pagos y Suscripciones</td>
-    </tr>
-    <tr>
-      <td>E6-HU017</td>
+      <td>E6-HU016</td>
       <td>Pasarela de pago</td>
       <td>Como usuario de AirQ, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.</td>
       <td><span>- Escenario 1: Acceso a pasarela<br>
@@ -2063,7 +2081,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Entonces</b> recibirá un comprobante de pago válido.</span></td>
     </tr>
     <tr>
-      <td>E6-HU018</td>
+      <td>E6-HU017</td>
       <td>Visualización del estado del servicio</td>
       <td>Como usuario de AirQ, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.</td>
       <td><span>- Escenario 1: Servicio activo<br>
@@ -2086,7 +2104,7 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Entonces</b> el sistema muestra un mensaje indicando que la información no está disponible temporalmente.</span></td>
     </tr>
     <tr>
-      <td>E6-HU020</td>
+      <td>E6-HU019</td>
       <td>Historial de pagos</td>
       <td>Como usuario de AirQ, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.</td>
       <td><span>- Escenario 1: Acceso a historial<br>
@@ -2097,6 +2115,35 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
       <b>Dado</b> que el usuario consulta una transacción,<br>
       <b>Cuando</b> seleccione un registro,<br>
       <b>Entonces</b> visualizará la fecha, monto, método de pago y estado de la operación.</span></td>
+    </tr>
+    <tr>
+      <td colspan="4">EPIC-10: Soporte y Atención al Usuario</td>
+    </tr>
+    <tr>
+      <td>E5-HU014</td>
+      <td>FAQ</td>
+      <td>Como usuario de AirQ, quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.</td>
+      <td><span>- Escenario 1: Visualización de preguntas frecuentes<br>
+      <b>Dado</b> que el usuario accede a la sección de FAQ desde el menú,<br>
+      <b>Cuando</b> la página cargue correctamente,<br>
+      <b>Entonces</b> se muestran las preguntas y respuestas disponibles.</span><br><br>
+      <span>- Escenario 2: FAQ no disponible<br>
+      <b>Dado</b> que el sistema tiene un problema de carga de contenido,<br>
+      <b>Cuando</b> el usuario intente acceder,<br>
+      <b>Entonces</b> se mostrará un mensaje de error indicando que “El contenido no está disponible temporalmente”.</span></td>
+    </tr>
+    <tr>
+      <td>E5-HU015</td>
+      <td>Información de soporte</td>
+      <td>Como usuario de AirQ, quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito</td>
+      <td><span>- Escenario 1: Visualización correcta<br>
+      <b>Dado</b> que el usuario accede a la sección de soporte,<br>
+      <b>Cuando</b> se cargue la información,<br>
+      <b>Entonces</b> verá los datos de contacto actualizados de soporte.</span><br><br>
+      <span>- Escenario 2: Información no disponible<br>
+      <b>Dado</b> que el sistema no puede recuperar los datos,<br>
+      <b>Cuando</b> el usuario ingrese a soporte,<br>
+      <b>Entonces</b> se mostrará un mensaje indicando “La información de soporte no está disponible en este momento”.</span></td>
     </tr>
   </thead>
 </table>
@@ -2116,32 +2163,32 @@ Espacios en los que la calidad del aire está regulada y monitoreada constanteme
 
 ## 3.4. Product Backlog
 
-
-
-| Orden| User Story / Technical Story Id  | Título             | Descripción                                                                | Story Points|
-|------|-----------------|-------------------------------------|----------------------------------------------------------------------------|-------------|
-| 1    | E1-HU001        | Registro de usuario                 |Como nuevo usuario de AirQ, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma.| 3           |
-| 2    | E1-HU002        | Inicio de sesión                    |Como usuario registrado de AirQ, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura| 3           |
-| 3    | E6-HU017        | Pasarela de pago                    |Como usuario de AirQ, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable.| 8           |
-| 4    | E6-HU018        | Estado del servicio                 |Como usuario de AirQ, quiero visualizar el estado de mi servicio asociado al dispositivo, para saber si se encuentra activo y funcionando correctamente.| 3           |
-| 5    | E2-HU004        | Recepción de datos del sensor       |Como usuario de AirQ, quiero que el sistema reciba y registre datos de los sensores, para asegurar que la información esté disponible y sea confiable en la plataforma.| 5           |
-| 6    | E2-HU005        | Visualización en tiempo real        |Como usuario de AirQ, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente.| 8           |
-| 7    | E2-HU006        | Manejo de desconexión               |Como usuario de AirQ, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables.| 5           |
-| 8    | E3-HU009        | Activación automática               |Como usuario de AirQ, quiero que el sistema active automáticamente dispositivos (ventilador, extractor) cuando la calidad del aire sea mala, para mantener condiciones adecuadas sin intervención manual.| 8           |
-| 9    | E3-HU008        | Control manual                      |Como usuario de AirQ, quiero poder activar manualmente los actuadores (ventilador, extractor), para intervenir en el control del ambiente cuando lo considere necesario, incluso si el sistema automático basado en Machine Learning está activo.| 5           |
-| 10   | E3-HU010        | Evaluación de múltiples variables   |Como usuario de AirQ, quiero que el sistema considere múltiples variables (CO₂, PM2.5, temperatura, humedad), para tomar decisiones más precisas sobre el control del ambiente.| 8           |
-| 11   | E3-HU011        | Mejora del modelo                   |Como usuario de AirQ, quiero que el sistema ajuste sus decisiones automáticamente con el tiempo, para que el control del ambiente sea cada vez más preciso.| 8           |
-| 12   | E2-HU007        | Historial de mediciones             |Como usuario de AirQ, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo.| 5           |
-| 13   | E4-HU012        | Reportes periódicos                 |Como usuario de AirQ, quiero recibir reportes con una frecuencia (diaria/semanal/mensual) que incluyan métricas y tendencias, para tomar decisiones informadas sobre salud y confort.| 8           |
-| 14   | E4-HU013        | Notificaciones inteligentes         |Como usuario de AirQ, quiero recibir notificaciones inteligentes sobre la calidad del aire y las acciones ejecutadas automáticamente por el sistema basado en Machine Learning, para mantenerme informado del estado de mi ambiente sin necesidad de intervenir constantemente.| 5           |
-| 15   | E1-HU003        | Gestión de perfil                   |Como usuario autenticado de AirQ, quiero ver y editar mi información de perfil, para mantener mis datos actualizados| 5           |
-| 16   | E6-HU020        | Historial de pagos                  |Como usuario de AirQ, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas en la plataforma.| 3           |
-| 17   | E1-HU019        | Gestión de roles                    |Como administrador, quiero asignar y gestionar roles de usuario, para controlar el acceso a funcionalidades como monitoreo, configuración del sistema y gestión de dispositivos IoT.| 5           |
-| 18   | E5-HU014        | Chat con soporte                    |Como usuario de AirQ, deseo poder acceder a una ventana de chat con personal de soporte para consultas personalizadas relacionadas con el dispositivo, para resolver dudas y solicitar apoyo en caso de averías.| 5           |
-| 19   | E5-HU015        | FAQ                                 |Como usuario de AirQ, quiero acceder a una sección de preguntas frecuentes (FAQ), para resolver dudas comunes sin necesidad de contactar soporte.| 2           |
-| 20   | E5-HU016        | Información de soporte              |Como usuariode AirQ, quiero visualizar la información de contacto del soporte (teléfono, correo, horarios de atención), para comunicarme de manera directa si lo necesito.| 1           |
-
-
+| Orden | User Story / Technical Story Id | Título | Descripción | Story Points |
+| ----- | ------------------------------- | ------ | ----------- | ------------ |
+|   1   | HU001       | Registro de usuario                 | Como nuevo usuario de AirQ, quiero registrarme con mis datos personales y correo electrónico para poder crear una cuenta y acceder a la plataforma. | 3 |
+|   2   | HU002       | Inicio de sesión                    | Como usuario registrado de AirQ, quiero iniciar sesión con mi correo y contraseña, para acceder a mi cuenta de forma segura. | 3 |
+|   3   | HU004       | Recepción de datos del sensor       | Como usuario de AirQ, quiero que el sistema reciba y registre datos de los sensores, para asegurar que la información esté disponible y sea confiable en la plataforma. | 5 |
+|   4   | HU005       | Visualización en tiempo real        | Como usuario de AirQ, quiero visualizar los datos de calidad de aire en tiempo real en el dashboard, para monitorear el estado del ambiente. | 8 |
+|   5   | HU006       | Manejo de desconexión del sensor    | Como usuario de AirQ, quiero ser informado cuando un sensor pierde conexión, para saber cuándo los datos pueden no ser confiables. | 5 |
+|   6   | HU008       | Control manual de dispositivos      | Como usuario de AirQ, quiero poder activar manualmente los actuadores, para intervenir en el control del ambiente cuando lo considere necesario. | 5 |
+|   7   | HU003       | Gestión de perfil de usuario        | Como usuario autenticado de AirQ, quiero ver y editar mi información de perfil, para mantener mis datos actualizados. | 5 |
+|   8   | HU007       | Consulta de historial de mediciones | Como usuario de AirQ, quiero consultar el historial de mediciones de calidad de aire, para analizar el comportamiento del ambiente en el tiempo. | 5 |
+|   9   | HU012       | Reportes periódicos                 | Como usuario de AirQ, quiero recibir reportes con una frecuencia definida que incluyan métricas y tendencias, para tomar decisiones informadas sobre salud y confort. | 8 |
+|  10   | HU013       | Notificaciones inteligentes         | Como usuario de AirQ, quiero recibir notificaciones inteligentes generadas por el modelo de Machine Learning, para entender las acciones automatizadas y el estado del ambiente. | 5 |
+|  11   | HU018       | Gestión de roles                    | Como administrador, quiero asignar y gestionar roles de usuario, para controlar el acceso a funcionalidades del sistema. | 5 |
+|  12   | HU009       | Activación automática inteligente   | Como usuario de AirQ, quiero que el sistema utilice modelos de Machine Learning para activar dispositivos automáticamente, para prevenir condiciones perjudiciales del ambiente. | 8 |
+|  13   | HU010       | Evaluación multivariable con ML     | Como usuario de AirQ, quiero que el sistema analice múltiples variables mediante Machine Learning, para tomar decisiones más precisas sobre el ambiente. | 8 |
+|  14   | HU021       | Predicción de calidad del aire      | Como usuario de AirQ, quiero visualizar predicciones futuras de la calidad del aire, para anticiparme a posibles problemas en el ambiente. | 8 |
+|  15   | HU020       | Entrenamiento del modelo ML         | Como sistema AirQ, quiero entrenar modelos de Machine Learning utilizando datos históricos, para mejorar la capacidad de predicción. | 8 |
+|  16   | HU011       | Mejora continua del modelo          | Como usuario de AirQ, quiero que el modelo de Machine Learning aprenda continuamente, para mejorar la precisión de las decisiones automatizadas. | 8 |
+|  17   | HU022       | Configuración del modelo ML         | Como usuario avanzado de AirQ, quiero ajustar los niveles de sensibilidad del modelo, para adaptar el comportamiento del sistema a diferentes contextos. | 5 |
+|  18   | HU023       | Explicabilidad del modelo           | Como usuario de AirQ, quiero entender por qué el sistema tomó decisiones automáticas, para confiar en el comportamiento del modelo. | 5 |
+|  19   | HU016       | Pasarela de pago                    | Como usuario de AirQ, quiero realizar mis pagos a través de una pasarela segura, para completar mis compras o suscripciones de manera confiable. | 8 |
+|  20   | HU017       | Lista de suscripciones              | Como usuario de AirQ, quiero visualizar el estado de mi servicio, para saber si se encuentra activo y funcionando correctamente. | 3 |
+|  21   | HU019       | Historial de pagos                  | Como usuario de AirQ, quiero visualizar mi historial de pagos, para llevar un control de mis transacciones realizadas. | 3 |
+|  22   | HU014       | FAQ                                 | Como usuario de AirQ, quiero acceder a una sección de preguntas frecuentes, para resolver dudas comunes sin contactar soporte. | 2 |
+|  23   | HU015       | Información de soporte              | Como usuario de AirQ, quiero visualizar la información de contacto del soporte, para comunicarme de manera directa si lo necesito. | 1 |
+  
 
 ---
 

@@ -513,7 +513,7 @@ Dentro de este marco, se desarrolla **AirQ**, un sistema que permite el monitore
 </tr>
 
 <tr>
-<td><img src="https://via.placeholder.com/100" width="300"></td>
+<td><img src="assets/Chapter1/erick.png" width="300></td>
 <td>Erick Armando Cueva Elera</td>
 <td>U201910151</td>
 <td>Estudiante enfocado en arquitectura de software, diseño de sistemas escalables y aplicación de patrones como Domain-Driven Design (DDD) y Attribute-Driven Design (ADD).</td>
